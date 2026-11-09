@@ -1,0 +1,83 @@
+{
+  "version": "1.0",
+  "reviewed_records": 10,
+  "rules": [
+    {
+      "key": "kandy_mc_missing_area",
+      "match": {
+        "area_name": null,
+        "district": "Kandy",
+        "email_contains": "kandymcsec@gmail.com"
+      },
+      "target_geography_id": "central__kandy__11__kandy_mc",
+      "decision": "approved"
+    },
+    {
+      "key": "minipe_district_correction",
+      "match": {
+        "area_name": "Minipe"
+      },
+      "target_geography_id": "central__kandy__37__minipe_ps",
+      "decision": "approved"
+    },
+    {
+      "key": "nuwaragam_palatha_central_district_correction",
+      "match": {
+        "area_name": "Central Nuwaragampalatha"
+      },
+      "target_geography_id": "north_central__anuradhapura__41__nuwaragam_palatha_central_ps",
+      "decision": "approved"
+    },
+    {
+      "key": "walapane_district_correction",
+      "match": {
+        "area_name": "Walapane"
+      },
+      "target_geography_id": "central__nuwara_eliya__35__walapane_ps",
+      "decision": "approved"
+    },
+    {
+      "key": "manthai_east_district_correction",
+      "match": {
+        "area_name": "Manthai East"
+      },
+      "target_geography_id": "northern__mullaitivu__41__manthai_east_ps",
+      "decision": "approved"
+    },
+    {
+      "key": "vavuniya_type_upgrade",
+      "match": {
+        "area_name": "Vavuniya",
+        "la_type": "urban_council"
+      },
+      "target_geography_id": "northern__vavuniya__11__vavuniya_mc",
+      "decision": "approved_with_type_upgrade"
+    },
+    {
+      "key": "puttalam_type_upgrade",
+      "match": {
+        "area_name": "Puttalam",
+        "la_type": "urban_council"
+      },
+      "target_geography_id": "north_western__puttalam__11__puttalam_mc",
+      "decision": "approved_with_type_upgrade"
+    },
+    {
+      "key": "padavi_sripura_district_correction",
+      "match": {
+        "area_name": "Padavi Sripura"
+      },
+      "target_geography_id": "eastern__trincomalee__37__padavi_sri_pura_ps",
+      "decision": "approved"
+    },
+    {
+      "key": "kegalle_type_upgrade",
+      "match": {
+        "area_name": "Kegalle",
+        "la_type": "urban_council"
+      },
+      "target_geography_id": "sabaragamuwa__kegalle__11__kegalle_mc",
+      "decision": "approved_with_type_upgrade"
+    }
+  ]
+}

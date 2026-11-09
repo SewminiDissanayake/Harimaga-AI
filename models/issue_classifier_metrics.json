@@ -1,0 +1,31 @@
+{
+  "model_version": 2,
+  "sklearn_version": "1.8.0",
+  "C": 30,
+  "rows": 331,
+  "rows_by_origin": {
+    "developer_v1": 216,
+    "ai_drafted_v2": 106,
+    "ai_drafted_v2_contrast": 9
+  },
+  "rows_by_label": {
+    "environment_issue": 33,
+    "electricity_issue": 31,
+    "water_issue": 30,
+    "garbage_collection": 30,
+    "bus_complaint": 30,
+    "road_issue": 29,
+    "consumer_complaint": 29,
+    "immigration_issue": 29,
+    "unknown_government_issue": 29,
+    "women_child_safety": 23,
+    "disaster_alert": 20,
+    "lost_document": 18
+  },
+  "cv": "repeated stratified 5-fold, 3 repeats",
+  "cv_accuracy_mean": 0.7423940901552842,
+  "cv_accuracy_std": 0.057519900621935266,
+  "cv_macro_f1_mean": 0.7112145117047077,
+  "cv_macro_f1_std": 0.06255607951003216,
+  "note": "Developer-written and AI-drafted examples, not real user queries. See reports/model_evaluation.md for held-out results."
+}

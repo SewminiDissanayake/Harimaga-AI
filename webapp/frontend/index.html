@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#164E3A">
+  <title>HariMaga AI | හරිමග AI</title>
+  <link rel="stylesheet" href="/frontend/harimaga-ui-v8.css">
+</head>
+<body>
+<div class="app-shell">
+
+  <aside class="sidebar">
+    <div class="flag-line"><i></i><i></i><i></i><i></i></div>
+
+    <div class="side-top">
+      <a class="brand" href="/">
+        <img src="/frontend/assets/harimaga-lanka-road-v8.svg" alt="HariMaga AI Sri Lanka guiding road logo">
+        <div>
+          <strong>HariMaga AI</strong>
+          <span>හරිමග AI</span>
+          <small>ඔබේ ගැටලුවට යා යුතු හරිම තැන</small>
+        </div>
+      </a>
+
+      <div class="trust-mini">
+        <span class="trust-check">✓</span>
+        <div>
+          <b>Verified-first routing</b>
+          <small>No invented authority, hotline or link.</small>
+        </div>
+      </div>
+
+      <nav class="service-nav" aria-label="Public service categories">
+        <p class="nav-title">SERVICES</p>
+
+        <button type="button" data-category="road_issue" data-category-label="Roads & Local Issues" data-example="ape pare loku walak thyenawa">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M8 3L5 21M16 3l3 18M12 5v4m0 4v4"/></svg>
+          </span>
+          <span class="service-copy"><b>Roads</b><small>Roads & local issues</small></span>
+        </button>
+
+        <button type="button" data-category="water_issue" data-category-label="Water & Supply" data-example="ape paththe wathura na">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M12 3s-6 7-6 11a6 6 0 0 0 12 0c0-4-6-11-6-11Z"/></svg>
+          </span>
+          <span class="service-copy"><b>Water</b><small>Supply & service issues</small></span>
+        </button>
+
+        <button type="button" data-category="electricity_issue" data-category-label="Electricity" data-example="apit current na">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M13 2L6 13h6l-1 9 7-12h-6l1-8Z"/></svg>
+          </span>
+          <span class="service-copy"><b>Electricity</b><small>CEB / LECO routing</small></span>
+        </button>
+
+        <button type="button" data-category="bus_complaint" data-category-label="Bus & Transport" data-example="bus conductor balance dunne na">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="15" rx="3"/><path d="M7 8h10M8 18v3m8-3v3M8 14h.01M16 14h.01"/></svg>
+          </span>
+          <span class="service-copy"><b>Transport</b><small>Bus complaints</small></span>
+        </button>
+
+        <button type="button" data-category="consumer_complaint" data-category-label="Consumer Protection" data-example="shop eken broken item ekak dunna">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M6 3h12v18l-3-2-3 2-3-2-3 2V3Z"/><path d="M9 8h6M9 12h6"/></svg>
+          </span>
+          <span class="service-copy"><b>Consumer</b><small>Products & services</small></span>
+        </button>
+
+        <button type="button" data-category="garbage_collection" data-category-label="Garbage & Environment" data-example="kunu geniyanne na">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M12 21c5-3 7-8 6-15-7-1-12 1-15 6 3 5 5 7 9 9Z"/><path d="M7 16c3-4 6-6 10-8"/></svg>
+          </span>
+          <span class="service-copy"><b>Environment</b><small>Garbage & environment</small></span>
+        </button>
+
+        <button type="button" data-category="lost_document" data-category-label="Lost Documents" data-example="mage id ek nathi una">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M13 10h4M13 14h4M7 16h4"/></svg>
+          </span>
+          <span class="service-copy"><b>Documents</b><small>Lost official documents</small></span>
+        </button>
+
+        <button type="button" data-category="women_child_safety" data-category-label="Women & Child Safety" data-example="mwa follow kranawa">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6l7-3Z"/><path d="M9 12l2 2 4-5"/></svg>
+          </span>
+          <span class="service-copy"><b>Safety</b><small>Women & child safety</small></span>
+        </button>
+
+        <button type="button" data-category="disaster_alert" data-category-label="Disaster Alerts" data-example="ape paththe flood wela">
+          <span class="service-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M12 3L2.8 20h18.4L12 3Z"/><path d="M12 9v5m0 3h.01"/></svg>
+          </span>
+          <span class="service-copy"><b>Disaster</b><small>Flood & landslide</small></span>
+        </button>
+      </nav>
+    </div>
+
+    <div class="side-bottom">
+      <div class="privacy-side">
+        <span>🔒</span>
+        <div>
+          <b>No identity profile</b>
+          <small>No name, phone, email or chat history is stored.</small>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="hero">
+      <img class="hero-bg" src="/frontend/assets/sri-lanka-coast-v8.svg" alt="">
+      <div class="hero-overlay"></div>
+      <div class="hero-copy">
+        <span class="eyebrow">SRI LANKAN PUBLIC-SERVICE GUIDANCE</span>
+        <h1>ප්‍රශ්නය කියන්න.<br><em>යන මග අපි පෙන්වන්නම්.</em></h1>
+        <p>Describe the real problem in Sinhala, English or Singlish. HariMaga asks only what it needs and guides you to the right verified authority.</p>
+        <div class="route-steps">
+          <span>01 · Problem</span><i></i><span>02 · Clarify</span><i></i><span>03 · Authority</span><i></i><span>04 · Action</span>
+        </div>
+      </div>
+      <div class="hero-logo">
+        <img src="/frontend/assets/harimaga-lanka-road-v8.svg" alt="">
+        <b>හරිමග AI</b>
+        <small>Our island. Your route.</small>
+      </div>
+    </header>
+
+    <section class="quick-services" aria-label="Quick service selection">
+      <button type="button" data-category="road_issue" data-category-label="Roads & Local Issues" data-example="ape pare loku walak thyenawa">
+        <span class="quick-icon"><svg viewBox="0 0 24 24"><path d="M8 3L5 21M16 3l3 18M12 5v4m0 4v4"/></svg></span><span><b>Roads</b><small>Select service</small></span>
+      </button>
+      <button type="button" data-category="water_issue" data-category-label="Water & Supply" data-example="ape paththe wathura na">
+        <span class="quick-icon"><svg viewBox="0 0 24 24"><path d="M12 3s-6 7-6 11a6 6 0 0 0 12 0c0-4-6-11-6-11Z"/></svg></span><span><b>Water</b><small>Select service</small></span>
+      </button>
+      <button type="button" data-category="electricity_issue" data-category-label="Electricity" data-example="apit current na">
+        <span class="quick-icon"><svg viewBox="0 0 24 24"><path d="M13 2L6 13h6l-1 9 7-12h-6l1-8Z"/></svg></span><span><b>Electricity</b><small>Select service</small></span>
+      </button>
+      <button type="button" data-category="bus_complaint" data-category-label="Bus & Transport" data-example="bus conductor balance dunne na">
+        <span class="quick-icon"><svg viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="15" rx="3"/><path d="M7 8h10M8 18v3m8-3v3M8 14h.01M16 14h.01"/></svg></span><span><b>Transport</b><small>Select service</small></span>
+      </button>
+      <button type="button" data-category="women_child_safety" data-category-label="Women & Child Safety" data-example="mwa follow kranawa">
+        <span class="quick-icon"><svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6l7-3Z"/><path d="M9 12l2 2 4-5"/></svg></span><span><b>Safety</b><small>Select service</small></span>
+      </button>
+      <button type="button" data-category="disaster_alert" data-category-label="Disaster Alerts" data-example="ape paththe flood wela">
+        <span class="quick-icon"><svg viewBox="0 0 24 24"><path d="M12 3L2.8 20h18.4L12 3Z"/><path d="M12 9v5m0 3h.01"/></svg></span><span><b>Disaster</b><small>Select service</small></span>
+      </button>
+    </section>
+
+    <section class="workspace-grid">
+      <section class="chat-card">
+        <div class="chat-head">
+          <div class="assistant-id">
+            <div class="assistant-mark"><img src="/frontend/assets/harimaga-lanka-road-v8.svg" alt=""></div>
+            <div>
+              <b>HariMaga Guide</b>
+              <span><i></i> Verified routing assistant</span>
+            </div>
+          </div>
+          <button id="newBtn" class="new-btn" type="button">＋ New request</button>
+        </div>
+
+        <div id="stepper" class="stepper">
+          <div class="step active" data-step="1"><span>1</span><b>Understand</b></div>
+          <div class="step-line"></div>
+          <div class="step" data-step="2"><span>2</span><b>Clarify</b></div>
+          <div class="step-line"></div>
+          <div class="step" data-step="3"><span>3</span><b>Route</b></div>
+          <div class="step-line"></div>
+          <div class="step" data-step="4"><span>4</span><b>Prepare</b></div>
+        </div>
+
+        <div id="conversation" class="conversation" aria-live="polite">
+          <div class="message assistant">
+            <div class="msg-avatar"><img src="/frontend/assets/harimaga-lanka-road-v8.svg" alt=""></div>
+            <div class="bubble">
+              <div class="msg-name">HariMaga Guide</div>
+              <p>ඔයාගේ ඇත්ත ප්‍රශ්නය ඔයාට පහසු විදිහට TYPE කරන්න. SERVICE  එක SELECT කරන්න.හරිමඟ අපි ඔබත් සමඟමයි</p>
+              <div class="example-row">
+                <button type="button" data-fill="ape pare loku walak thyenawa">Try road example</button>
+                <button type="button" data-fill="mage id ek nathi una">Try lost-document example</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="choiceArea" class="choice-area hidden"></div>
+
+        <div id="selectedServiceBar" class="selected-service hidden">
+          <span id="selectedServiceText"></span>
+          <button id="clearSelectedService" type="button">×</button>
+        </div>
+
+        <div class="privacy-promise">
+          <span class="privacy-icon">🔒</span>
+          <div>
+            <b>Private by design</b>
+            <small>No account, name, phone, email or chat history is saved. Optional evidence uses a random request ID and auto-deletes after 24 hours.</small>
+          </div>
+          <span class="ttl">24h evidence</span>
+        </div>
+
+        <div class="evidence-toolbar">
+          <button id="evidenceToolbarBtn" type="button">＋ Choose photo / PDF</button>
+          <button id="sendEvidenceBtn" type="button" class="evidence-send hidden">Attach selected evidence</button>
+          <span id="evidenceUploadStatus">No evidence attached</span>
+        </div>
+
+        <section id="pendingEvidenceTray" class="evidence-tray pending hidden">
+          <div class="evidence-head">
+            <div><b>Selected — not attached yet</b><span>Review before attaching.</span></div>
+            <span id="pendingEvidenceCount">0 selected</span>
+          </div>
+          <div id="pendingEvidenceList" class="evidence-list"></div>
+        </section>
+
+        <section id="evidenceTray" class="evidence-tray hidden">
+          <div class="evidence-head">
+            <div><b>Attached to this request ✓</b><span>Images are metadata-cleaned in the browser where supported.</span></div>
+            <span id="evidenceCount">0 / 6</span>
+          </div>
+          <div id="evidenceList" class="evidence-list"></div>
+        </section>
+
+        <input id="evidenceInput" type="file" accept=".jpg,.jpeg,.jfif,.png,.webp,.pdf,image/jpeg,image/png,image/webp,application/pdf" multiple hidden>
+
+        <form id="composer" class="composer">
+          <button id="attachBtn" type="button" class="attach-btn" title="Add evidence">＋</button>
+          <textarea id="input" rows="1" placeholder="Type your actual problem here..."></textarea>
+          <button id="sendBtn" class="send-btn" type="submit"><span>Send</span><b>➜</b></button>
+        </form>
+
+        <div class="status-line">
+          <span id="statusDot" class="status-dot"></span>
+          <span id="backendStatus">Checking HariMaga backend…</span>
+        </div>
+      </section>
+
+      <aside class="info-rail">
+        <section class="island-card">
+          <div class="rail-title">
+            <span>THE HARIMAGA IDEA</span>
+            <h3>Our island.<br>One clearer route.</h3>
+          </div>
+          <div class="map-visual">
+            <img src="/frontend/assets/harimaga-lanka-road-v8.svg" alt="Sri Lanka with a guiding road">
+            <span class="sea-label">Indian Ocean</span>
+            <span class="land-label">Sri Lanka</span>
+          </div>
+          <div class="journey">
+            <span>Problem</span><i></i><span>Jurisdiction</span><i></i><span>Authority</span><i></i><span>Action</span>
+          </div>
+        </section>
+
+        <section class="trust-card">
+          <div class="rail-title">
+            <span>TRUST RULES</span>
+            <h3>HariMaga does not guess.</h3>
+          </div>
+          <ul>
+            <li><b>✓</b><span>Verified authority/contact first</span></li>
+            <li><b>✓</b><span>Asks when jurisdiction is missing</span></li>
+            <li><b>✓</b><span>No invented live disaster warning</span></li>
+            <li><b>✓</b><span>No private identity profile</span></li>
+          </ul>
+        </section>
+
+        <section class="civic-card">
+          <div class="rail-title">
+            <span>අපේ රට · අපේ වගකීම</span>
+            <h3>Small reminders for a safer Sri Lanka.</h3>
+          </div>
+
+          <div class="civic-grid">
+            <article class="civic-tile water-care">
+              <img src="/frontend/assets/civic-water-v8-2.svg" alt="">
+              <div>
+                <b>ජල සම්පත සුරකිමු.</b>
+                <small>Protect every drop.</small>
+              </div>
+            </article>
+
+            <article class="civic-tile road-care">
+              <img src="/frontend/assets/civic-road-v8-2.svg" alt="">
+              <div>
+                <b>මාර්ග අනතුරු වළකමු.</b>
+                <small>Safer roads, safer journeys.</small>
+              </div>
+            </article>
+
+            <article class="civic-tile safety-care">
+              <img src="/frontend/assets/civic-safety-v8-2.svg" alt="">
+              <div>
+                <b>ළමා හා කාන්තා හිංසනයට එරෙහි වෙමු.</b>
+                <small>Stand against violence.</small>
+              </div>
+            </article>
+
+            <article class="civic-tile disaster-care">
+              <img src="/frontend/assets/civic-disaster-v8-2.svg" alt="">
+              <div>
+                <b>ස්වාභාවික ආපදා සඳහා සූදානම් වෙමු.</b>
+                <small>Be ready. Stay informed.</small>
+              </div>
+            </article>
+          </div>
+        </section>
+      </aside>
+    </section>
+
+    <footer>
+      <span>HariMaga AI · හරිමග AI</span>
+      <span>Problem-to-Authority Router for Sri Lankan Public Services</span>
+    </footer>
+  </main>
+</div>
+
+<div id="draftModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="draftTitle">
+  <div class="modal-backdrop" data-close-draft></div>
+  <section class="modal-card">
+    <div class="modal-head">
+      <div><span>COMPLAINT ASSISTANT</span><h3 id="draftTitle">Prepared complaint draft</h3></div>
+      <button id="closeDraftBtn" type="button">×</button>
+    </div>
+    <p class="modal-note">Review before submitting. Evidence is not automatically transferred into an external government portal.</p>
+    <input id="draftSubject" class="draft-subject" aria-label="Complaint subject">
+    <textarea id="draftBody" class="draft-body" aria-label="Complaint draft"></textarea>
+    <div class="modal-actions">
+      <button id="copyDraftBtn" type="button" class="secondary-action">Copy complaint</button>
+      <button id="doneDraftBtn" type="button" class="primary-action">Done</button>
+    </div>
+  </section>
+</div>
+
+<script src="/frontend/harimaga-ui-v8.js"></script>
+</body>
+</html>

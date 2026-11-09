@@ -1,0 +1,41 @@
+{
+  "dataset": "HariMaga Ukuwela local-road complaint channel patch v1",
+  "verified_on": "2026-10-05",
+  "records": [
+    {
+      "geography_id": "central__matale__39__ukuwela_ps",
+      "authority_name": "Ukuwela PS",
+      "issue_key": "road_issue",
+      "verification_level": "verified_general_complaint_channel",
+      "route_scope": "general_council_complaint_for_verified_local_road_service",
+      "channels": [
+        {
+          "type": "online_complaint_form",
+          "label": "Ukuwela PS official complaint form",
+          "value": "https://ukuwela.ps.gov.lk/en/complain"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Ukuwela Pradeshiya Sabha office",
+          "value": "066 224 4270"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Ukuwela Pradeshiya Sabha secretary",
+          "value": "066 224 3592"
+        },
+        {
+          "type": "authority_email",
+          "label": "Ukuwela Pradeshiya Sabha",
+          "value": "ukuprasabha@yahoo.com"
+        }
+      ],
+      "guidance": "Ukuwela PS explicitly lists road maintenance as a council service for rural roads not controlled by the Road Development Authority or Provincial Road Development Authority. The official complaint form accepts service complaints with location, description and optional evidence. This is kept as a verified general complaint route rather than a dedicated road hotline.",
+      "source_urls": [
+        "https://www.ukuwela.ps.gov.lk/en/services/8",
+        "https://ukuwela.ps.gov.lk/en/complain",
+        "https://cp.gov.lk/web/institutions/?id=69&lang=en"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "dataset": "HariMaga provider issue channels v1",
+  "verified_on": "2026-10-05",
+  "policy": {
+    "rule": "Use only after ComplaintRouter has identified the user's actual service provider. Never assume NWSDB from the issue text alone.",
+    "fallback": "If the provider is not represented here, keep the router result and do not invent a complaint channel."
+  },
+  "records": [
+    {
+      "authority_key": "nwsdb",
+      "authority_name": "National Water Supply and Drainage Board",
+      "aliases": [
+        "NWSDB",
+        "National Water Supply & Drainage Board",
+        "National Water Supply and Drainage Board",
+        "Water Board"
+      ],
+      "issue_key": "water_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "customer_service_and_water_supply_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "NWSDB 24-hour toll-free customer service hotline",
+          "value": "1939"
+        },
+        {
+          "type": "whatsapp_chatbot",
+          "label": "NWSDB WhatsApp ChatBot",
+          "value": "0112044800"
+        },
+        {
+          "type": "email",
+          "label": "NWSDB support email",
+          "value": "support@waterboard.lk"
+        },
+        {
+          "type": "water_interruption_page",
+          "label": "Official water interruption notices",
+          "value": "https://www.waterboard.lk/water-interruptions/"
+        }
+      ],
+      "guidance": "NWSDB's current customer-services page lists the toll-free 1939 hotline as a 24-hour service and provides its WhatsApp chatbot. NWSDB's official material also describes 1939 as the call-centre route for customer complaints and grievances. Use this record only when the user confirms the supply is from NWSDB.",
+      "source_urls": [
+        "https://www.waterboard.lk/si/%E0%B7%80%E0%B6%AD%E0%B7%8A%E0%B6%B8%E0%B6%B1%E0%B7%8A-%E0%B6%B4%E0%B7%8F%E0%B6%BB%E0%B7%92%E0%B6%B7%E0%B7%9D%E0%B6%9C%E0%B7%92%E0%B6%9A%E0%B6%BA%E0%B6%B1%E0%B7%8A/",
+        "https://www.waterboard.lk/contact/",
+        "https://www.waterboard.lk/water-interruptions/"
+      ]
+    },
+    {
+      "authority_key": "ceb",
+      "authority_name": "Ceylon Electricity Board",
+      "aliases": [
+        "CEB",
+        "Ceylon Electricity Board",
+        "Ceylon Electricity Board (CEB)"
+      ],
+      "issue_key": "electricity_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "electricity_complaints_breakdowns_and_outages",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "CEB 24/7 call center",
+          "value": "1987"
+        },
+        {
+          "type": "online_complaint",
+          "label": "CEB online complaint portal",
+          "value": "https://www.ceb.lk/complaints/"
+        },
+        {
+          "type": "outage_information",
+          "label": "CEB power interruption page",
+          "value": "https://www.ceb.lk/power-interruption/en"
+        },
+        {
+          "type": "customer_portal",
+          "label": "CEBCare web portal",
+          "value": "https://pay.ceb.lk/Incognito/Home"
+        }
+      ],
+      "guidance": "CEB's current official contact page lists 1987 as its call center for all electricity-related needs, operating 24 hours a day, seven days a week. CEB also provides an official online complaint form and power-interruption page.",
+      "source_urls": [
+        "https://ceb.lk/contactus/en",
+        "https://www.ceb.lk/complaints/",
+        "https://www.ceb.lk/power-interruption/en",
+        "https://pay.ceb.lk/Incognito/Home"
+      ]
+    },
+    {
+      "authority_key": "leco",
+      "authority_name": "Lanka Electricity Company",
+      "aliases": [
+        "LECO",
+        "Lanka Electricity Company",
+        "Lanka Electricity Company (Private) Limited",
+        "Lanka Electricity Company (Pvt) Ltd"
+      ],
+      "issue_key": "electricity_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "electricity_customer_service_and_outage_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "LECO call center",
+          "value": "1910"
+        },
+        {
+          "type": "telephone",
+          "label": "LECO call center alternate number",
+          "value": "+94 112 425009"
+        }
+      ],
+      "guidance": "LECO's current official InstantPay service identifies its customer call center as 1910 or +94 112 425009. HariMaga should expose these only after the user confirms LECO is the electricity provider.",
+      "source_urls": [
+        "https://ipg.leco.lk/"
+      ]
+    },
+    {
+      "authority_key": "ntc",
+      "authority_name": "National Transport Commission",
+      "aliases": [
+        "NTC",
+        "National Transport Commission",
+        "National Transport Commission Sri Lanka"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "public_bus_service_and_bus_crew_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "NTC public complaints hotline",
+          "value": "1955"
+        },
+        {
+          "type": "complaint_portal",
+          "label": "NTC Complaint Management Portal",
+          "value": "https://cms.ntc.gov.lk/complaint"
+        },
+        {
+          "type": "email",
+          "label": "NTC information/complaints email",
+          "value": "info@ntc.gov.lk"
+        },
+        {
+          "type": "general_complaint_form",
+          "label": "NTC official online complaint form",
+          "value": "https://www.ntc.gov.lk/complaints/complaints.php"
+        }
+      ],
+      "guidance": "NTC's current website lists 1955 as the public complaint hotline and provides a Complaint Management Portal that starts with the bus number. NTC official reports state that inter-provincial complaints are investigated by NTC, intra-provincial complaints are forwarded to the relevant provincial transport authority, and SLTB complaints are forwarded to SLTB Head Office. HariMaga can therefore use NTC as the verified intake route while clearly explaining that the final investigating body depends on the bus/service type.",
+      "source_urls": [
+        "https://www.ntc.gov.lk/",
+        "https://cms.ntc.gov.lk/complaint",
+        "https://www.ntc.gov.lk/corporate/contact_us/contact_head_office.php",
+        "https://www.ntc.gov.lk/complaints/complaints.php"
+      ]
+    },
+    {
+      "authority_key": "sltb",
+      "authority_name": "Sri Lanka Transport Board",
+      "aliases": [
+        "SLTB",
+        "Sri Lanka Transport Board"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "sltb_bus_service_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "SLTB complaint/support hotline",
+          "value": "1958"
+        },
+        {
+          "type": "whatsapp",
+          "label": "SLTB Head Office WhatsApp",
+          "value": "070 300 1958"
+        },
+        {
+          "type": "email",
+          "label": "SLTB general email",
+          "value": "info@sltb.lk"
+        }
+      ],
+      "guidance": "Use for complaints about SLTB-operated buses. HariMaga may also add the district-mapped regional SLTB WhatsApp number.",
+      "source_urls": [
+        "https://www.sltb.lk/"
+      ]
+    },
+    {
+      "authority_key": "western_rpta",
+      "authority_name": "Road Passenger Transport Authority-Western Province",
+      "aliases": [
+        "Western Province Road Passenger Transport Authority",
+        "WPRPTA",
+        "RPTA Western Province"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "online_complaint",
+          "label": "Official complaint form",
+          "value": "https://rpta.wp.gov.lk/index_home.php?lan=e"
+        },
+        {
+          "type": "phone",
+          "label": "Head Office",
+          "value": "0112 860 860"
+        },
+        {
+          "type": "email",
+          "label": "Official email",
+          "value": "rptawp@rpta.wp.gov.lk"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within Western Province.",
+      "source_urls": [
+        "https://rpta.wp.gov.lk/index_home.php?lan=e"
+      ]
+    },
+    {
+      "authority_key": "central_tsa",
+      "authority_name": "Central Province Transport Services Authority",
+      "aliases": [
+        "CPTSA",
+        "Central Province Transport Services Authority",
+        "Central Province Road Passenger Transport Authority"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "Emergency / complaint hotline",
+          "value": "081 2222 229"
+        },
+        {
+          "type": "online_complaint",
+          "label": "Official online complaint",
+          "value": "https://cpserv.slbus.lk/"
+        },
+        {
+          "type": "email",
+          "label": "Official email",
+          "value": "ta.cpclk@gmail.com"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within Central Province.",
+      "source_urls": [
+        "https://tsa.cp.gov.lk/",
+        "https://tsa.cp.gov.lk/contact.php"
+      ]
+    },
+    {
+      "authority_key": "southern_rpta",
+      "authority_name": "Southern Provincial Road Passenger Transport Authority",
+      "aliases": [
+        "SPRPTA",
+        "Southern Province Road Passenger Transport Authority",
+        "Southern Provincial Road Passenger Transport Authority"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "phone",
+          "label": "Public complaints / head office",
+          "value": "+94 91 2234237"
+        },
+        {
+          "type": "phone",
+          "label": "Public complaints alternate",
+          "value": "+94 91 2227073"
+        },
+        {
+          "type": "email",
+          "label": "Head office email",
+          "value": "sprptaho@gmail.com"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within Southern Province.",
+      "source_urls": [
+        "https://www.sprpta.lk/?faq=public-complaints",
+        "https://www.sprpta.lk/?page_id=65"
+      ]
+    },
+    {
+      "authority_key": "north_western_rpta",
+      "authority_name": "North Western Province Road Passenger Transport Authority",
+      "aliases": [
+        "RPTA-NWP",
+        "North Western Road Passenger Transport Authority",
+        "North Western Province Road Passenger Transport Authority"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "complaints_phone",
+          "label": "Complaints",
+          "value": "037 3618000"
+        },
+        {
+          "type": "hotline",
+          "label": "Hotline",
+          "value": "037 2229820 / 037 2229819"
+        },
+        {
+          "type": "email",
+          "label": "Official email",
+          "value": "rptanwp@gmail.com"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within North Western Province.",
+      "source_urls": [
+        "https://www.rpta.nw.gov.lk/",
+        "https://www.rpta.nw.gov.lk/services/otherServises"
+      ]
+    },
+    {
+      "authority_key": "uva_rpta",
+      "authority_name": "Uva Province Road Passenger Transport Authority",
+      "aliases": [
+        "Uva Province Road Passenger Transport Services Authority",
+        "Uva Road Passenger Transport Authority"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "Complaint / emergency hotline",
+          "value": "055 2225015"
+        },
+        {
+          "type": "email",
+          "label": "Official email",
+          "value": "info@ta.up.gov.lk"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within Uva Province.",
+      "source_urls": [
+        "https://ta.up.gov.lk/",
+        "https://ta.up.gov.lk/services"
+      ]
+    },
+    {
+      "authority_key": "sabaragamuwa_rpta",
+      "authority_name": "Sabaragamuwa Provincial Road Passenger Transport Authority",
+      "aliases": [
+        "Sabaragamuwa Road Passenger Transport Authority",
+        "SGPRPTA"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "complaints_phone",
+          "label": "Ratnapura complaints",
+          "value": "070 697 4697 / 045 2230557"
+        },
+        {
+          "type": "complaints_phone",
+          "label": "Kegalle complaints",
+          "value": "076 097 3888 / 035 2222307"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within Sabaragamuwa Province.",
+      "source_urls": [
+        "https://sgprpta.sg.gov.lk/"
+      ]
+    },
+    {
+      "authority_key": "northern_rpta",
+      "authority_name": "Northern Provincial Road Passenger Transport Authority",
+      "aliases": [
+        "Northern Province Road Passenger Transport Authority",
+        "NPRPTA"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "intra_provincial_private_bus_complaints",
+      "channels": [
+        {
+          "type": "whatsapp",
+          "label": "Passenger complaint WhatsApp",
+          "value": "071 9090900"
+        },
+        {
+          "type": "phone",
+          "label": "General office",
+          "value": "021 228 5120"
+        }
+      ],
+      "guidance": "Use for private-bus complaints where both route endpoints are within Northern Province.",
+      "source_urls": [
+        "https://np.gov.lk/transport-authority/",
+        "https://np.gov.lk/three-day-suspension-for-private-bus-that-dropped-passengers-midway-and-transported-private-company-employees/"
+      ]
+    },
+    {
+      "authority_key": "eastern_rpta",
+      "authority_name": "Eastern Province Road Passenger Transport Authority",
+      "aliases": [
+        "Road Passenger Transport Authority-Eastern Province",
+        "Eastern Provincial Road Passenger Transport Authority"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_authority_contact",
+      "route_scope": "intra_provincial_private_bus_authority",
+      "channels": [
+        {
+          "type": "phone",
+          "label": "Authority contact listed by NTC",
+          "value": "026 2226350"
+        },
+        {
+          "type": "email",
+          "label": "Authority email listed by NTC",
+          "value": "transport@ep.gov.lk"
+        }
+      ],
+      "guidance": "Authority identity/contact is verified, but a dedicated current complaint channel was not separately verified. NTC 1955 remains a safe verified intake fallback.",
+      "source_urls": [
+        "https://www.ntc.gov.lk/Passenger_guide/transport_auth.php",
+        "https://rti.gov.lk/do-list/"
+      ]
+    },
+    {
+      "authority_key": "north_central_rpta",
+      "authority_name": "North Central Provincial Road Passenger Transport Authority",
+      "aliases": [
+        "North Central Province Road Passenger Transport Authority",
+        "North Central Provincial Road Transport Services Authority"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_authority_contact",
+      "route_scope": "intra_provincial_private_bus_authority",
+      "channels": [
+        {
+          "type": "phone",
+          "label": "Authority contact listed by NTC",
+          "value": "025 2236227 / 025 2220767"
+        }
+      ],
+      "guidance": "Authority identity/contact is verified, but a dedicated current complaint channel was not separately verified. NTC 1955 remains a safe verified intake fallback.",
+      "source_urls": [
+        "https://www.ntc.gov.lk/Passenger_guide/transport_auth.php"
+      ]
+    }
+  ],
+  "last_extended_on": "2026-10-05"
+}

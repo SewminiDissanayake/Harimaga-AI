@@ -1,0 +1,32 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc">
+<title id="title">HariMaga AI logo</title>
+<desc id="desc">Sri Lanka rising from blue ocean, with a golden guiding road ending at a maroon destination pin.</desc>
+<defs>
+  <linearGradient id="sea" x1="22" y1="20" x2="201" y2="205" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#29A9D0"/>
+    <stop offset="1" stop-color="#0B6D8B"/>
+  </linearGradient>
+  <linearGradient id="land" x1="84" y1="25" x2="146" y2="194" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#8BC85D"/>
+    <stop offset=".46" stop-color="#3B905E"/>
+    <stop offset="1" stop-color="#1F654B"/>
+  </linearGradient>
+  <linearGradient id="road" x1="90" y1="48" x2="132" y2="168" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFE28A"/>
+    <stop offset="1" stop-color="#DCA52E"/>
+  </linearGradient>
+  <filter id="shadow" x="20" y="10" width="190" height="205">
+    <feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#103E46" flood-opacity=".24"/>
+  </filter>
+</defs>
+<circle cx="110" cy="110" r="94" fill="url(#sea)"/>
+<path d="M18 132C60 116 83 121 110 132C142 145 169 146 204 127" stroke="#74C9E6" stroke-width="7" stroke-linecap="round"/>
+<path d="M23 151C58 139 84 143 112 154C143 166 174 165 198 153" stroke="#A8E1F1" stroke-width="4" stroke-linecap="round"/>
+<g filter="url(#shadow)">
+  <path d="M103 23C90 34 82 49 76 65C71 82 64 97 57 111C50 125 48 141 54 154C60 167 70 177 78 189C86 201 93 214 106 218C120 223 134 213 143 201C152 188 155 174 162 160C170 147 176 134 172 120C168 106 158 96 153 84C148 71 151 57 144 44C137 31 123 23 112 19C108 18 105 20 103 23Z" transform="translate(0 -12)" fill="url(#land)" stroke="#F6F2DA" stroke-width="4"/>
+  <path d="M94 50C111 61 103 74 90 84C76 95 80 108 99 115C119 122 132 133 127 148C124 161 111 169 108 181" stroke="url(#road)" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 16"/>
+  <circle cx="94" cy="50" r="8" fill="#FFF7D0" stroke="#D99B25" stroke-width="4"/>
+  <path d="M110 181C110 169 120 159 132 159C144 159 154 169 154 181C154 199 132 214 132 214C132 214 110 199 110 181Z" fill="#7B263D"/>
+  <circle cx="132" cy="181" r="7" fill="#FFF3C4"/>
+</g>
+</svg>

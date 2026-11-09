@@ -1,0 +1,61 @@
+text,label,language
+Big crater in the middle of the road outside the hospital,road_issue,en
+අපේ පාරේ කාණු කැඩිලා පාර බැහැලා,road_issue,si
+para mulu ekama gal pirila yanna amarui,road_issue,singlish
+main road eke manhole eka arala thiyenne,road_issue,singlish
+வீதி உடைந்து வாகனங்கள் செல்ல முடியவில்லை,road_issue,ta
+No water supply in our flats for four days,water_issue,en
+ටැප් එකෙන් එන වතුර කහ පාටයි,water_issue,si
+ape area eke wathura connection eka kapala,water_issue,singlish
+water meter eka wada karanne na bill eka wadi,water_issue,singlish
+குழாயில் தண்ணீர் வருவதில்லை,water_issue,ta
+Frequent power cuts are damaging our appliances,electricity_issue,en
+ගෙදර විදුලිය නැතිව පැය දහයක්,electricity_issue,si
+current kapala reconnect karanne na,electricity_issue,singlish
+electricity wire eka gaha uda wetila,electricity_issue,singlish
+மின் தடை அடிக்கடி ஏற்படுகிறது,electricity_issue,ta
+Nobody has picked up the trash from our lane this month,garbage_collection,en
+කුණු එකතු කරන අය මාසයක් තිස්සේ ආවේ නෑ,garbage_collection,si
+kunu tika para dige wisiwela,garbage_collection,singlish
+garbage collection eka nawaththala,garbage_collection,singlish
+குப்பைகள் வீதியில் குவிந்து கிடக்கின்றன,garbage_collection,ta
+The bus conductor was rude and pushed passengers,bus_complaint,en
+බස් එක නවත්තන්නේ නැතුව ගියා,bus_complaint,si
+bus driver phone eke katha karamin elewwa,bus_complaint,singlish
+bus fare eka wadiyen illuwa,bus_complaint,singlish
+பேருந்து ஓட்டுநர் வேகமாக ஓட்டினார்,bus_complaint,ta
+The seller won't honour the warranty on my TV,consumer_complaint,en
+කඩෙන් ගත්ත බඩුව කල් ඉකුත් වෙලා,consumer_complaint,si
+restaurant eken bill eke wadiyen gaththa,consumer_complaint,singlish
+phone shop eka refund dunne na,consumer_complaint,singlish
+வாங்கிய பொருள் பழுதாக உள்ளது பணம் திருப்பித் தரவில்லை,consumer_complaint,ta
+A tannery is releasing foul smelling water into the stream,environment_issue,en
+කැලේ ගස් කපනවා,environment_issue,si
+factory eka raathriye smoke ekak arinawa,environment_issue,singlish
+mangrove kapala idam godakaranawa,environment_issue,singlish
+ஆற்றில் கழிவுகளை கொட்டுகிறார்கள்,environment_issue,ta
+My child's passport renewal is stuck,immigration_issue,en
+විදේශ ගමනට passport එක ඉක්මනට ඕන,immigration_issue,si
+visa extension ekata documents mokakda,immigration_issue,singlish
+passport photo eka reject kala,immigration_issue,singlish
+விசா நீட்டிப்பு எப்படி பெறுவது,immigration_issue,ta
+Someone stole my bag with my ID card inside,lost_document,en
+මගේ පාස්පෝට් එක නැති වෙලා,lost_document,si
+driving license eka hoyaganna ba,lost_document,singlish
+nic eka nathiuna police ekata yanna ona da,lost_document,singlish
+எனது ஓட்டுநர் உரிமம் தொலைந்துவிட்டது,lost_document,ta
+A stranger has been waiting outside my daughter's school and following her,women_child_safety,en
+මගේ සැමියා මට ගහනවා,women_child_safety,si
+kenek mage photos online damala threaten karanawa,women_child_safety,singlish
+podi lamayek kade wada karanawa iskole yanne na,women_child_safety,singlish
+என் கணவர் என்னை அடிக்கிறார்,women_child_safety,ta
+Water level in the Kelani river is very high near our home,disaster_alert,en
+කන්ද නාය යනවා වගේ,disaster_alert,si
+wesse nisa gedara langa pas kanda kadila watenawa,disaster_alert,singlish
+flood eka enawada ada,disaster_alert,singlish
+மண்சரிவு அபாயம் உள்ளதா,disaster_alert,ta
+Where can I get a copy of my marriage certificate,unknown_government_issue,en
+වැඩිහිටි දීමනාව ලැබෙන්නේ නෑ,unknown_government_issue,si
+aswesuma payment eka awe na,unknown_government_issue,singlish
+divisional secretariat eke kenek salli illuwa,unknown_government_issue,singlish
+பிறப்புச் சான்றிதழ் திருத்தம் எங்கே செய்வது,unknown_government_issue,ta

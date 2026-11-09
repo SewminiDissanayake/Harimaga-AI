@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# HariMaga runtime data: uploaded citizen evidence. NEVER commit or share.
+data/harimaga_runtime/
+
+# React frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

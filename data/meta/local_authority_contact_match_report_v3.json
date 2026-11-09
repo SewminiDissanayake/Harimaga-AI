@@ -1,0 +1,1206 @@
+{
+  "status": "completed",
+  "method": "district + authority_type + normalized authority name; DCS MC/UC/PS suffixes removed; conservative spelling aliases only; no fuzzy suggestion auto-accepted",
+  "counts": {
+    "rti_rows_rematched": 250,
+    "dcs_local_authority_records_raw": 343,
+    "dcs_unique_geography_ids": 342,
+    "safe_matched_rows": 240,
+    "unique_local_authorities_with_directory_contact": 236,
+    "manual_review_rows": 10,
+    "unique_geography_ids_without_directory_contact": 106
+  },
+  "manual_review": [
+    {
+      "area_name": null,
+      "area_name_source": "missing_area",
+      "la_type": "municipal_council",
+      "organization": "Municipal Council",
+      "organization_type_raw": "Urban Council",
+      "district": "Kandy",
+      "province": "Central Province",
+      "officer": {
+        "title": "Mr",
+        "name": "Chandana Thennakoon",
+        "designation": "Commissioner"
+      },
+      "address": [
+        "Kandy"
+      ],
+      "telephone_01": [
+        "081 222 3921"
+      ],
+      "telephone_02": [
+        "081 222 2275"
+      ],
+      "fax": [
+        "081 222 3921"
+      ],
+      "mobile": [
+        "071 781 0990"
+      ],
+      "email": [
+        "kandymcsec@gmail.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.341946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "missing_area_name_in_rti_row",
+      "suggestions": [],
+      "v3_status": "manual_review",
+      "v3_reason": "missing_area_name"
+    },
+    {
+      "area_name": "Minipe",
+      "area_name_source": "rti_area_column",
+      "la_type": "pradeshiya_sabha",
+      "organization": "Pradeshiya Sabha",
+      "organization_type_raw": "Pradeshiya Sabha",
+      "district": "Nuwaraeliya",
+      "province": "Central Province",
+      "officer": {
+        "title": "Mr",
+        "name": "A.M.S.B. Abeysingha",
+        "designation": "Chairman"
+      },
+      "address": [
+        "Minipe",
+        "Hasalaka"
+      ],
+      "telephone_01": [
+        "052 225 7767"
+      ],
+      "telephone_02": [],
+      "fax": [
+        "055 225 7172"
+      ],
+      "mobile": [
+        "076 962 0422"
+      ],
+      "email": [
+        "psminipe@gmail.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.342946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.353,
+          "geography_id": "central__nuwara_eliya__36__maskeliya_ps",
+          "geography_name": "Maskeliya PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Nuwara Eliya"
+        },
+        {
+          "score": 0.25,
+          "geography_id": "central__nuwara_eliya__33__kothmale_ps",
+          "geography_name": "Kothmale PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Nuwara Eliya"
+        },
+        {
+          "score": 0.25,
+          "geography_id": "central__nuwara_eliya__35__walapane_ps",
+          "geography_name": "Walapane PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Nuwara Eliya"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Central Nuwaragampalatha",
+      "area_name_source": "rti_area_column",
+      "la_type": "pradeshiya_sabha",
+      "organization": "Pradeshiya Sabha",
+      "organization_type_raw": "Pradeshiya Sabha",
+      "district": "Kandy",
+      "province": "Central Province",
+      "officer": {
+        "title": "Mrs",
+        "name": "P.B.N. Jayasundara",
+        "designation": "Chairman"
+      },
+      "address": [
+        "Central",
+        "Nuwaragampalatha"
+      ],
+      "telephone_01": [],
+      "telephone_02": [],
+      "fax": [
+        "025 205 3057"
+      ],
+      "mobile": [
+        "071 688 6565"
+      ],
+      "email": [],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.343946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.457,
+          "geography_id": "central__kandy__45__udapalatha_ps",
+          "geography_name": "Udapalatha PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        },
+        {
+          "score": 0.457,
+          "geography_id": "central__kandy__47__yatinuwara_ps",
+          "geography_name": "Yatinuwara PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        },
+        {
+          "score": 0.412,
+          "geography_id": "central__kandy__46__udunuwara_ps",
+          "geography_name": "Udunuwara PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Central Nuwaragampalatha",
+      "area_name_source": "rti_area_column",
+      "la_type": "pradeshiya_sabha",
+      "organization": "Pradeshiya Sabha",
+      "organization_type_raw": "Pradeshiya Sabha",
+      "district": "Kandy",
+      "province": "Central Province",
+      "officer": {
+        "title": "Mr",
+        "name": "P.B.N. Jayasundara",
+        "designation": "Chairman"
+      },
+      "address": [
+        "Central",
+        "Nuwaragampalatha"
+      ],
+      "telephone_01": [],
+      "telephone_02": [],
+      "fax": [
+        "025 205 3057"
+      ],
+      "mobile": [
+        "071 688 6565"
+      ],
+      "email": [],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.343946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.457,
+          "geography_id": "central__kandy__45__udapalatha_ps",
+          "geography_name": "Udapalatha PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        },
+        {
+          "score": 0.457,
+          "geography_id": "central__kandy__47__yatinuwara_ps",
+          "geography_name": "Yatinuwara PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        },
+        {
+          "score": 0.412,
+          "geography_id": "central__kandy__46__udunuwara_ps",
+          "geography_name": "Udunuwara PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Walapane",
+      "area_name_source": "rti_area_column",
+      "la_type": "pradeshiya_sabha",
+      "organization": "Pradeshiya Sabha",
+      "organization_type_raw": "Pradeshiya Sabha",
+      "district": "Kandy",
+      "province": "Central Province",
+      "officer": {
+        "title": "Mr",
+        "name": "D. Ananda Hiththetiyage",
+        "designation": "Secretary"
+      },
+      "address": [
+        "Walapane",
+        "Kandy"
+      ],
+      "telephone_01": [
+        "052 227 9410"
+      ],
+      "telephone_02": [],
+      "fax": [
+        "052 227 9410"
+      ],
+      "mobile": [
+        "071 747 0777"
+      ],
+      "email": [
+        "walapanewps@gmail.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.344946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.471,
+          "geography_id": "central__kandy__38__panvila_ps",
+          "geography_name": "Panvila PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        },
+        {
+          "score": 0.444,
+          "geography_id": "central__kandy__43__thumpane_ps",
+          "geography_name": "Thumpane PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        },
+        {
+          "score": 0.421,
+          "geography_id": "central__kandy__46__udunuwara_ps",
+          "geography_name": "Udunuwara PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Kandy"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Manthai East",
+      "area_name_source": "rti_area_column",
+      "la_type": "pradeshiya_sabha",
+      "organization": "Pradeshiya Sabha",
+      "organization_type_raw": "Pradeshiya Sabha",
+      "district": "Mannar",
+      "province": "Northern Province",
+      "officer": {
+        "title": "Mrs",
+        "name": "Sivatharsiny Parthipan",
+        "designation": "Secretary"
+      },
+      "address": [
+        "Pradeshiya Sabha",
+        "Manthai East",
+        "Mannar"
+      ],
+      "telephone_01": [
+        "021 228 3475"
+      ],
+      "telephone_02": [],
+      "fax": [
+        "021 228 3476"
+      ],
+      "mobile": [
+        "077 303 6518"
+      ],
+      "email": [
+        "manthaieastps1@yahoo.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.357962+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.833,
+          "geography_id": "northern__mannar__32__manthai_west_ps",
+          "geography_name": "Manthai West PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Mannar"
+        },
+        {
+          "score": 0.526,
+          "geography_id": "northern__mannar__31__mannar_ps",
+          "geography_name": "Mannar PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Mannar"
+        },
+        {
+          "score": 0.476,
+          "geography_id": "northern__mannar__34__nanattan_ps",
+          "geography_name": "Nanattan PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Mannar"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Vavuniya",
+      "area_name_source": "rti_area_column",
+      "la_type": "urban_council",
+      "organization": "Urban Council",
+      "organization_type_raw": "Urban Council",
+      "district": "Vavuniya",
+      "province": "Northern Province",
+      "officer": {
+        "title": "Mr",
+        "name": "R. Thayaparan",
+        "designation": "Secretary"
+      },
+      "address": [
+        "Urban Council",
+        "Park Road",
+        "Vavuniya"
+      ],
+      "telephone_01": [
+        "024 222 2275"
+      ],
+      "telephone_02": [
+        "024 567 9210"
+      ],
+      "fax": [
+        "024 222 2736"
+      ],
+      "mobile": [
+        "077 476 4343"
+      ],
+      "email": [
+        "ucvavuniya@yahoo.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.357962+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Puttalam",
+      "area_name_source": "rti_area_column",
+      "la_type": "urban_council",
+      "organization": "Urban Council",
+      "organization_type_raw": "Urban Council",
+      "district": "Puttalam",
+      "province": "North Western Province",
+      "officer": {
+        "title": "Mrs",
+        "name": "L.B.G.Preethika",
+        "designation": "Secretary"
+      },
+      "address": [
+        "No.14, Kachcheri Road",
+        "Puttalam"
+      ],
+      "telephone_01": [
+        "032 226 5275"
+      ],
+      "telephone_02": [],
+      "fax": [
+        "032 226 6786"
+      ],
+      "mobile": [
+        "071 943 0481"
+      ],
+      "email": [
+        "puttalamurbancoouncil@gmail.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.365946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.25,
+          "geography_id": "north_western__puttalam__21__chilaw_uc",
+          "geography_name": "Chilaw UC",
+          "geography_type": "urban_council",
+          "geography_district": "Puttalam"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Padavi Sripura",
+      "area_name_source": "rti_area_column",
+      "la_type": "pradeshiya_sabha",
+      "organization": "Pradeshiya Sabha",
+      "organization_type_raw": "Pradeshiya Sabha",
+      "district": "Anuradhapura",
+      "province": "North Central Province",
+      "officer": {
+        "title": "Mrs",
+        "name": "J.G. Eranda Anuradha",
+        "designation": "Management Service Officer"
+      },
+      "address": [
+        "Padavi Sripura",
+        "Anuradhapura"
+      ],
+      "telephone_01": [
+        "025 493 4658"
+      ],
+      "telephone_02": [
+        "025 225 5209"
+      ],
+      "fax": [
+        "025 225 5209"
+      ],
+      "mobile": [],
+      "email": [
+        "sripuraps@gmail.com"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.367946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [
+        {
+          "score": 0.609,
+          "geography_id": "north_central__anuradhapura__43__padaviya_ps",
+          "geography_name": "Padaviya PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Anuradhapura"
+        },
+        {
+          "score": 0.348,
+          "geography_id": "north_central__anuradhapura__44__palagala_ps",
+          "geography_name": "Palagala PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Anuradhapura"
+        },
+        {
+          "score": 0.333,
+          "geography_id": "north_central__anuradhapura__34__ipalogama_ps",
+          "geography_name": "Ipalogama PS",
+          "geography_type": "pradeshiya_sabha",
+          "geography_district": "Anuradhapura"
+        }
+      ],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    },
+    {
+      "area_name": "Kegalle",
+      "area_name_source": "rti_area_column",
+      "la_type": "urban_council",
+      "organization": "Urban Council",
+      "organization_type_raw": "Urban Council",
+      "district": "Kegalle",
+      "province": "Sabaragamuwa Province",
+      "officer": {
+        "title": "Mrs",
+        "name": "K.M.N. Priyanthi",
+        "designation": "Secretary"
+      },
+      "address": [
+        "Kegalle"
+      ],
+      "telephone_01": [
+        "035 222 2275"
+      ],
+      "telephone_02": [],
+      "fax": [
+        "035 222 2275"
+      ],
+      "mobile": [],
+      "email": [
+        "uckoff@sltnet.lk"
+      ],
+      "source_url": "https://rti.gov.lk/do-list/",
+      "source_type": "Sri Lanka RTI Designated Officer directory",
+      "contact_purpose": "Official council/office directory fallback. Do not label this as an issue-specific complaint channel unless separately verified.",
+      "retrieved_at": "2026-10-05T06:39:21.375946+00:00",
+      "_source_table": 4,
+      "match_status": "manual_review",
+      "reason": "no_safe_exact_match",
+      "suggestions": [],
+      "v3_status": "manual_review",
+      "v3_reason": "no_safe_normalized_match",
+      "v3_candidate_ids": []
+    }
+  ],
+  "geography_without_directory_contact": [
+    {
+      "geography_id": "central__kandy__11__kandy_mc",
+      "name": "Kandy MC",
+      "district": "Kandy",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "central__kandy__31__akurana_ps",
+      "name": "Akurana PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__kandy__32__ganga_ihala_korale_ps",
+      "name": "Ganga Ihala Korale PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__kandy__37__minipe_ps",
+      "name": "Minipe PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__kandy__39__pasbage_korale_ps",
+      "name": "Pasbage Korale PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__kandy__43__thumpane_ps",
+      "name": "Thumpane PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__kandy__45__udapalatha_ps",
+      "name": "Udapalatha PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__kandy__46__udunuwara_ps",
+      "name": "Udunuwara PS",
+      "district": "Kandy",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__matale__11__matale_mc",
+      "name": "Matale MC",
+      "district": "Matale",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "central__matale__31__ambanganga_korale_ps",
+      "name": "Ambanganga Korale PS",
+      "district": "Matale",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__matale__34__laggala_pallegama_ps",
+      "name": "Laggala-Pallegama PS",
+      "district": "Matale",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__matale__35__matale_ps",
+      "name": "Matale PS",
+      "district": "Matale",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__matale__39__ukuwela_ps",
+      "name": "Ukuwela PS",
+      "district": "Matale",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__matale__40__wilgamuwa_ps",
+      "name": "Wilgamuwa PS",
+      "district": "Matale",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__matale__41__yatawatta_ps",
+      "name": "Yatawatta  PS",
+      "district": "Matale",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__31__ambagamuwa_ps",
+      "name": "Ambagamuwa PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__32__hanguranketha_ps",
+      "name": "Hanguranketha PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__33__kothmale_ps",
+      "name": "Kothmale PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__34__nuwara_eliya_ps",
+      "name": "Nuwara Eliya PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__35__walapane_ps",
+      "name": "Walapane PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__36__maskeliya_ps",
+      "name": "Maskeliya PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__37__noorwood_ps",
+      "name": "Noorwood PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__38__agarapathana_ps",
+      "name": "Agarapathana PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "central__nuwara_eliya__39__kotagala_ps",
+      "name": "Kotagala PS",
+      "district": "Nuwara Eliya",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__11__kalmunai_mc",
+      "name": "Kalmunai MC",
+      "district": "Ampara",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "eastern__ampara__12__akkaraipattu_mc",
+      "name": "Akkaraipattu MC",
+      "district": "Ampara",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "eastern__ampara__32__alayadiwembu_ps",
+      "name": "Alayadiwembu PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__33__damana_ps",
+      "name": "Damana PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__38__mahaoya_ps",
+      "name": "Mahaoya PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__40__ninthavur_ps",
+      "name": "Ninthavur PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__41__padiyathalawa_ps",
+      "name": "Padiyathalawa  PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__42__pothuvil_ps",
+      "name": "Pothuvil  PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__43__sammanthurai_ps",
+      "name": "Sammanthurai PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__ampara__47__navithanveli_ps",
+      "name": "Navithanveli PS",
+      "district": "Ampara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__batticaloa__11__batticaloa_mc",
+      "name": "Batticaloa MC",
+      "district": "Batticaloa",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "eastern__batticaloa__21__kattankudy_uc",
+      "name": "Kattankudy UC",
+      "district": "Batticaloa",
+      "type": "urban_council"
+    },
+    {
+      "geography_id": "eastern__batticaloa__31__eravur_pattu_ps",
+      "name": "Eravur Pattu PS",
+      "district": "Batticaloa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__batticaloa__34__koralai_pattu_ps",
+      "name": "Koralai Pattu PS",
+      "district": "Batticaloa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__batticaloa__35__koralai_pattu_north_ps",
+      "name": "Koralai Pattu North PS",
+      "district": "Batticaloa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__batticaloa__37__manmunaipattu_ps",
+      "name": "Manmunaipattu PS",
+      "district": "Batticaloa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__batticaloa__39__manmunai_south_west_ps",
+      "name": "Manmunai South-West PS",
+      "district": "Batticaloa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__batticaloa__41__porativepattu_ps",
+      "name": "Porativepattu PS",
+      "district": "Batticaloa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__11__trincomalee_mc",
+      "name": "Trincomalee MC",
+      "district": "Trincomalee",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "eastern__trincomalee__33__kinniya_ps",
+      "name": "Kinniya PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__34__kuchchaveli_ps",
+      "name": "Kuchchaveli PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__35__morawewa_ps",
+      "name": "Morawewa PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__36__muttur_ps",
+      "name": "Muttur PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__37__padavi_sri_pura_ps",
+      "name": "Padavi Sri Pura PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__40__trincomalee_town_and_four_gravets_ps",
+      "name": "Trincomalee Town and Four Gravets PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "eastern__trincomalee__41__verugal_ps",
+      "name": "Verugal PS",
+      "district": "Trincomalee",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__11__anuradhapura_mc",
+      "name": "Anuradhapura MC",
+      "district": "Anuradhapura",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__31__galenbindunuwewa_ps",
+      "name": "Galenbindunuwewa PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__35__kahatagasdigiliya_ps",
+      "name": "Kahatagasdigiliya PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__38__medawachchiya_ps",
+      "name": "Medawachchiya PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__39__mihinthale_ps",
+      "name": "Mihinthale PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__43__padaviya_ps",
+      "name": "Padaviya PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__47__thalawa_ps",
+      "name": "Thalawa PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__anuradhapura__48__thirappane_ps",
+      "name": "Thirappane PS",
+      "district": "Anuradhapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__polonnaruwa__31__dimbulagala_ps",
+      "name": "Dimbulagala PS",
+      "district": "Polonnaruwa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__polonnaruwa__33__hingurakgoda_ps",
+      "name": "Hingurakgoda PS",
+      "district": "Polonnaruwa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__polonnaruwa__34__lankapura_ps",
+      "name": "Lankapura PS",
+      "district": "Polonnaruwa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__polonnaruwa__35__medirigiriya_ps",
+      "name": "Medirigiriya PS",
+      "district": "Polonnaruwa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_central__polonnaruwa__38__polonnaruwa_ps",
+      "name": "Polonnaruwa PS",
+      "district": "Polonnaruwa",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "north_western__puttalam__11__puttalam_mc",
+      "name": "Puttalam MC",
+      "district": "Puttalam",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "northern__mannar__32__manthai_west_ps",
+      "name": "Manthai West PS",
+      "district": "Mannar",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "northern__mullaitivu__31__vavuniya_north_ps",
+      "name": "Vavuniya North PS",
+      "district": "Mullaitivu",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "northern__mullaitivu__41__manthai_east_ps",
+      "name": "Manthai East PS",
+      "district": "Mullaitivu",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "northern__vavuniya__11__vavuniya_mc",
+      "name": "Vavuniya MC",
+      "district": "Vavuniya",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "sabaragamuwa__kegalle__11__kegalle_mc",
+      "name": "Kegalle MC",
+      "district": "Kegalle",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "sabaragamuwa__kegalle__33__deraniyagala_ps",
+      "name": "Deraniyagala PS",
+      "district": "Kegalle",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__kegalle__34__galigamuwa_ps",
+      "name": "Galigamuwa PS",
+      "district": "Kegalle",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__kegalle__41__bulathkohupitiya_ps",
+      "name": "Bulathkohupitiya PS",
+      "district": "Kegalle",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__ratnapura__11__ratnapura_mc",
+      "name": "Ratnapura MC",
+      "district": "Ratnapura",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "sabaragamuwa__ratnapura__36__imbulpe_ps",
+      "name": "Imbulpe PS",
+      "district": "Ratnapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__ratnapura__37__kalawana_ps",
+      "name": "Kalawana PS",
+      "district": "Ratnapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__ratnapura__43__weligepola_ps",
+      "name": "Weligepola PS",
+      "district": "Ratnapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__ratnapura__44__godakawela_ps",
+      "name": "Godakawela PS",
+      "district": "Ratnapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "sabaragamuwa__ratnapura__45__kahawatta_ps",
+      "name": "Kahawatta PS",
+      "district": "Ratnapura",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "southern__galle__11__galle_mc",
+      "name": "Galle MC",
+      "district": "Galle",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "southern__galle__46__imaduwa_ps",
+      "name": "Imaduwa PS",
+      "district": "Galle",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "southern__hambantota__11__hambantota_mc",
+      "name": "Hambantota MC",
+      "district": "Hambantota",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "southern__matara__40__pasgoda_ps",
+      "name": "Pasgoda PS",
+      "district": "Matara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "uva__moneragala__34__katharagama_ps",
+      "name": "Katharagama PS",
+      "district": "Moneragala",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__colombo__14__sri_jayawardanapura_kotte_mc",
+      "name": "Sri Jayawardanapura Kotte MC",
+      "district": "Colombo",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "western__colombo__31__homagama_ps",
+      "name": "Homagama PS",
+      "district": "Colombo",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__colombo__34__seethawaka_ps",
+      "name": "Seethawaka PS",
+      "district": "Colombo",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__12__gampaha_mc",
+      "name": "Gampaha MC",
+      "district": "Gampaha",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "western__gampaha__22__ja_ela_uc",
+      "name": "Ja- Ela UC",
+      "district": "Gampaha",
+      "type": "urban_council"
+    },
+    {
+      "geography_id": "western__gampaha__24__minuwangoda_uc",
+      "name": "Minuwangoda UC",
+      "district": "Gampaha",
+      "type": "urban_council"
+    },
+    {
+      "geography_id": "western__gampaha__25__peliyagoda_uc",
+      "name": "Peliyagoda UC",
+      "district": "Gampaha",
+      "type": "urban_council"
+    },
+    {
+      "geography_id": "western__gampaha__26__wattala_mabola_uc",
+      "name": "Wattala - Mabola UC",
+      "district": "Gampaha",
+      "type": "urban_council"
+    },
+    {
+      "geography_id": "western__gampaha__33__divulapitiya_ps",
+      "name": "Divulapitiya PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__34__dompe_ps",
+      "name": "Dompe PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__35__gampaha_ps",
+      "name": "Gampaha PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__36__ja_ela_ps",
+      "name": "Ja- Ela PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__37__katana_ps",
+      "name": "Katana PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__38__kelaniya_ps",
+      "name": "Kelaniya PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__39__mahara_ps",
+      "name": "Mahara PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__40__minuwangoda_ps",
+      "name": "Minuwangoda PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__gampaha__42__wattala_ps",
+      "name": "Wattala PS",
+      "district": "Gampaha",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__kalutara__11__kalutara_mc",
+      "name": "Kalutara MC",
+      "district": "Kalutara",
+      "type": "municipal_council"
+    },
+    {
+      "geography_id": "western__kalutara__21__beruwala_uc",
+      "name": "Beruwala UC",
+      "district": "Kalutara",
+      "type": "urban_council"
+    },
+    {
+      "geography_id": "western__kalutara__33__beruwala_ps",
+      "name": "Beruwala PS",
+      "district": "Kalutara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__kalutara__35__dodangoda_ps",
+      "name": "Dodangoda PS",
+      "district": "Kalutara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__kalutara__38__mathugama_ps",
+      "name": "Mathugama PS",
+      "district": "Kalutara",
+      "type": "pradeshiya_sabha"
+    },
+    {
+      "geography_id": "western__kalutara__42__palindanuwara_ps",
+      "name": "Palindanuwara PS",
+      "district": "Kalutara",
+      "type": "pradeshiya_sabha"
+    }
+  ]
+}

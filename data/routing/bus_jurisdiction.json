@@ -1,0 +1,151 @@
+{
+  "dataset": "HariMaga bus jurisdiction geography v2",
+  "verified_on": "2026-10-05",
+  "policy": {
+    "private_inter_provincial": "National Transport Commission",
+    "private_intra_provincial": "Relevant provincial passenger transport authority",
+    "sltb": "Sri Lanka Transport Board",
+    "unknown_operator": "National Transport Commission verified intake route",
+    "evidence_basis": "NTC official reporting says inter-provincial complaints are investigated by NTC, intra-provincial complaints are forwarded to the relevant provincial passenger transport authority, and SLTB complaints are forwarded to SLTB Head Office."
+  },
+  "district_to_province": {
+    "Colombo": "Western Province",
+    "Gampaha": "Western Province",
+    "Kalutara": "Western Province",
+    "Kandy": "Central Province",
+    "Matale": "Central Province",
+    "Nuwara Eliya": "Central Province",
+    "Galle": "Southern Province",
+    "Matara": "Southern Province",
+    "Hambantota": "Southern Province",
+    "Jaffna": "Northern Province",
+    "Kilinochchi": "Northern Province",
+    "Mannar": "Northern Province",
+    "Mullaitivu": "Northern Province",
+    "Vavuniya": "Northern Province",
+    "Trincomalee": "Eastern Province",
+    "Batticaloa": "Eastern Province",
+    "Ampara": "Eastern Province",
+    "Kurunegala": "North Western Province",
+    "Puttalam": "North Western Province",
+    "Anuradhapura": "North Central Province",
+    "Polonnaruwa": "North Central Province",
+    "Badulla": "Uva Province",
+    "Monaragala": "Uva Province",
+    "Ratnapura": "Sabaragamuwa Province",
+    "Kegalle": "Sabaragamuwa Province"
+  },
+  "province_authorities": {
+    "Western Province": "Road Passenger Transport Authority-Western Province",
+    "Central Province": "Central Province Transport Services Authority",
+    "Southern Province": "Southern Provincial Road Passenger Transport Authority",
+    "Northern Province": "Northern Provincial Road Passenger Transport Authority",
+    "Eastern Province": "Eastern Province Road Passenger Transport Authority",
+    "North Western Province": "North Western Province Road Passenger Transport Authority",
+    "North Central Province": "North Central Provincial Road Passenger Transport Authority",
+    "Uva Province": "Uva Province Road Passenger Transport Authority",
+    "Sabaragamuwa Province": "Sabaragamuwa Provincial Road Passenger Transport Authority"
+  },
+  "sltb_region_by_district": {
+    "Colombo": {
+      "region": "Colombo",
+      "whatsapp": "070 477 5030"
+    },
+    "Gampaha": {
+      "region": "Gampaha",
+      "whatsapp": "070 477 5031"
+    },
+    "Kalutara": {
+      "region": "Kalutara",
+      "whatsapp": "070 477 5032"
+    },
+    "Ratnapura": {
+      "region": "Sabaragamuwa",
+      "whatsapp": "070 477 5033"
+    },
+    "Kegalle": {
+      "region": "Sabaragamuwa",
+      "whatsapp": "070 477 5033"
+    },
+    "Kurunegala": {
+      "region": "Wayaba",
+      "whatsapp": "070 477 5034"
+    },
+    "Puttalam": {
+      "region": "Wayaba",
+      "whatsapp": "070 477 5034"
+    },
+    "Anuradhapura": {
+      "region": "Rajarata",
+      "whatsapp": "070 477 5035"
+    },
+    "Polonnaruwa": {
+      "region": "Rajarata",
+      "whatsapp": "070 477 5035"
+    },
+    "Galle": {
+      "region": "Ruhuna",
+      "whatsapp": "070 477 5036"
+    },
+    "Matara": {
+      "region": "Ruhuna",
+      "whatsapp": "070 477 5036"
+    },
+    "Hambantota": {
+      "region": "Ruhuna",
+      "whatsapp": "070 477 5036"
+    },
+    "Badulla": {
+      "region": "Uva",
+      "whatsapp": "070 477 5037"
+    },
+    "Monaragala": {
+      "region": "Uva",
+      "whatsapp": "070 477 5037"
+    },
+    "Nuwara Eliya": {
+      "region": "Nuwara Eliya",
+      "whatsapp": "070 477 5038"
+    },
+    "Kandy": {
+      "region": "Kandy",
+      "whatsapp": "070 477 5039"
+    },
+    "Matale": {
+      "region": "Kandy",
+      "whatsapp": "070 477 5039"
+    },
+    "Jaffna": {
+      "region": "North",
+      "whatsapp": "070 477 5040"
+    },
+    "Kilinochchi": {
+      "region": "North",
+      "whatsapp": "070 477 5040"
+    },
+    "Mannar": {
+      "region": "North",
+      "whatsapp": "070 477 5040"
+    },
+    "Mullaitivu": {
+      "region": "North",
+      "whatsapp": "070 477 5040"
+    },
+    "Vavuniya": {
+      "region": "North",
+      "whatsapp": "070 477 5040"
+    },
+    "Trincomalee": {
+      "region": "Eastern",
+      "whatsapp": "070 477 5041"
+    },
+    "Batticaloa": {
+      "region": "Eastern",
+      "whatsapp": "070 477 5041"
+    },
+    "Ampara": {
+      "region": "Eastern",
+      "whatsapp": "070 477 5041"
+    }
+  }
+}

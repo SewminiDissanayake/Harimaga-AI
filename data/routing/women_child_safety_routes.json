@@ -1,0 +1,139 @@
+{
+  "dataset": "HariMaga women and child safety routing v1",
+  "verified_on": "2026-10-05",
+  "policy": {
+    "immediate_danger": "If there is immediate danger, prioritize moving to a safer place and contacting Sri Lanka Police emergency services. Do not advise confrontation.",
+    "evidence_safety": "Only preserve screenshots, photos, vehicle numbers, messages or other evidence when it is safe to do so.",
+    "privacy": "Do not require unnecessary sensitive details from a victim in order to show the correct authority/helpline."
+  },
+  "contacts": {
+    "police_emergency": {
+      "label": "Sri Lanka Police Emergency",
+      "phone": "119",
+      "source_url": "https://www.police.lk/"
+    },
+    "children_women_bureau": {
+      "label": "Sri Lanka Police - Children and Women's Bureau",
+      "phone": "109",
+      "source_url": "https://www.police.lk/"
+    },
+    "women_helpline": {
+      "label": "Women Helpline - Ministry of Women and Child Affairs",
+      "phone": "1938",
+      "source_url": "https://childwomenmin.gov.lk/landing/key-contacts/3/en"
+    },
+    "childline": {
+      "label": "NCPA ChildLine",
+      "phone": "1929",
+      "email": "ncpa@childprotection.gov.lk",
+      "source_url": "https://childprotection.gov.lk/en/what-we-do/1929-call-centre-helpline"
+    },
+    "tell_igp": {
+      "label": "Tell IGP online police complaint route",
+      "url": "https://telligp.police.lk/",
+      "source_url": "https://telligp.police.lk/"
+    }
+  },
+  "subtypes": {
+    "public_or_sexual_harassment": {
+      "label": "Public / sexual harassment",
+      "recommended_contacts": [
+        "children_women_bureau",
+        "women_helpline"
+      ],
+      "required_information": [
+        "incident_location",
+        "date_and_time",
+        "description_of_what_happened",
+        "person_or_vehicle_description_if_known",
+        "witness_details_if_available",
+        "screenshots_photos_or_video_only_if_safe"
+      ]
+    },
+    "stalking_or_following": {
+      "label": "Stalking / being followed",
+      "recommended_contacts": [
+        "children_women_bureau",
+        "women_helpline"
+      ],
+      "required_information": [
+        "current_or_last_known_location",
+        "date_and_time",
+        "description_of_person_or_vehicle_if_known",
+        "repeated_incidents_or_pattern",
+        "messages_or_calls_if_relevant",
+        "evidence_only_if_safe"
+      ]
+    },
+    "domestic_violence": {
+      "label": "Domestic violence",
+      "recommended_contacts": [
+        "children_women_bureau",
+        "women_helpline"
+      ],
+      "required_information": [
+        "safe_contact_method",
+        "incident_location",
+        "date_and_time",
+        "brief_description",
+        "injury_or_medical_help_needed",
+        "children_or_other_people_at_risk"
+      ]
+    },
+    "child_abuse_neglect_or_exploitation": {
+      "label": "Child abuse / neglect / exploitation",
+      "recommended_contacts": [
+        "childline",
+        "children_women_bureau"
+      ],
+      "required_information": [
+        "child_location_if_known",
+        "nature_of_concern",
+        "date_or_timeframe",
+        "person_or_place_involved_if_known",
+        "immediate_danger_yes_or_no"
+      ]
+    },
+    "physical_assault_or_threat": {
+      "label": "Physical assault / threat",
+      "recommended_contacts": [
+        "children_women_bureau",
+        "women_helpline"
+      ],
+      "required_information": [
+        "incident_location",
+        "date_and_time",
+        "description",
+        "injury_or_medical_help_needed",
+        "person_or_vehicle_description_if_known",
+        "witnesses_or_evidence_if_safe"
+      ]
+    },
+    "online_harassment_or_abuse": {
+      "label": "Online harassment / abuse",
+      "recommended_contacts": [
+        "children_women_bureau",
+        "women_helpline"
+      ],
+      "required_information": [
+        "platform_or_app",
+        "account_or_profile_details",
+        "date_and_time",
+        "screenshots_or_messages",
+        "threat_or_immediate_danger_yes_or_no"
+      ]
+    },
+    "other_safety_concern": {
+      "label": "Other women/child safety concern",
+      "recommended_contacts": [
+        "children_women_bureau"
+      ],
+      "required_information": [
+        "location",
+        "date_and_time",
+        "brief_description",
+        "immediate_danger_yes_or_no"
+      ]
+    }
+  }
+}

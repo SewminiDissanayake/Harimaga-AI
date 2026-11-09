@@ -1,0 +1,181 @@
+{
+  "cross_validation": [
+    {
+      "model": "Majority-class baseline",
+      "accuracy_mean": 0.09968340117593846,
+      "accuracy_std": 0.007187474973215211,
+      "macro_f1_mean": 0.015101402772635652,
+      "macro_f1_std": 0.0009931493590633973
+    },
+    {
+      "model": "Word TF-IDF + LogReg",
+      "accuracy_mean": 0.6165535956580733,
+      "accuracy_std": 0.07543336617477481,
+      "macro_f1_mean": 0.5842273820950291,
+      "macro_f1_std": 0.07353004409369251
+    },
+    {
+      "model": "Char TF-IDF + LogReg (C=1, v1 setting)",
+      "accuracy_mean": 0.7061058344640435,
+      "accuracy_std": 0.05640296842350311,
+      "macro_f1_mean": 0.6762399020732354,
+      "macro_f1_std": 0.06255660517808656
+    },
+    {
+      "model": "Char TF-IDF + LogReg (C=30, deployed)",
+      "accuracy_mean": 0.7423940901552842,
+      "accuracy_std": 0.057519900621935266,
+      "macro_f1_mean": 0.7112145117047077,
+      "macro_f1_std": 0.06255607951003216
+    },
+    {
+      "model": "Char TF-IDF + Linear SVM",
+      "accuracy_mean": 0.7534599728629581,
+      "accuracy_std": 0.052699222724977596,
+      "macro_f1_mean": 0.7198922110931913,
+      "macro_f1_std": 0.05709433822756018
+    },
+    {
+      "model": "Char TF-IDF + Complement NB",
+      "accuracy_mean": 0.7232473993668023,
+      "accuracy_std": 0.05336563189365499,
+      "macro_f1_mean": 0.6816555938614763,
+      "macro_f1_std": 0.06379980139606083
+    },
+    {
+      "model": "Word+Char TF-IDF + LogReg",
+      "accuracy_mean": 0.7020955826925976,
+      "accuracy_std": 0.06635099103960036,
+      "macro_f1_mean": 0.6660716679834326,
+      "macro_f1_std": 0.06973675175889246
+    }
+  ],
+  "challenge_generalisation": [
+    {
+      "model": "Majority-class baseline",
+      "challenge_accuracy": 0.08333333333333333,
+      "challenge_macro_f1": 0.012820512820512822
+    },
+    {
+      "model": "Word TF-IDF + LogReg",
+      "challenge_accuracy": 0.7833333333333333,
+      "challenge_macro_f1": 0.7760638971165288
+    },
+    {
+      "model": "Char TF-IDF + LogReg (C=1, v1 setting)",
+      "challenge_accuracy": 0.8583333333333333,
+      "challenge_macro_f1": 0.8541053721259672
+    },
+    {
+      "model": "Char TF-IDF + LogReg (C=30, deployed)",
+      "challenge_accuracy": 0.875,
+      "challenge_macro_f1": 0.8688862307283359
+    },
+    {
+      "model": "Char TF-IDF + Linear SVM",
+      "challenge_accuracy": 0.8833333333333333,
+      "challenge_macro_f1": 0.8776790461000986
+    },
+    {
+      "model": "Char TF-IDF + Complement NB",
+      "challenge_accuracy": 0.8583333333333333,
+      "challenge_macro_f1": 0.8552955318687584
+    },
+    {
+      "model": "Word+Char TF-IDF + LogReg",
+      "challenge_accuracy": 0.8333333333333334,
+      "challenge_macro_f1": 0.8262157920052657
+    }
+  ],
+  "ablation_dev_v1": [
+    {
+      "system": "ML model only",
+      "accuracy": 0.8333333333333334,
+      "macro_f1": 0.8372667780562518,
+      "acc_en": 0.9722222222222222,
+      "acc_si": 0.75,
+      "acc_singlish": 0.7708333333333334,
+      "acc_ta": 0.8333333333333334,
+      "safety_recall": 1.0
+    },
+    {
+      "system": "Keyword rules + ML",
+      "accuracy": 0.8416666666666667,
+      "macro_f1": 0.8442540738820231,
+      "acc_en": 0.9722222222222222,
+      "acc_si": 0.7916666666666666,
+      "acc_singlish": 0.7708333333333334,
+      "acc_ta": 0.8333333333333334,
+      "safety_recall": 1.0
+    },
+    {
+      "system": "Full HariMaga system",
+      "accuracy": 0.8916666666666667,
+      "macro_f1": 0.8901251053727833,
+      "acc_en": 1.0,
+      "acc_si": 0.7916666666666666,
+      "acc_singlish": 0.8541666666666666,
+      "acc_ta": 0.9166666666666666,
+      "safety_recall": 1.0
+    }
+  ],
+  "ablation_test_v2": [
+    {
+      "system": "ML model only",
+      "accuracy": 0.7333333333333333,
+      "macro_f1": 0.7606060606060607,
+      "acc_en": 0.8333333333333334,
+      "acc_si": 0.75,
+      "acc_singlish": 0.7916666666666666,
+      "acc_ta": 0.5,
+      "safety_recall": 0.8
+    },
+    {
+      "system": "Keyword rules + ML",
+      "accuracy": 0.7333333333333333,
+      "macro_f1": 0.7606060606060607,
+      "acc_en": 0.8333333333333334,
+      "acc_si": 0.75,
+      "acc_singlish": 0.7916666666666666,
+      "acc_ta": 0.5,
+      "safety_recall": 0.8
+    },
+    {
+      "system": "Full HariMaga system",
+      "accuracy": 0.8,
+      "macro_f1": 0.8171176046176045,
+      "acc_en": 1.0,
+      "acc_si": 0.8333333333333334,
+      "acc_singlish": 0.7916666666666666,
+      "acc_ta": 0.5833333333333334,
+      "safety_recall": 1.0
+    }
+  ],
+  "learning_curve": [
+    {
+      "n": 68,
+      "macro_f1": 0.29426767676767673,
+      "std": 0.11997474747474747
+    },
+    {
+      "n": 133,
+      "macro_f1": 0.5030224867724866,
+      "std": 0.07570381003081418
+    },
+    {
+      "n": 198,
+      "macro_f1": 0.5553132515632515,
+      "std": 0.04998505189096398
+    },
+    {
+      "n": 263,
+      "macro_f1": 0.6363905076405076,
+      "std": 0.05763194684979219
+    },
+    {
+      "n": 331,
+      "macro_f1": 0.6967020656358891,
+      "std": 0.06761402776237534
+    }
+  ]
+}

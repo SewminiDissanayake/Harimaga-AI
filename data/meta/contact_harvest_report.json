@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-10-05T04:21:41.451652+00:00",
+  "sources": {
+    "divisional_secretariats": "https://rti.gov.lk/io-list/",
+    "local_authorities": "https://rti.gov.lk/do-list/"
+  },
+  "counts": {
+    "io_html_tables_found": 5,
+    "do_html_tables_found": 5,
+    "unique_ds_offices_harvested": 331,
+    "ds_officer_rows_harvested": 523,
+    "unique_local_authorities_harvested": 28,
+    "local_authority_officer_rows_harvested": 247
+  },
+  "matching": {
+    "ds_to_dcs_geography_status": "completed",
+    "exact_match_count": 0,
+    "manual_review_count": 331
+  }
+}

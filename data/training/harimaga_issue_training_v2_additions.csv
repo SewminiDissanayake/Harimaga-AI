@@ -1,0 +1,116 @@
+text,label,language_hint,origin
+someone keeps following me on my way home,women_child_safety,en,ai_drafted_v2
+a man touched me inappropriately on the train,women_child_safety,en,ai_drafted_v2
+my husband hits me when he is drunk,women_child_safety,en,ai_drafted_v2
+my ex is threatening to post my private photos,women_child_safety,en,ai_drafted_v2
+a child in our street is being beaten by his parents,women_child_safety,en,ai_drafted_v2
+young children are made to work at the factory,women_child_safety,en,ai_drafted_v2
+I am receiving abusive messages from an unknown number,women_child_safety,en,ai_drafted_v2
+my stepfather harasses me at home,women_child_safety,en,ai_drafted_v2
+පාරේ යනකොට කෙනෙක් හැමදාම පස්සෙන් එනවා,women_child_safety,si,ai_drafted_v2
+බීලා ඇවිත් ගෙදර අයට ගහනවා,women_child_safety,si,ai_drafted_v2
+කෙනෙක් phone එකෙන් මට තර්ජනය කරනවා,women_child_safety,si,ai_drafted_v2
+පොඩි දරුවන්ව කඩවල වැඩට යොදවනවා,women_child_safety,si,ai_drafted_v2
+ගෑනු ළමයින්ට බස් එකේ හිරිහැර කරනවා,women_child_safety,si,ai_drafted_v2
+mage husband mata gahanawa,women_child_safety,singlish,ai_drafted_v2
+kenek dawasema mage pitipassen enawa,women_child_safety,singlish,ai_drafted_v2
+facebook eke kenek mata threaten karanawa,women_child_safety,singlish,ai_drafted_v2
+lamai la wadata gannawa iskole yawanne na,women_child_safety,singlish,ai_drafted_v2
+gedara aya lamayata nithara gahanawa,women_child_safety,singlish,ai_drafted_v2
+office eke kenek mata nithara harassment karanawa,women_child_safety,singlish,ai_drafted_v2
+mata phone karala bayakaranawa,women_child_safety,singlish,ai_drafted_v2
+flood water is entering houses in our village,disaster_alert,en,ai_drafted_v2
+is there a flood warning for Kalutara,disaster_alert,en,ai_drafted_v2
+the hillside behind our school is sliding,disaster_alert,en,ai_drafted_v2
+big cracks appeared in the ground after heavy rain,disaster_alert,en,ai_drafted_v2
+the river burst its banks near our town,disaster_alert,en,ai_drafted_v2
+should we evacuate because of the landslide risk,disaster_alert,en,ai_drafted_v2
+rocks are falling from the mountain onto houses,disaster_alert,en,ai_drafted_v2
+ගංවතුරට ගෙවල් යට වෙලා,disaster_alert,si,ai_drafted_v2
+කන්දේ ඉරිතැලීම් පේනවා නාය යයිද,disaster_alert,si,ai_drafted_v2
+ගඟේ වතුර මට්ටම ඉහළ යනවා,disaster_alert,si,ai_drafted_v2
+වැස්ස නිසා ගෙවල් ළඟ පස් කඩාගෙන වැටෙනවා,disaster_alert,si,ai_drafted_v2
+නායයෑම් අනතුරක් තියෙනවද,disaster_alert,si,ai_drafted_v2
+ganga pita wela gewal walata wathura gelanawa,disaster_alert,singlish,ai_drafted_v2
+kande pas bihinawa wage,disaster_alert,singlish,ai_drafted_v2
+flood warning ekak thiyenawada,disaster_alert,singlish,ai_drafted_v2
+wahina nisa gewal yata wenawa,disaster_alert,singlish,ai_drafted_v2
+pas kanda kadila para wahila,disaster_alert,singlish,ai_drafted_v2
+landslide risk ekak thiyenawada ape area eke,disaster_alert,singlish,ai_drafted_v2
+I lost my identity card yesterday,lost_document,en,ai_drafted_v2
+my driving license is missing,lost_document,en,ai_drafted_v2
+my wallet with my NIC was stolen,lost_document,en,ai_drafted_v2
+I cannot find my passport anywhere,lost_document,en,ai_drafted_v2
+lost my birth certificate during the move,lost_document,en,ai_drafted_v2
+how do I replace a lost national ID,lost_document,en,ai_drafted_v2
+හැඳුනුම්පත දාපු බෑග් එක ගමනේදී අතපසු වුණා,lost_document,si,ai_drafted_v2
+පර්ස් එක හොරකම් කළා ඒකේ ලයිසන් එක තිබ්බා,lost_document,si,ai_drafted_v2
+උප්පැන්න සහතිකය නැති වුණා,lost_document,si,ai_drafted_v2
+පාස්පෝට් එක හොයාගන්න බෑ,lost_document,si,ai_drafted_v2
+nic eka nathi wela aluth ekak ganne kohomada,lost_document,singlish,ai_drafted_v2
+licence eka bus eke nathi una,lost_document,singlish,ai_drafted_v2
+pocket eken identity card eka gilihila,lost_document,singlish,ai_drafted_v2
+passport eka nathi wela,lost_document,singlish,ai_drafted_v2
+uppanna sahathikaya gedara gini gaththama pichchuna,lost_document,singlish,ai_drafted_v2
+purse eka ekka id eka giya,lost_document,singlish,ai_drafted_v2
+there is a deep hole on the road outside my house,road_issue,en,ai_drafted_v2
+the street is full of potholes after the rains,road_issue,en,ai_drafted_v2
+the road near the bridge has collapsed,road_issue,en,ai_drafted_v2
+no water from the tap since this morning,water_issue,en,ai_drafted_v2
+our drinking water is dirty and brown,water_issue,en,ai_drafted_v2
+the water bill is far too high this month,water_issue,en,ai_drafted_v2
+power is out in our whole street,electricity_issue,en,ai_drafted_v2
+an electric pole fell and wires are on the road,electricity_issue,en,ai_drafted_v2
+the electricity bill is wrong,electricity_issue,en,ai_drafted_v2
+nobody has taken the garbage for weeks,garbage_collection,en,ai_drafted_v2
+the waste truck never comes to our lane,garbage_collection,en,ai_drafted_v2
+trash is piled up at the corner and smells,garbage_collection,en,ai_drafted_v2
+the conductor did not give my balance,bus_complaint,en,ai_drafted_v2
+the bus driver was speeding and reckless,bus_complaint,en,ai_drafted_v2
+the bus skipped our stop,bus_complaint,en,ai_drafted_v2
+the shop sold me a broken product and won't refund,consumer_complaint,en,ai_drafted_v2
+they charged more than the printed price,consumer_complaint,en,ai_drafted_v2
+the store sold expired food,consumer_complaint,en,ai_drafted_v2
+a factory is releasing smoke all night,environment_issue,en,ai_drafted_v2
+people are cutting trees in the reserve,environment_issue,en,ai_drafted_v2
+sand is being mined illegally from the river,environment_issue,en,ai_drafted_v2
+my passport renewal is taking too long,immigration_issue,en,ai_drafted_v2
+I need to extend my visa,immigration_issue,en,ai_drafted_v2
+how do I apply for a new passport,immigration_issue,en,ai_drafted_v2
+I don't know which office handles my pension,unknown_government_issue,en,ai_drafted_v2
+which department issues a character certificate,unknown_government_issue,en,ai_drafted_v2
+where do I get a copy of a land deed,unknown_government_issue,en,ai_drafted_v2
+வீதியில் குழிகள் நிறைய உள்ளன,road_issue,ta,ai_drafted_v2
+வீதி சேதமடைந்துள்ளது,road_issue,ta,ai_drafted_v2
+இரண்டு நாட்களாக நீர் விநியோகம் நிறுத்தப்பட்டுள்ளது,water_issue,ta,ai_drafted_v2
+குழாய் நீர் அழுக்காக உள்ளது,water_issue,ta,ai_drafted_v2
+வீட்டில் மின்சாரம் இல்லை,electricity_issue,ta,ai_drafted_v2
+மின் கம்பம் விழுந்துள்ளது,electricity_issue,ta,ai_drafted_v2
+தெருவில் குப்பை நாற்றம் வீசுகிறது,garbage_collection,ta,ai_drafted_v2
+நகர சபை குப்பையை அகற்றவில்லை,garbage_collection,ta,ai_drafted_v2
+பேருந்து நிறுத்தத்தில் நிற்கவில்லை,bus_complaint,ta,ai_drafted_v2
+நடத்துனர் அதிக கட்டணம் வசூலித்தார்,bus_complaint,ta,ai_drafted_v2
+கடை பணத்தைத் திருப்பித் தரவில்லை,consumer_complaint,ta,ai_drafted_v2
+அதிக விலைக்கு விற்கிறார்கள்,consumer_complaint,ta,ai_drafted_v2
+தொழிற்சாலை கழிவுகளை ஆற்றில் விடுகிறது,environment_issue,ta,ai_drafted_v2
+சட்டவிரோதமாக மரங்களை வெட்டுகிறார்கள்,environment_issue,ta,ai_drafted_v2
+கடவுச்சீட்டு இன்னும் வரவில்லை,immigration_issue,ta,ai_drafted_v2
+விசா காலம் முடிகிறது,immigration_issue,ta,ai_drafted_v2
+எனது அடையாள அட்டை காணவில்லை,lost_document,ta,ai_drafted_v2
+கடவுச்சீட்டு தொலைந்துவிட்டது,lost_document,ta,ai_drafted_v2
+பள்ளி அருகே ஒருவர் பெண்களைத் துன்புறுத்துகிறார்,women_child_safety,ta,ai_drafted_v2
+வீட்டில் குடும்ப வன்முறை நடக்கிறது,women_child_safety,ta,ai_drafted_v2
+சிறுவர்களை வேலைக்கு அமர்த்துகிறார்கள்,women_child_safety,ta,ai_drafted_v2
+வெள்ள நீர் வீடுகளுக்குள் புகுகிறது,disaster_alert,ta,ai_drafted_v2
+மலையிலிருந்து பாறைகள் விழுகின்றன,disaster_alert,ta,ai_drafted_v2
+ஓய்வூதியம் பற்றி எங்கே கேட்பது,unknown_government_issue,ta,ai_drafted_v2
+எந்த அலுவலகத்திற்கு செல்ல வேண்டும் தெரியவில்லை,unknown_government_issue,ta,ai_drafted_v2
+developers are threatening to fill the paddy fields with soil,environment_issue,en,ai_drafted_v2_contrast
+a company is threatening to clear the mangroves near the lagoon,environment_issue,en,ai_drafted_v2_contrast
+they plan to cut down the old trees in the park,environment_issue,en,ai_drafted_v2_contrast
+the quarry owner threatens to keep blasting at night,environment_issue,en,ai_drafted_v2_contrast
+power eka nithara trip wenawa,electricity_issue,singlish,ai_drafted_v2_contrast
+light nithara nivila yanawa raathriyata,electricity_issue,singlish,ai_drafted_v2_contrast
+bus eka nithara late wela enne,bus_complaint,singlish,ai_drafted_v2_contrast
+kunu nithara para ayine danawa,garbage_collection,singlish,ai_drafted_v2_contrast
+wathura nithara nawaththanawa,water_issue,singlish,ai_drafted_v2_contrast

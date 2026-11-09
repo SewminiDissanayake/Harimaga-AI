@@ -1,0 +1,217 @@
+﻿text,label,language_hint
+water pipe eka leak wenawa,water_issue,singlish
+ape gedara wathura enne na,water_issue,singlish
+tap water pressure eka adui,water_issue,singlish
+main water line eka kadila,water_issue,singlish
+there is a water leak on our road,water_issue,en
+no water supply since morning,water_issue,en
+water pressure is very low,water_issue,en
+a water pipe has burst near my house,water_issue,en
+අපේ ගෙදරට වතුර එන්නේ නැහැ,water_issue,si
+පාරේ වතුර නලයක් කැඩිලා,water_issue,si
+වතුර පීඩනය ගොඩක් අඩුයි,water_issue,si
+අද උදේ ඉඳන් ජල සැපයුම නෑ,water_issue,si
+water board wathura cut ekak thiyenawa,water_issue,singlish
+nwsdb line eka leak wenawa,water_issue,singlish
+ape area eke water supply stop wela,water_issue,singlish
+wathura pipe eken loku leak ekak,water_issue,singlish
+water meter laga pipe eka kadila,water_issue,singlish
+drinking water supply eka awul,water_issue,singlish
+road side water line eka burst wela,water_issue,singlish
+wathura enna godak wela yanawa,water_issue,singlish
+ජල නලයෙන් වතුර කාන්දු වෙනවා,water_issue,si
+අපේ ප්‍රදේශයේ ජල සැපයුම නතර වෙලා,water_issue,si
+නල ජලය එන්නේ බොහොම අඩුවෙන්,water_issue,si
+වතුර බිල නෙවෙයි supply එකේ problem ekak,water_issue,mixed
+current eka giya,electricity_issue,singlish
+power cut ekak wela,electricity_issue,singlish
+gedara light enne na,electricity_issue,singlish
+electricity supply eka awul,electricity_issue,singlish
+there is a power failure in my area,electricity_issue,en
+no electricity since last night,electricity_issue,en
+my electricity connection is not working,electricity_issue,en
+the power keeps going off,electricity_issue,en
+අපේ ගෙදර කරන්ට් එක නෑ,electricity_issue,si
+ප්‍රදේශයේ විදුලිය විසන්ධි වෙලා,electricity_issue,si
+ඊයේ රෑ ඉඳන් ලයිට් නෑ,electricity_issue,si
+විදුලි සැපයුම නැවත නැවත කඩෙනවා,electricity_issue,si
+ceb current complaint ekak danna oni,electricity_issue,singlish
+leco power issue ekak,electricity_issue,singlish
+meter eka wada karanne na,electricity_issue,singlish
+electricity bill eka unusual,electricity_issue,singlish
+transformer eka laga spark wenawa,electricity_issue,singlish
+power line eka bimata wetila,electricity_issue,singlish
+current eka low voltage wage,electricity_issue,singlish
+voltage eka hariyata enne na,electricity_issue,singlish
+විදුලි කණුවකින් ගිනි පුපුරු යනවා,electricity_issue,si
+විදුලි රැහැන් පාරට වැටිලා,electricity_issue,si
+වෝල්ටේජ් එක ගොඩක් අඩුයි,electricity_issue,si
+CEB connection eka disconnect wela wage,electricity_issue,singlish
+ape pare loku walak thiyenawa,road_issue,singlish
+road eka kadila,road_issue,singlish
+pothole ekak nisa yanna ba,road_issue,singlish
+main road surface eka damage wela,road_issue,singlish
+there is a huge pothole on the road,road_issue,en
+the road is badly damaged,road_issue,en
+this road needs repair,road_issue,en
+a section of the road has collapsed,road_issue,en
+අපේ පාරේ ලොකු වළක් තියෙනවා,road_issue,si
+පාර කැඩිලා ගමන් කරන්න අමාරුයි,road_issue,si
+මාර්ගයේ කොටසක් ගිලා බැහැලා,road_issue,si
+පාර අලුත්වැඩියා කරන්න ඕන,road_issue,si
+rda road ekak damage wela,road_issue,singlish
+council road eka potholes walin full,road_issue,singlish
+bridge approach road eka kadila,road_issue,singlish
+road side drain nisa road eka damage,road_issue,singlish
+asphalt eka galawila,road_issue,singlish
+pare edge eka collapse wela,road_issue,singlish
+road marking nemei road damage complaint,road_issue,en
+main highway eke pothole ekak,road_issue,singlish
+මාර්ගයේ තාර ගැලවිලා,road_issue,si
+පාලම ළඟ පාර කැඩිලා,road_issue,si
+පාරේ වළවල් ගොඩක් තියෙනවා,road_issue,si
+local road eka repair karanna oni,road_issue,singlish
+ape pare kunu aran yanne na,garbage_collection,singlish
+garbage truck eka enne na,garbage_collection,singlish
+kunu godak ekathu wela,garbage_collection,singlish
+waste collection eka miss wela,garbage_collection,singlish
+garbage has not been collected,garbage_collection,en
+the rubbish truck did not come,garbage_collection,en
+trash is piling up on our street,garbage_collection,en
+municipal waste collection is delayed,garbage_collection,en
+අපේ පාරේ කුණු අරන් යන්නේ නෑ,garbage_collection,si
+කුණු ගොඩක් දවස් ගානක් තියෙනවා,garbage_collection,si
+කුණු ලොරිය ආවේ නැහැ,garbage_collection,si
+කසළ එකතු කිරීම වෙන්නේ නැහැ,garbage_collection,si
+pradeshiya sabha kunu ganna enne na,garbage_collection,singlish
+weekly garbage collection eka miss wela,garbage_collection,singlish
+road side garbage pile ekak thiyenawa,garbage_collection,singlish
+household waste collect karanne na,garbage_collection,singlish
+kunu bags tika dina ganak thiyenawa,garbage_collection,singlish
+garbage collection schedule eka follow karanne na,garbage_collection,singlish
+waste truck complaint ekak danna oni,garbage_collection,singlish
+kunu smell eka nisa area eka awul,garbage_collection,singlish
+කසළ බෑග් දවස් ගණනක් එකතු කරලා නෑ,garbage_collection,si
+ගෙවල්වල කුණු එකතු කරන්න ලොරිය එන්නේ නැහැ,garbage_collection,si
+පාර අයිනේ කුණු ගොඩක් දාලා,garbage_collection,si
+කසළ සේවාව නතර වෙලා වගේ,garbage_collection,si
+bus eka stop eke nawaththuwe na,bus_complaint,singlish
+conductor overcharge kala,bus_complaint,en
+bus ticket ekak dunne na,bus_complaint,singlish
+driver dangerous widihata drive kala,bus_complaint,en
+the bus did not stop for passengers,bus_complaint,en
+the conductor charged too much,bus_complaint,en
+I did not receive a bus ticket,bus_complaint,en
+the bus driver was driving dangerously,bus_complaint,en
+බස් එක හෝල්ට් එකේ නවත්තුවේ නැහැ,bus_complaint,si
+කොන්දොස්තර වැඩිපුර සල්ලි ගත්තා,bus_complaint,si
+ටිකට් එකක් දුන්නේ නැහැ,bus_complaint,si
+බස් රියදුරු අනතුරුදායක ලෙස ධාවනය කළා,bus_complaint,si
+bus route service eka hariyata na,bus_complaint,singlish
+bus number eka complaint karanna oni,bus_complaint,singlish
+last bus eka schedule ekata awe na,bus_complaint,singlish
+private bus eke passengerla ta bad treatment,bus_complaint,en
+bus fare eka wrong,bus_complaint,singlish
+bus eka over crowded karala yanne,bus_complaint,singlish
+route permit awul wage bus ekak,bus_complaint,singlish
+bus service delay wenawa daily,bus_complaint,singlish
+බස් ගාස්තුව වැරදි ලෙස අය කළා,bus_complaint,si
+බස් සේවාව නිතර ප්‍රමාද වෙනවා,bus_complaint,si
+මගීන්ට අසභ්‍ය ලෙස කතා කළා,bus_complaint,si
+බස් එක නියමිත මාර්ගයෙන් ගියේ නැහැ,bus_complaint,si
+shop eken gatta item eka defective,consumer_complaint,singlish
+warranty eka honor karanne na,consumer_complaint,singlish
+seller refund denne na,consumer_complaint,singlish
+price eka display karapu ekata wada wadi,consumer_complaint,singlish
+the product I bought is defective,consumer_complaint,en
+the shop refuses to give a refund,consumer_complaint,en
+my warranty claim was rejected,consumer_complaint,en
+the seller charged more than the displayed price,consumer_complaint,en
+ගත්ත භාණ්ඩය වැඩ කරන්නේ නැහැ,consumer_complaint,si
+වගකීම් කාලය තිබුණත් හදලා දෙන්නේ නැහැ,consumer_complaint,si
+මුදල් ආපසු දෙන්නේ නැහැ,consumer_complaint,si
+දැක්වූ මිලට වඩා වැඩියෙන් අය කළා,consumer_complaint,si
+online order eka wrong item ekak,consumer_complaint,singlish
+service ekata payment kala but service dunne na,consumer_complaint,singlish
+expired product ekak sell kala,consumer_complaint,singlish
+receipt thiyenawa refund one,consumer_complaint,en
+fake product ekak wage,consumer_complaint,singlish
+shop ekata consumer complaint ekak danna oni,consumer_complaint,singlish
+business eka misleading price ekak dala,consumer_complaint,singlish
+repair center warranty deny kala,consumer_complaint,en
+කල් ඉකුත් වූ භාණ්ඩයක් විකුණලා,consumer_complaint,si
+ඔන්ලයින් ඕඩරයට වැරදි භාණ්ඩයක් ආවා,consumer_complaint,si
+ගෙවීම කළත් සේවාව ලැබුණේ නැහැ,consumer_complaint,si
+වෙළඳසැලෙන් refund එකක් දෙන්නේ නැහැ,consumer_complaint,mixed
+factory eken loku smoke enawa,environment_issue,en
+night time noise pollution godak,environment_issue,en
+chemical waste river ekata danawa,environment_issue,singlish
+industrial waste dump karanawa,environment_issue,en
+there is heavy smoke from a factory,environment_issue,en
+a company is dumping chemicals into the river,environment_issue,en
+there is severe noise pollution at night,environment_issue,en
+hazardous waste is being dumped nearby,environment_issue,en
+කර්මාන්ත ශාලාවෙන් අධික දුමක් එනවා,environment_issue,si
+රෑට අධික ශබ්ද දූෂණයක් තියෙනවා,environment_issue,si
+රසායනික අපද්‍රව්‍ය ගඟට දානවා,environment_issue,si
+අනතුරුදායක අපද්‍රව්‍ය පරිසරයට දානවා,environment_issue,si
+bad smell from industrial site,environment_issue,en
+factory wastewater drain ekata release karanawa,environment_issue,singlish
+construction site dust pollution,environment_issue,en
+illegal burning nisa smoke godak,environment_issue,en
+environment damage complaint ekak,environment_issue,singlish
+oil waste canal ekata yanawa,environment_issue,singlish
+loudspeaker noise complaint ekak,environment_issue,singlish
+industrial pollution nisa area eka awul,environment_issue,singlish
+කර්මාන්ත අපජලය ඇළට දානවා,environment_issue,si
+ඉදිකිරීම් දූවිලි නිසා පරිසර දූෂණයක්,environment_issue,si
+කසළ පුළුස්සන නිසා අධික දුමක්,environment_issue,si
+තෙල් අපද්‍රව්‍ය ජල මාර්ගයට ගලා යනවා,environment_issue,si
+passport eka delay wela,immigration_issue,singlish
+passport application status eka danne na,immigration_issue,singlish
+visa issue ekak thiyenawa,immigration_issue,singlish
+passport appointment problem ekak,immigration_issue,singlish
+my passport is delayed,immigration_issue,en
+I have a problem with my visa application,immigration_issue,en
+I need help with a passport application,immigration_issue,en
+my passport application status has not changed,immigration_issue,en
+මගේ පාස්පෝට් එක ප්‍රමාද වෙලා,immigration_issue,si
+වීසා අයදුම්පතේ ගැටලුවක් තියෙනවා,immigration_issue,si
+පාස්පෝට් අයදුම්පතේ තත්ත්වය දන්නේ නැහැ,immigration_issue,si
+පාස්පෝට් appointment එකේ ප්‍රශ්නයක්,immigration_issue,mixed
+passport renewal eka awul,immigration_issue,singlish
+immigration application reference ekata update na,immigration_issue,singlish
+visa extension eka process wenne na,immigration_issue,singlish
+passport collect karanna message awe na,immigration_issue,en
+passport document issue ekak,immigration_issue,singlish
+online passport booking eka wada na,immigration_issue,singlish
+immigration office service complaint ekak,immigration_issue,singlish
+passport payment kala status na,immigration_issue,en
+පාස්පෝට් අලුත් කිරීමේ ගැටලුවක්,immigration_issue,si
+වීසා දිගු කිරීමේ අයදුම්පත ප්‍රමාදයි,immigration_issue,si
+පාස්පෝට් එක ගන්න message එකක් ආවේ නැහැ,immigration_issue,mixed
+ආගමන විගමන සේවාවේ ගැටලුවක් තියෙනවා,immigration_issue,si
+me problem eka kohetada kiyanna oni danne na,unknown_government_issue,singlish
+which government office should I contact,unknown_government_issue,en
+I do not know where to complain,unknown_government_issue,en
+who is responsible for this government service,unknown_government_issue,en
+මේ ප්‍රශ්නය කොහෙට කියන්නද දන්නේ නැහැ,unknown_government_issue,si
+මට අදාළ රාජ්‍ය ආයතනය හොයාගන්න බැහැ,unknown_government_issue,si
+කොයි office එකට යන්නද කියලා දන්නේ නැහැ,unknown_government_issue,mixed
+මේකට වගකියන්නේ කවුද දන්නේ නැහැ,unknown_government_issue,si
+government service ekak gana information one,unknown_government_issue,singlish
+right authority eka hoyaganna ba,unknown_government_issue,singlish
+public service ekak koheda thiyenne,unknown_government_issue,singlish
+government office contact eka danne na,unknown_government_issue,singlish
+meka local da national da danne na,unknown_government_issue,singlish
+complaint eka koheda danna one,unknown_government_issue,singlish
+I need general government information,unknown_government_issue,en
+I need help finding the correct public authority,unknown_government_issue,en
+I am not sure which department handles this,unknown_government_issue,en
+please tell me the correct government agency,unknown_government_issue,en
+රාජ්‍ය සේවාවක් ගැන සාමාන්‍ය තොරතුරු ඕන,unknown_government_issue,si
+නිවැරදි දෙපාර්තමේන්තුව හොයාගන්න උදව් කරන්න,unknown_government_issue,si
+මේක ප්‍රාදේශීයද ජාතිකද කියලා දන්නේ නැහැ,unknown_government_issue,si
+අදාළ ආයතනයේ contact details හොයනවා,unknown_government_issue,mixed
+mata 1919 wage government info service ekak one,unknown_government_issue,singlish
+general public service guidance one,unknown_government_issue,en

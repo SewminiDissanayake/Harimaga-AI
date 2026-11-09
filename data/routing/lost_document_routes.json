@@ -1,0 +1,159 @@
+{
+  "dataset": "HariMaga lost government documents routing v1",
+  "verified_on": "2026-10-05",
+  "police": {
+    "nearest_station_rule": "For a lost NIC, the Department for Registration of Persons says to report the loss immediately to the nearest police station. Lost driving-licence replacement also requires a copy of the police complaint. A lost/stolen passport in Sri Lanka should be reported to the local police station as soon as possible.",
+    "telephone_index": "https://www.police.lk/?page_id=1301",
+    "tell_igp": "https://telligp.police.lk/",
+    "tell_igp_email": "telligp@police.gov.lk",
+    "police_headquarters": "011 2421111",
+    "emergency": "119",
+    "important_note": "119 is for emergencies. A routine lost-document report should normally be made to the relevant/nearest police station. Tell IGP is an official online police complaint route, but HariMaga must not claim that an online submission automatically replaces a police complaint copy required by DRP, DMT or Immigration."
+  },
+  "document_types": {
+    "national_identity_card": {
+      "label": "National Identity Card (NIC)",
+      "authority": "Department for Registration of Persons",
+      "steps": [
+        "Report the lost NIC immediately to the nearest police station.",
+        "Apply for a replacement NIC through the relevant certifying officer.",
+        "For a non-estate resident, the application is forwarded through the Grama Niladhari and countersigned by the Divisional Secretary.",
+        "Keep the police report/complaint details and supporting identity/civil documents required by DRP."
+      ],
+      "contacts": [
+        {
+          "label": "NIC details inquiry",
+          "value": "011 5226126"
+        },
+        {
+          "label": "Other DRP inquiries",
+          "value": "011 5226100"
+        },
+        {
+          "label": "DRP email",
+          "value": "info@drp.lk"
+        }
+      ],
+      "source_urls": [
+        "https://drp.gov.lk/en/contact.php",
+        "https://drp.gov.lk/en/normal.php/assets/vendor/swiper/assets/vendor/bootstrap/js/assets/img/vendor/aos/aos/img/php-email-form/si/php-email-form/php-email-form/bootstrap/ta/swiper/isotope-layout/js/swiper/nicverification.php"
+      ],
+      "required_information": [
+        "lost_nic_number_if_known",
+        "full_name",
+        "date_and_approximate_time_lost",
+        "place_or_area_lost",
+        "current_address",
+        "police_complaint_reference_or_copy",
+        "birth_certificate_or_other_identity_documents_as_required"
+      ]
+    },
+    "driving_licence": {
+      "label": "Driving Licence",
+      "authority": "Department of Motor Traffic",
+      "steps": [
+        "Lodge a complaint about the lost driving licence with the police.",
+        "For a duplicate licence, DMT requires a copy of the police complaint lodged within 6 months of the loss.",
+        "Prepare the National Identity Card or a valid passport carrying the NIC number.",
+        "Contact the DMT Driving Licence Section / Werahera for the replacement process."
+      ],
+      "contacts": [
+        {
+          "label": "DMT Head Office",
+          "value": "011 2033333"
+        },
+        {
+          "label": "Driving Licence Section - Werahera",
+          "value": "011 2518926 / 011 2518950"
+        },
+        {
+          "label": "Driving licence issues WhatsApp",
+          "value": "078 6490500"
+        },
+        {
+          "label": "Werahera email",
+          "value": "dmtweraheracom@gmail.com"
+        }
+      ],
+      "source_urls": [
+        "https://dmt.gov.lk/index.php?catid=12&id=50&itemid=166&lang=en&option=com_content&view=article",
+        "https://dmt.gov.lk/index.php?Itemid=137&id=1&lang=en&option=com_contact&view=contact",
+        "https://dmt.gov.lk/?lang=si"
+      ],
+      "required_information": [
+        "driving_licence_number_if_known",
+        "nic_number",
+        "full_name",
+        "date_and_approximate_time_lost",
+        "place_or_area_lost",
+        "police_complaint_copy",
+        "valid_nic_or_passport_with_nic_number"
+      ]
+    },
+    "passport": {
+      "label": "Sri Lankan Passport",
+      "authority": "Department of Immigration and Emigration",
+      "steps": [
+        "If the passport is lost or stolen in Sri Lanka, make a complaint to the local police station as soon as possible.",
+        "Inform the Department of Immigration and Emigration using the official lost/stolen passport contact route.",
+        "The police transmits complaint details to Immigration for cancellation of the lost/stolen passport.",
+        "Once reported lost/stolen and cancelled, do not use the old passport even if it is later found.",
+        "For a replacement passport, the original police complaint is among the required documents."
+      ],
+      "contacts": [
+        {
+          "label": "Lost/stolen passport hotline",
+          "value": "011 2101533"
+        },
+        {
+          "label": "Immigration general hotline",
+          "value": "1962"
+        },
+        {
+          "label": "Immigration main telephone",
+          "value": "011 2101500"
+        },
+        {
+          "label": "Immigration email",
+          "value": "controller@immigration.gov.lk"
+        }
+      ],
+      "source_urls": [
+        "https://www.immigration.gov.lk/pages_e.php?id=12",
+        "https://www.immigration.gov.lk/pages_e.php?id=8"
+      ],
+      "required_information": [
+        "passport_number_if_known",
+        "full_name_as_in_passport",
+        "nic_number_if_available",
+        "date_and_approximate_time_lost",
+        "place_or_area_lost",
+        "police_complaint_original_or_reference",
+        "old_passport_copy_if_available"
+      ]
+    },
+    "other_government_document": {
+      "label": "Other government-issued document",
+      "authority": "Relevant issuing authority + Sri Lanka Police",
+      "steps": [
+        "Report the loss to the relevant/nearest police station when a police record is required or the document can be misused.",
+        "Identify the issuing government authority.",
+        "Use only that authority's verified replacement procedure and contact details."
+      ],
+      "contacts": [],
+      "source_urls": [
+        "https://www.police.lk/?page_id=1301",
+        "https://telligp.police.lk/"
+      ],
+      "required_information": [
+        "document_type",
+        "document_number_if_known",
+        "issuing_authority_if_known",
+        "full_name",
+        "date_and_approximate_time_lost",
+        "place_or_area_lost",
+        "police_complaint_reference_if_made"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3094 @@
+{
+  "source": "GNDList_Final.xlsx",
+  "count": 343,
+  "record_scope": "district-context atomic authority values derived from LG_Code/LG_Name",
+  "records": [
+    {
+      "id": "central__kandy__11__kandy_mc",
+      "code": "11",
+      "name": "Kandy MC",
+      "type": "municipal_council",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 45
+    },
+    {
+      "id": "central__kandy__21__gampola_uc",
+      "code": "21",
+      "name": "Gampola UC",
+      "type": "urban_council",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 21
+    },
+    {
+      "id": "central__kandy__22__kadugannawa_uc",
+      "code": "22",
+      "name": "Kadugannawa UC",
+      "type": "urban_council",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "central__kandy__23__nawalapitiya_uc",
+      "code": "23",
+      "name": "Nawalapitiya UC",
+      "type": "urban_council",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 7
+    },
+    {
+      "id": "central__kandy__24__wattegama_uc",
+      "code": "24",
+      "name": "Wattegama UC",
+      "type": "urban_council",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 8
+    },
+    {
+      "id": "central__kandy__31__akurana_ps",
+      "code": "31",
+      "name": "Akurana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "central__kandy__32__ganga_ihala_korale_ps",
+      "code": "32",
+      "name": "Ganga Ihala Korale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 31
+    },
+    {
+      "id": "central__kandy__33__harispattuwa_ps",
+      "code": "33",
+      "name": "Harispattuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 83
+    },
+    {
+      "id": "central__kandy__34__kandy_four_graverts_gangawata_korale_ps",
+      "code": "34",
+      "name": "Kandy Four Graverts &Gangawata Korale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "central__kandy__35__kundasale_ps",
+      "code": "35",
+      "name": "Kundasale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 80
+    },
+    {
+      "id": "central__kandy__36__medadumbara_ps",
+      "code": "36",
+      "name": "Medadumbara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 93
+    },
+    {
+      "id": "central__kandy__37__minipe_ps",
+      "code": "37",
+      "name": "Minipe PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 48
+    },
+    {
+      "id": "central__kandy__38__panvila_ps",
+      "code": "38",
+      "name": "Panvila PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 14
+    },
+    {
+      "id": "central__kandy__39__pasbage_korale_ps",
+      "code": "39",
+      "name": "Pasbage Korale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 25
+    },
+    {
+      "id": "central__kandy__40__pathadumbara_ps",
+      "code": "40",
+      "name": "Pathadumbara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "central__kandy__41__pathahewaheta_ps",
+      "code": "41",
+      "name": "Pathahewaheta PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 102
+    },
+    {
+      "id": "central__kandy__42__pujapitiya_ps",
+      "code": "42",
+      "name": "Pujapitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 67
+    },
+    {
+      "id": "central__kandy__43__thumpane_ps",
+      "code": "43",
+      "name": "Thumpane PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 124
+    },
+    {
+      "id": "central__kandy__44__udadumbara_ps",
+      "code": "44",
+      "name": "Udadumbara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 63
+    },
+    {
+      "id": "central__kandy__45__udapalatha_ps",
+      "code": "45",
+      "name": "Udapalatha PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 61
+    },
+    {
+      "id": "central__kandy__46__udunuwara_ps",
+      "code": "46",
+      "name": "Udunuwara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 124
+    },
+    {
+      "id": "central__kandy__47__yatinuwara_ps",
+      "code": "47",
+      "name": "Yatinuwara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Kandy",
+      "gnd_rows_in_source": 88
+    },
+    {
+      "id": "central__matale__11__matale_mc",
+      "code": "11",
+      "name": "Matale MC",
+      "type": "municipal_council",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 23
+    },
+    {
+      "id": "central__matale__12__dambulla_mc",
+      "code": "12",
+      "name": "Dambulla MC",
+      "type": "municipal_council",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "central__matale__31__ambanganga_korale_ps",
+      "code": "31",
+      "name": "Ambanganga Korale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "central__matale__32__dambulla_ps",
+      "code": "32",
+      "name": "Dambulla PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 46
+    },
+    {
+      "id": "central__matale__33__galewela_ps",
+      "code": "33",
+      "name": "Galewela PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 59
+    },
+    {
+      "id": "central__matale__34__laggala_pallegama_ps",
+      "code": "34",
+      "name": "Laggala-Pallegama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 31
+    },
+    {
+      "id": "central__matale__35__matale_ps",
+      "code": "35",
+      "name": "Matale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 38
+    },
+    {
+      "id": "central__matale__36__naula_ps",
+      "code": "36",
+      "name": "Naula PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 47
+    },
+    {
+      "id": "central__matale__37__pallepola_ps",
+      "code": "37",
+      "name": "Pallepola PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "central__matale__38__rattota_ps",
+      "code": "38",
+      "name": "Rattota PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 54
+    },
+    {
+      "id": "central__matale__39__ukuwela_ps",
+      "code": "39",
+      "name": "Ukuwela PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 73
+    },
+    {
+      "id": "central__matale__40__wilgamuwa_ps",
+      "code": "40",
+      "name": "Wilgamuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 37
+    },
+    {
+      "id": "central__matale__41__yatawatta_ps",
+      "code": "41",
+      "name": "Yatawatta  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Matale",
+      "gnd_rows_in_source": 56
+    },
+    {
+      "id": "central__nuwara_eliya__11__nuwara_eliya_mc",
+      "code": "11",
+      "name": "Nuwara Eliya MC",
+      "type": "municipal_council",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 14
+    },
+    {
+      "id": "central__nuwara_eliya__21__hatton_dickoya_uc",
+      "code": "21",
+      "name": "Hatton - Dickoya UC",
+      "type": "urban_council",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 6
+    },
+    {
+      "id": "central__nuwara_eliya__22__thalawakale_lindula_uc",
+      "code": "22",
+      "name": "Thalawakale-Lindula UC",
+      "type": "urban_council",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 6
+    },
+    {
+      "id": "central__nuwara_eliya__31__ambagamuwa_ps",
+      "code": "31",
+      "name": "Ambagamuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "central__nuwara_eliya__32__hanguranketha_ps",
+      "code": "32",
+      "name": "Hanguranketha PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 131
+    },
+    {
+      "id": "central__nuwara_eliya__33__kothmale_ps",
+      "code": "33",
+      "name": "Kothmale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 96
+    },
+    {
+      "id": "central__nuwara_eliya__34__nuwara_eliya_ps",
+      "code": "34",
+      "name": "Nuwara Eliya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "central__nuwara_eliya__35__walapane_ps",
+      "code": "35",
+      "name": "Walapane PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 125
+    },
+    {
+      "id": "central__nuwara_eliya__36__maskeliya_ps",
+      "code": "36",
+      "name": "Maskeliya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 11
+    },
+    {
+      "id": "central__nuwara_eliya__37__noorwood_ps",
+      "code": "37",
+      "name": "Noorwood PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "central__nuwara_eliya__38__agarapathana_ps",
+      "code": "38",
+      "name": "Agarapathana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 18
+    },
+    {
+      "id": "central__nuwara_eliya__39__kotagala_ps",
+      "code": "39",
+      "name": "Kotagala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Central",
+      "district": "Nuwara Eliya",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "eastern__ampara__11__kalmunai_mc",
+      "code": "11",
+      "name": "Kalmunai MC",
+      "type": "municipal_council",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 75
+    },
+    {
+      "id": "eastern__ampara__12__akkaraipattu_mc",
+      "code": "12",
+      "name": "Akkaraipattu MC",
+      "type": "municipal_council",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 23
+    },
+    {
+      "id": "eastern__ampara__21__ampara_uc",
+      "code": "21",
+      "name": "Ampara UC",
+      "type": "urban_council",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "eastern__ampara__31__addalachchanai_ps",
+      "code": "31",
+      "name": "Addalachchanai PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 32
+    },
+    {
+      "id": "eastern__ampara__32__alayadiwembu_ps",
+      "code": "32",
+      "name": "Alayadiwembu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 22
+    },
+    {
+      "id": "eastern__ampara__33__damana_ps",
+      "code": "33",
+      "name": "Damana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 31
+    },
+    {
+      "id": "eastern__ampara__34__dehiattakandiya_ps",
+      "code": "34",
+      "name": "Dehiattakandiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "eastern__ampara__36__akkaraipattu_ps",
+      "code": "36",
+      "name": "Akkaraipattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 5
+    },
+    {
+      "id": "eastern__ampara__37__lahugala_ps",
+      "code": "37",
+      "name": "Lahugala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 12
+    },
+    {
+      "id": "eastern__ampara__38__mahaoya_ps",
+      "code": "38",
+      "name": "Mahaoya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "eastern__ampara__39__namaloya_ps",
+      "code": "39",
+      "name": "Namaloya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 18
+    },
+    {
+      "id": "eastern__ampara__40__ninthavur_ps",
+      "code": "40",
+      "name": "Ninthavur PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 25
+    },
+    {
+      "id": "eastern__ampara__41__padiyathalawa_ps",
+      "code": "41",
+      "name": "Padiyathalawa  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "eastern__ampara__42__pothuvil_ps",
+      "code": "42",
+      "name": "Pothuvil  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 27
+    },
+    {
+      "id": "eastern__ampara__43__sammanthurai_ps",
+      "code": "43",
+      "name": "Sammanthurai PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "eastern__ampara__44__thirukkovili_ps",
+      "code": "44",
+      "name": "Thirukkovili PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 22
+    },
+    {
+      "id": "eastern__ampara__45__uhana_ps",
+      "code": "45",
+      "name": "Uhana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 55
+    },
+    {
+      "id": "eastern__ampara__46__karathivu_ps",
+      "code": "46",
+      "name": "Karathivu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "eastern__ampara__47__navithanveli_ps",
+      "code": "47",
+      "name": "Navithanveli PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "eastern__ampara__48__irakkamam_ps",
+      "code": "48",
+      "name": "Irakkamam PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Ampara",
+      "gnd_rows_in_source": 12
+    },
+    {
+      "id": "eastern__batticaloa__11__batticaloa_mc",
+      "code": "11",
+      "name": "Batticaloa MC",
+      "type": "municipal_council",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 48
+    },
+    {
+      "id": "eastern__batticaloa__21__kattankudy_uc",
+      "code": "21",
+      "name": "Kattankudy UC",
+      "type": "urban_council",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 18
+    },
+    {
+      "id": "eastern__batticaloa__22__eravur_uc",
+      "code": "22",
+      "name": "Eravur UC",
+      "type": "urban_council",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "eastern__batticaloa__31__eravur_pattu_ps",
+      "code": "31",
+      "name": "Eravur Pattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 39
+    },
+    {
+      "id": "eastern__batticaloa__34__koralai_pattu_ps",
+      "code": "34",
+      "name": "Koralai Pattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 32
+    },
+    {
+      "id": "eastern__batticaloa__35__koralai_pattu_north_ps",
+      "code": "35",
+      "name": "Koralai Pattu North PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "eastern__batticaloa__36__koralai_pattu_west_ps",
+      "code": "36",
+      "name": "Koralai Pattu West PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 14
+    },
+    {
+      "id": "eastern__batticaloa__37__manmunaipattu_ps",
+      "code": "37",
+      "name": "Manmunaipattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 27
+    },
+    {
+      "id": "eastern__batticaloa__38__manmunai_south_eruvil_pattu_ps",
+      "code": "38",
+      "name": "Manmunai South & Eruvil Pattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 45
+    },
+    {
+      "id": "eastern__batticaloa__39__manmunai_south_west_ps",
+      "code": "39",
+      "name": "Manmunai South-West PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 24
+    },
+    {
+      "id": "eastern__batticaloa__40__manmunai_west_vavunativu_ps",
+      "code": "40",
+      "name": "Manmunai West (Vavunativu) PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 24
+    },
+    {
+      "id": "eastern__batticaloa__41__porativepattu_ps",
+      "code": "41",
+      "name": "Porativepattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Batticaloa",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "eastern__trincomalee__11__trincomalee_mc",
+      "code": "11",
+      "name": "Trincomalee MC",
+      "type": "municipal_council",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "eastern__trincomalee__22__kinniya_uc",
+      "code": "22",
+      "name": "Kinniya UC",
+      "type": "urban_council",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "eastern__trincomalee__31__gomarankadawala_ps",
+      "code": "31",
+      "name": "Gomarankadawala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "eastern__trincomalee__32__kanthale_ps",
+      "code": "32",
+      "name": "Kanthale PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 23
+    },
+    {
+      "id": "eastern__trincomalee__33__kinniya_ps",
+      "code": "33",
+      "name": "Kinniya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 14
+    },
+    {
+      "id": "eastern__trincomalee__34__kuchchaveli_ps",
+      "code": "34",
+      "name": "Kuchchaveli PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 24
+    },
+    {
+      "id": "eastern__trincomalee__35__morawewa_ps",
+      "code": "35",
+      "name": "Morawewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "eastern__trincomalee__36__muttur_ps",
+      "code": "36",
+      "name": "Muttur PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 42
+    },
+    {
+      "id": "eastern__trincomalee__37__padavi_sri_pura_ps",
+      "code": "37",
+      "name": "Padavi Sri Pura PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "eastern__trincomalee__38__seruvila_ps",
+      "code": "38",
+      "name": "Seruvila PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 16
+    },
+    {
+      "id": "eastern__trincomalee__39__thambalagamuwa_ps",
+      "code": "39",
+      "name": "Thambalagamuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 12
+    },
+    {
+      "id": "eastern__trincomalee__40__trincomalee_town_and_four_gravets_ps",
+      "code": "40",
+      "name": "Trincomalee Town and Four Gravets PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 22
+    },
+    {
+      "id": "eastern__trincomalee__41__verugal_ps",
+      "code": "41",
+      "name": "Verugal PS",
+      "type": "pradeshiya_sabha",
+      "province": "Eastern",
+      "district": "Trincomalee",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "north_central__anuradhapura__11__anuradhapura_mc",
+      "code": "11",
+      "name": "Anuradhapura MC",
+      "type": "municipal_council",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 27
+    },
+    {
+      "id": "north_central__anuradhapura__31__galenbindunuwewa_ps",
+      "code": "31",
+      "name": "Galenbindunuwewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "north_central__anuradhapura__32__galnewa_ps",
+      "code": "32",
+      "name": "Galnewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 36
+    },
+    {
+      "id": "north_central__anuradhapura__33__horowpothana_ps",
+      "code": "33",
+      "name": "Horowpothana PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 38
+    },
+    {
+      "id": "north_central__anuradhapura__34__ipalogama_ps",
+      "code": "34",
+      "name": "Ipalogama PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 32
+    },
+    {
+      "id": "north_central__anuradhapura__35__kahatagasdigiliya_ps",
+      "code": "35",
+      "name": "Kahatagasdigiliya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "north_central__anuradhapura__36__kebithigollewa_ps",
+      "code": "36",
+      "name": "Kebithigollewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "north_central__anuradhapura__37__kekirawa_ps",
+      "code": "37",
+      "name": "Kekirawa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 69
+    },
+    {
+      "id": "north_central__anuradhapura__38__medawachchiya_ps",
+      "code": "38",
+      "name": "Medawachchiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 37
+    },
+    {
+      "id": "north_central__anuradhapura__39__mihinthale_ps",
+      "code": "39",
+      "name": "Mihinthale PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 25
+    },
+    {
+      "id": "north_central__anuradhapura__40__nochchiyagama_ps",
+      "code": "40",
+      "name": "Nochchiyagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 36
+    },
+    {
+      "id": "north_central__anuradhapura__41__nuwaragam_palatha_central_ps",
+      "code": "41",
+      "name": "Nuwaragam Palatha Central PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "north_central__anuradhapura__42__nuwaragam_palatha_east_ps",
+      "code": "42",
+      "name": "Nuwaragam Palatha East PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 36
+    },
+    {
+      "id": "north_central__anuradhapura__43__padaviya_ps",
+      "code": "43",
+      "name": "Padaviya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "north_central__anuradhapura__44__palagala_ps",
+      "code": "44",
+      "name": "Palagala PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "north_central__anuradhapura__45__rajanganaya_ps",
+      "code": "45",
+      "name": "Rajanganaya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 21
+    },
+    {
+      "id": "north_central__anuradhapura__46__rambewa_ps",
+      "code": "46",
+      "name": "Rambewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 38
+    },
+    {
+      "id": "north_central__anuradhapura__47__thalawa_ps",
+      "code": "47",
+      "name": "Thalawa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 59
+    },
+    {
+      "id": "north_central__anuradhapura__48__thirappane_ps",
+      "code": "48",
+      "name": "Thirappane PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Anuradhapura",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "north_central__polonnaruwa__11__polonnaruwa_mc",
+      "code": "11",
+      "name": "Polonnaruwa MC",
+      "type": "municipal_council",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 18
+    },
+    {
+      "id": "north_central__polonnaruwa__31__dimbulagala_ps",
+      "code": "31",
+      "name": "Dimbulagala PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 56
+    },
+    {
+      "id": "north_central__polonnaruwa__32__elahera_ps",
+      "code": "32",
+      "name": "Elahera PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "north_central__polonnaruwa__33__hingurakgoda_ps",
+      "code": "33",
+      "name": "Hingurakgoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 53
+    },
+    {
+      "id": "north_central__polonnaruwa__34__lankapura_ps",
+      "code": "34",
+      "name": "Lankapura PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "north_central__polonnaruwa__35__medirigiriya_ps",
+      "code": "35",
+      "name": "Medirigiriya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 45
+    },
+    {
+      "id": "north_central__polonnaruwa__37__welikanda_ps",
+      "code": "37",
+      "name": "Welikanda PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 30
+    },
+    {
+      "id": "north_central__polonnaruwa__38__polonnaruwa_ps",
+      "code": "38",
+      "name": "Polonnaruwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Central",
+      "district": "Polonnaruwa",
+      "gnd_rows_in_source": 37
+    },
+    {
+      "id": "north_western__kurunegala__11__kurunegala_mc",
+      "code": "11",
+      "name": "Kurunegala MC",
+      "type": "municipal_council",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 12
+    },
+    {
+      "id": "north_western__kurunegala__21__kuliyapitiya_uc",
+      "code": "21",
+      "name": "Kuliyapitiya UC",
+      "type": "urban_council",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 3
+    },
+    {
+      "id": "north_western__kurunegala__31__alawwa_ps",
+      "code": "31",
+      "name": "Alawwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 66
+    },
+    {
+      "id": "north_western__kurunegala__32__bingiriya_ps",
+      "code": "32",
+      "name": "Bingiriya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 52
+    },
+    {
+      "id": "north_western__kurunegala__33__galgamuwa_ps",
+      "code": "33",
+      "name": "Galgamuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 97
+    },
+    {
+      "id": "north_western__kurunegala__34__giribawa_ps",
+      "code": "34",
+      "name": "Giribawa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "north_western__kurunegala__35__ibbagamuwa_ps",
+      "code": "35",
+      "name": "Ibbagamuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 116
+    },
+    {
+      "id": "north_western__kurunegala__36__kobeigane_ps",
+      "code": "36",
+      "name": "Kobeigane PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "north_western__kurunegala__37__kuliyapitiya_ps",
+      "code": "37",
+      "name": "Kuliyapitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 111
+    },
+    {
+      "id": "north_western__kurunegala__38__kurunegala_ps",
+      "code": "38",
+      "name": "Kurunegala PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 120
+    },
+    {
+      "id": "north_western__kurunegala__39__maho_ps",
+      "code": "39",
+      "name": "Maho PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 96
+    },
+    {
+      "id": "north_western__kurunegala__40__mawathagama_ps",
+      "code": "40",
+      "name": "Mawathagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 71
+    },
+    {
+      "id": "north_western__kurunegala__41__nikaweratiya_ps",
+      "code": "41",
+      "name": "Nikaweratiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 101
+    },
+    {
+      "id": "north_western__kurunegala__42__panduwasnuwara_ps",
+      "code": "42",
+      "name": "Panduwasnuwara PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 103
+    },
+    {
+      "id": "north_western__kurunegala__43__pannala_ps",
+      "code": "43",
+      "name": "Pannala PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 87
+    },
+    {
+      "id": "north_western__kurunegala__44__polgahawela_ps",
+      "code": "44",
+      "name": "Polgahawela PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 122
+    },
+    {
+      "id": "north_western__kurunegala__45__polpithigama_ps",
+      "code": "45",
+      "name": "Polpithigama PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 82
+    },
+    {
+      "id": "north_western__kurunegala__46__rideegama_ps",
+      "code": "46",
+      "name": "Rideegama PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 113
+    },
+    {
+      "id": "north_western__kurunegala__47__wariyapola_ps",
+      "code": "47",
+      "name": "Wariyapola PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 92
+    },
+    {
+      "id": "north_western__kurunegala__48__udubaddawa_ps",
+      "code": "48",
+      "name": "Udubaddawa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "north_western__kurunegala__49__narammala_ps",
+      "code": "49",
+      "name": "Narammala PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Kurunegala",
+      "gnd_rows_in_source": 54
+    },
+    {
+      "id": "north_western__puttalam__11__puttalam_mc",
+      "code": "11",
+      "name": "Puttalam MC",
+      "type": "municipal_council",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 9
+    },
+    {
+      "id": "north_western__puttalam__21__chilaw_uc",
+      "code": "21",
+      "name": "Chilaw UC",
+      "type": "urban_council",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "north_western__puttalam__31__anamaduwa_ps",
+      "code": "31",
+      "name": "Anamaduwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 74
+    },
+    {
+      "id": "north_western__puttalam__32__arachchikattuwa_ps",
+      "code": "32",
+      "name": "Arachchikattuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "north_western__puttalam__33__chilaw_ps",
+      "code": "33",
+      "name": "Chilaw PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 87
+    },
+    {
+      "id": "north_western__puttalam__34__kalpitiya_ps",
+      "code": "34",
+      "name": "Kalpitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 47
+    },
+    {
+      "id": "north_western__puttalam__35__karuwalagaswewa_ps",
+      "code": "35",
+      "name": "Karuwalagaswewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "north_western__puttalam__36__nattandiya_ps",
+      "code": "36",
+      "name": "Nattandiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 94
+    },
+    {
+      "id": "north_western__puttalam__37__nawagattegama_ps",
+      "code": "37",
+      "name": "Nawagattegama PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 19
+    },
+    {
+      "id": "north_western__puttalam__38__puttalam_ps",
+      "code": "38",
+      "name": "Puttalam PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 22
+    },
+    {
+      "id": "north_western__puttalam__39__vanathawilluwa_ps",
+      "code": "39",
+      "name": "Vanathawilluwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 17
+    },
+    {
+      "id": "north_western__puttalam__40__wennappuwa_ps",
+      "code": "40",
+      "name": "Wennappuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "North Western",
+      "district": "Puttalam",
+      "gnd_rows_in_source": 99
+    },
+    {
+      "id": "northern__jaffna__11__jaffna_mc",
+      "code": "11",
+      "name": "Jaffna MC",
+      "type": "municipal_council",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 48
+    },
+    {
+      "id": "northern__jaffna__21__chavakachcheri_uc",
+      "code": "21",
+      "name": "Chavakachcheri UC",
+      "type": "urban_council",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 11
+    },
+    {
+      "id": "northern__jaffna__22__point_pedro_uc",
+      "code": "22",
+      "name": "Point Pedro UC",
+      "type": "urban_council",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 7
+    },
+    {
+      "id": "northern__jaffna__23__valvettiturai_uc",
+      "code": "23",
+      "name": "Valvettiturai UC",
+      "type": "urban_council",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 12
+    },
+    {
+      "id": "northern__jaffna__31__chavakachcheri_ps",
+      "code": "31",
+      "name": "Chavakachcheri PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 50
+    },
+    {
+      "id": "northern__jaffna__32__delft_ps",
+      "code": "32",
+      "name": "Delft PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 6
+    },
+    {
+      "id": "northern__jaffna__33__kayts_ps",
+      "code": "33",
+      "name": "Kayts PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "northern__jaffna__34__nallur_ps",
+      "code": "34",
+      "name": "Nallur PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 24
+    },
+    {
+      "id": "northern__jaffna__35__point_pedro_ps",
+      "code": "35",
+      "name": "Point Pedro PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 38
+    },
+    {
+      "id": "northern__jaffna__36__vadamaradchi_south_west_ps",
+      "code": "36",
+      "name": "Vadamaradchi South West PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "northern__jaffna__37__valikamam_east_ps",
+      "code": "37",
+      "name": "Valikamam East PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 31
+    },
+    {
+      "id": "northern__jaffna__38__valikamam_north_ps",
+      "code": "38",
+      "name": "Valikamam North PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 45
+    },
+    {
+      "id": "northern__jaffna__39__valikamam_south_ps",
+      "code": "39",
+      "name": "Valikamam South PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 30
+    },
+    {
+      "id": "northern__jaffna__40__valikamam_south_west_ps",
+      "code": "40",
+      "name": "Valikamam South West PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "northern__jaffna__41__valikamam_west_ps",
+      "code": "41",
+      "name": "Valikamam West PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 25
+    },
+    {
+      "id": "northern__jaffna__42__velanai_ps",
+      "code": "42",
+      "name": "Velanai PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 30
+    },
+    {
+      "id": "northern__jaffna__43__karainagar_ps",
+      "code": "43",
+      "name": "Karainagar PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Jaffna",
+      "gnd_rows_in_source": 9
+    },
+    {
+      "id": "northern__kilinochchi__31__karachchi_ps",
+      "code": "31",
+      "name": "Karachchi PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Kilinochchi",
+      "gnd_rows_in_source": 58
+    },
+    {
+      "id": "northern__kilinochchi__32__pachchillaipalli_ps",
+      "code": "32",
+      "name": "Pachchillaipalli PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Kilinochchi",
+      "gnd_rows_in_source": 18
+    },
+    {
+      "id": "northern__kilinochchi__33__poonakari_ps",
+      "code": "33",
+      "name": "Poonakari PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Kilinochchi",
+      "gnd_rows_in_source": 19
+    },
+    {
+      "id": "northern__mannar__21__mannar_uc",
+      "code": "21",
+      "name": "Mannar UC",
+      "type": "urban_council",
+      "province": "Northern",
+      "district": "Mannar",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "northern__mannar__31__mannar_ps",
+      "code": "31",
+      "name": "Mannar PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mannar",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "northern__mannar__32__manthai_west_ps",
+      "code": "32",
+      "name": "Manthai West PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mannar",
+      "gnd_rows_in_source": 47
+    },
+    {
+      "id": "northern__mannar__33__musali_ps",
+      "code": "33",
+      "name": "Musali PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mannar",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "northern__mannar__34__nanattan_ps",
+      "code": "34",
+      "name": "Nanattan PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mannar",
+      "gnd_rows_in_source": 37
+    },
+    {
+      "id": "northern__mullaitivu__31__vavuniya_north_ps",
+      "code": "31",
+      "name": "Vavuniya North PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mullaitivu",
+      "gnd_rows_in_source": 5
+    },
+    {
+      "id": "northern__mullaitivu__41__manthai_east_ps",
+      "code": "41",
+      "name": "Manthai East PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mullaitivu",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "northern__mullaitivu__42__maritimepattu_ps",
+      "code": "42",
+      "name": "Maritimepattu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mullaitivu",
+      "gnd_rows_in_source": 50
+    },
+    {
+      "id": "northern__mullaitivu__43__puthukudiyiruppu_ps",
+      "code": "43",
+      "name": "Puthukudiyiruppu PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mullaitivu",
+      "gnd_rows_in_source": 46
+    },
+    {
+      "id": "northern__mullaitivu__44__thunukkai_ps",
+      "code": "44",
+      "name": "Thunukkai PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Mullaitivu",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "northern__vavuniya__11__vavuniya_mc",
+      "code": "11",
+      "name": "Vavuniya MC",
+      "type": "municipal_council",
+      "province": "Northern",
+      "district": "Vavuniya",
+      "gnd_rows_in_source": 11
+    },
+    {
+      "id": "northern__vavuniya__31__vavuniya_north_ps",
+      "code": "31",
+      "name": "Vavuniya North PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Vavuniya",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "northern__vavuniya__32__vavuniya_south_sinhala_ps",
+      "code": "32",
+      "name": "Vavuniya South (Sinhala) PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Vavuniya",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "northern__vavuniya__33__vavuniya_south_tamil_ps",
+      "code": "33",
+      "name": "Vavuniya South (Tamil) PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Vavuniya",
+      "gnd_rows_in_source": 39
+    },
+    {
+      "id": "northern__vavuniya__34__vengalacheddikulam_ps",
+      "code": "34",
+      "name": "Vengalacheddikulam PS",
+      "type": "pradeshiya_sabha",
+      "province": "Northern",
+      "district": "Vavuniya",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "sabaragamuwa__kegalle__11__kegalle_mc",
+      "code": "11",
+      "name": "Kegalle MC",
+      "type": "municipal_council",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 4
+    },
+    {
+      "id": "sabaragamuwa__kegalle__31__aranayaka_ps",
+      "code": "31",
+      "name": "Aranayaka  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 61
+    },
+    {
+      "id": "sabaragamuwa__kegalle__32__dehiovita_ps",
+      "code": "32",
+      "name": "Dehiovita PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 39
+    },
+    {
+      "id": "sabaragamuwa__kegalle__33__deraniyagala_ps",
+      "code": "33",
+      "name": "Deraniyagala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "sabaragamuwa__kegalle__34__galigamuwa_ps",
+      "code": "34",
+      "name": "Galigamuwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "sabaragamuwa__kegalle__35__kegalle_ps",
+      "code": "35",
+      "name": "Kegalle PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 57
+    },
+    {
+      "id": "sabaragamuwa__kegalle__36__mawanella_ps",
+      "code": "36",
+      "name": "Mawanella PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 71
+    },
+    {
+      "id": "sabaragamuwa__kegalle__37__rambukkana_ps",
+      "code": "37",
+      "name": "Rambukkana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 89
+    },
+    {
+      "id": "sabaragamuwa__kegalle__38__ruwanwella_ps",
+      "code": "38",
+      "name": "Ruwanwella  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 38
+    },
+    {
+      "id": "sabaragamuwa__kegalle__39__warakapola_ps",
+      "code": "39",
+      "name": "Warakapola PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 78
+    },
+    {
+      "id": "sabaragamuwa__kegalle__40__yatiyanthota_ps",
+      "code": "40",
+      "name": "Yatiyanthota PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 32
+    },
+    {
+      "id": "sabaragamuwa__kegalle__41__bulathkohupitiya_ps",
+      "code": "41",
+      "name": "Bulathkohupitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Kegalle",
+      "gnd_rows_in_source": 27
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__11__ratnapura_mc",
+      "code": "11",
+      "name": "Ratnapura MC",
+      "type": "municipal_council",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 19
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__21__balangoda_uc",
+      "code": "21",
+      "name": "Balangoda UC",
+      "type": "urban_council",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 11
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__22__embilipitiya_uc",
+      "code": "22",
+      "name": "Embilipitiya UC",
+      "type": "urban_council",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 9
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__32__ayagama_ps",
+      "code": "32",
+      "name": "Ayagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 21
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__33__balangoda_ps",
+      "code": "33",
+      "name": "Balangoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 52
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__34__eheliyagoda_ps",
+      "code": "34",
+      "name": "Eheliyagoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__35__embilipitiya_ps",
+      "code": "35",
+      "name": "Embilipitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 31
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__36__imbulpe_ps",
+      "code": "36",
+      "name": "Imbulpe PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 50
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__37__kalawana_ps",
+      "code": "37",
+      "name": "Kalawana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 33
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__38__kolonna_ps",
+      "code": "38",
+      "name": "Kolonna PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 29
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__39__kuruvita_ps",
+      "code": "39",
+      "name": "Kuruvita PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 56
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__40__nivithigala_ps",
+      "code": "40",
+      "name": "Nivithigala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__41__pelmadulla_ps",
+      "code": "41",
+      "name": "Pelmadulla PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 37
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__42__ratnapura_ps",
+      "code": "42",
+      "name": "Ratnapura PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__43__weligepola_ps",
+      "code": "43",
+      "name": "Weligepola PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 50
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__44__godakawela_ps",
+      "code": "44",
+      "name": "Godakawela PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "sabaragamuwa__ratnapura__45__kahawatta_ps",
+      "code": "45",
+      "name": "Kahawatta PS",
+      "type": "pradeshiya_sabha",
+      "province": "Sabaragamuwa",
+      "district": "Ratnapura",
+      "gnd_rows_in_source": 21
+    },
+    {
+      "id": "southern__galle__11__galle_mc",
+      "code": "11",
+      "name": "Galle MC",
+      "type": "municipal_council",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "southern__galle__21__ambalangoda_uc",
+      "code": "21",
+      "name": "Ambalangoda UC",
+      "type": "urban_council",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "southern__galle__22__hikkaduwa_uc",
+      "code": "22",
+      "name": "Hikkaduwa UC",
+      "type": "urban_council",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 27
+    },
+    {
+      "id": "southern__galle__31__akmeemana_ps",
+      "code": "31",
+      "name": "Akmeemana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 63
+    },
+    {
+      "id": "southern__galle__32__ambalangoda_ps",
+      "code": "32",
+      "name": "Ambalangoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 42
+    },
+    {
+      "id": "southern__galle__33__baddegama_ps",
+      "code": "33",
+      "name": "Baddegama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 70
+    },
+    {
+      "id": "southern__galle__34__balapitiya_ps",
+      "code": "34",
+      "name": "Balapitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "southern__galle__35__benthota_ps",
+      "code": "35",
+      "name": "Benthota PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "southern__galle__36__bope_poddala_ps",
+      "code": "36",
+      "name": "Bope-Poddala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "southern__galle__36__bope_poddala_ps",
+      "code": "36",
+      "name": "Bope_Poddala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 7
+    },
+    {
+      "id": "southern__galle__37__elpitiya_ps",
+      "code": "37",
+      "name": "Elpitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "southern__galle__38__habaraduwa_ps",
+      "code": "38",
+      "name": "Habaraduwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 59
+    },
+    {
+      "id": "southern__galle__39__rajgama_ps",
+      "code": "39",
+      "name": "Rajgama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 70
+    },
+    {
+      "id": "southern__galle__40__karandeniya_ps",
+      "code": "40",
+      "name": "Karandeniya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "southern__galle__41__nagoda_ps",
+      "code": "41",
+      "name": "Nagoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 53
+    },
+    {
+      "id": "southern__galle__42__neluwa_ps",
+      "code": "42",
+      "name": "Neluwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "southern__galle__43__niyagama_ps",
+      "code": "43",
+      "name": "Niyagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "southern__galle__44__thawalama_ps",
+      "code": "44",
+      "name": "Thawalama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 36
+    },
+    {
+      "id": "southern__galle__45__yakkalamulla_ps",
+      "code": "45",
+      "name": "Yakkalamulla PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "southern__galle__46__imaduwa_ps",
+      "code": "46",
+      "name": "Imaduwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "southern__galle__47__welivitiya_divithura_ps",
+      "code": "47",
+      "name": "Welivitiya_Divithura PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Galle",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "southern__hambantota__11__hambantota_mc",
+      "code": "11",
+      "name": "Hambantota MC",
+      "type": "municipal_council",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 7
+    },
+    {
+      "id": "southern__hambantota__21__tangalle_uc",
+      "code": "21",
+      "name": "Tangalle UC",
+      "type": "urban_council",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 6
+    },
+    {
+      "id": "southern__hambantota__31__ambalantota_ps",
+      "code": "31",
+      "name": "Ambalantota PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 55
+    },
+    {
+      "id": "southern__hambantota__32__angunakolapelessa_ps",
+      "code": "32",
+      "name": "Angunakolapelessa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 51
+    },
+    {
+      "id": "southern__hambantota__33__beliatta_ps",
+      "code": "33",
+      "name": "Beliatta PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 71
+    },
+    {
+      "id": "southern__hambantota__34__hambantota_ps",
+      "code": "34",
+      "name": "Hambantota PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 23
+    },
+    {
+      "id": "southern__hambantota__35__katuwana_ps",
+      "code": "35",
+      "name": "Katuwana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 84
+    },
+    {
+      "id": "southern__hambantota__36__lunugamvehera_ps",
+      "code": "36",
+      "name": "Lunugamvehera PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 36
+    },
+    {
+      "id": "southern__hambantota__37__tangalle_ps",
+      "code": "37",
+      "name": "Tangalle PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 66
+    },
+    {
+      "id": "southern__hambantota__38__thissamaharama_ps",
+      "code": "38",
+      "name": "Thissamaharama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 44
+    },
+    {
+      "id": "southern__hambantota__39__weeraketiya_ps",
+      "code": "39",
+      "name": "Weeraketiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 112
+    },
+    {
+      "id": "southern__hambantota__40__sooriyawewa_ps",
+      "code": "40",
+      "name": "Sooriyawewa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Hambantota",
+      "gnd_rows_in_source": 21
+    },
+    {
+      "id": "southern__matara__11__matara_mc",
+      "code": "11",
+      "name": "Matara MC",
+      "type": "municipal_council",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "southern__matara__21__weligama_uc",
+      "code": "21",
+      "name": "Weligama UC",
+      "type": "urban_council",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "southern__matara__31__akuressa_ps",
+      "code": "31",
+      "name": "Akuressa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 46
+    },
+    {
+      "id": "southern__matara__32__devinuwara_ps",
+      "code": "32",
+      "name": "Devinuwara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "southern__matara__33__dickwella_ps",
+      "code": "33",
+      "name": "Dickwella PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 48
+    },
+    {
+      "id": "southern__matara__34__hakmana_ps",
+      "code": "34",
+      "name": "Hakmana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "southern__matara__35__kamburupitiya_ps",
+      "code": "35",
+      "name": "Kamburupitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 39
+    },
+    {
+      "id": "southern__matara__36__kotapola_ps",
+      "code": "36",
+      "name": "Kotapola PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 37
+    },
+    {
+      "id": "southern__matara__37__malimbada_ps",
+      "code": "37",
+      "name": "Malimbada PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 29
+    },
+    {
+      "id": "southern__matara__38__matara_ps",
+      "code": "38",
+      "name": "Matara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 30
+    },
+    {
+      "id": "southern__matara__39__mulatiyana_ps",
+      "code": "39",
+      "name": "Mulatiyana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 48
+    },
+    {
+      "id": "southern__matara__40__pasgoda_ps",
+      "code": "40",
+      "name": "Pasgoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "southern__matara__41__thihagoda_ps",
+      "code": "41",
+      "name": "Thihagoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "southern__matara__42__weligama_ps",
+      "code": "42",
+      "name": "Weligama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 73
+    },
+    {
+      "id": "southern__matara__43__pitadeddara_ps",
+      "code": "43",
+      "name": "Pitadeddara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "southern__matara__44__athuraliya_ps",
+      "code": "44",
+      "name": "Athuraliya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "southern__matara__45__kirinda_puhulwella_ps",
+      "code": "45",
+      "name": "Kirinda Puhulwella PS",
+      "type": "pradeshiya_sabha",
+      "province": "Southern",
+      "district": "Matara",
+      "gnd_rows_in_source": 25
+    },
+    {
+      "id": "uva__badulla__11__badulla_mc",
+      "code": "11",
+      "name": "Badulla MC",
+      "type": "municipal_council",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "uva__badulla__12__bandarawela_mc",
+      "code": "12",
+      "name": "Bandarawela MC",
+      "type": "municipal_council",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 15
+    },
+    {
+      "id": "uva__badulla__22__haputale_uc",
+      "code": "22",
+      "name": "Haputale  UC",
+      "type": "urban_council",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 3
+    },
+    {
+      "id": "uva__badulla__31__badulla_ps",
+      "code": "31",
+      "name": "Badulla PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 16
+    },
+    {
+      "id": "uva__badulla__32__bandarawela_ps",
+      "code": "32",
+      "name": "Bandarawela  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "uva__badulla__33__ella_ps",
+      "code": "33",
+      "name": "Ella  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 32
+    },
+    {
+      "id": "uva__badulla__34__haldummulla_ps",
+      "code": "34",
+      "name": "Haldummulla  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 39
+    },
+    {
+      "id": "uva__badulla__35__hali_ela_ps",
+      "code": "35",
+      "name": "Hali-Ela  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 57
+    },
+    {
+      "id": "uva__badulla__36__haputale_ps",
+      "code": "36",
+      "name": "Haputale  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "uva__badulla__37__kandaketiya_ps",
+      "code": "37",
+      "name": "Kandaketiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "uva__badulla__38__mahiyanganaya_ps",
+      "code": "38",
+      "name": "Mahiyanganaya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "uva__badulla__39__meegahaivula_ps",
+      "code": "39",
+      "name": "Meegahaivula PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "uva__badulla__40__passara_ps",
+      "code": "40",
+      "name": "Passara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "uva__badulla__41__rideemaliyadda_ps",
+      "code": "41",
+      "name": "Rideemaliyadda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 42
+    },
+    {
+      "id": "uva__badulla__42__soranathota_ps",
+      "code": "42",
+      "name": "Soranathota PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 25
+    },
+    {
+      "id": "uva__badulla__43__uva_paranagama_ps",
+      "code": "43",
+      "name": "Uva Paranagama  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 68
+    },
+    {
+      "id": "uva__badulla__44__welimada_ps",
+      "code": "44",
+      "name": "Welimada  PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 64
+    },
+    {
+      "id": "uva__badulla__45__lunugala_ps",
+      "code": "45",
+      "name": "Lunugala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Badulla",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "uva__moneragala__31__badalkumbura_ps",
+      "code": "31",
+      "name": "Badalkumbura PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "uva__moneragala__32__bibila_ps",
+      "code": "32",
+      "name": "Bibila PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "uva__moneragala__33__buttala_ps",
+      "code": "33",
+      "name": "Buttala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 29
+    },
+    {
+      "id": "uva__moneragala__34__katharagama_ps",
+      "code": "34",
+      "name": "Katharagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 5
+    },
+    {
+      "id": "uva__moneragala__35__madulla_ps",
+      "code": "35",
+      "name": "Madulla PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 38
+    },
+    {
+      "id": "uva__moneragala__36__medagama_ps",
+      "code": "36",
+      "name": "Medagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 35
+    },
+    {
+      "id": "uva__moneragala__37__moneragala_ps",
+      "code": "37",
+      "name": "Moneragala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 26
+    },
+    {
+      "id": "uva__moneragala__38__siyambalanduwa_ps",
+      "code": "38",
+      "name": "Siyambalanduwa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 48
+    },
+    {
+      "id": "uva__moneragala__39__thanamalvila_ps",
+      "code": "39",
+      "name": "Thanamalvila PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "uva__moneragala__40__wellawaya_ps",
+      "code": "40",
+      "name": "Wellawaya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Uva",
+      "district": "Moneragala",
+      "gnd_rows_in_source": 29
+    },
+    {
+      "id": "western__colombo__11__colombo_mc",
+      "code": "11",
+      "name": "Colombo MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 55
+    },
+    {
+      "id": "western__colombo__12__dehiwala_mount_lavinia_mc",
+      "code": "12",
+      "name": "Dehiwala-Mount Lavinia MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 28
+    },
+    {
+      "id": "western__colombo__13__moratuwa_mc",
+      "code": "13",
+      "name": "Moratuwa MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 42
+    },
+    {
+      "id": "western__colombo__14__sri_jayawardanapura_kotte_mc",
+      "code": "14",
+      "name": "Sri Jayawardanapura Kotte MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 20
+    },
+    {
+      "id": "western__colombo__15__kaduwela_mc",
+      "code": "15",
+      "name": "Kaduwela MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 57
+    },
+    {
+      "id": "western__colombo__21__kolonnawa_uc",
+      "code": "21",
+      "name": "Kolonnawa UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 13
+    },
+    {
+      "id": "western__colombo__22__seethawakapura_uc",
+      "code": "22",
+      "name": "Seethawakapura UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 14
+    },
+    {
+      "id": "western__colombo__23__maharagama_uc",
+      "code": "23",
+      "name": "Maharagama UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 41
+    },
+    {
+      "id": "western__colombo__24__kesbewa_uc",
+      "code": "24",
+      "name": "Kesbewa UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 55
+    },
+    {
+      "id": "western__colombo__25__boralesgamuwa_uc",
+      "code": "25",
+      "name": "Boralesgamuwa UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 18
+    },
+    {
+      "id": "western__colombo__31__homagama_ps",
+      "code": "31",
+      "name": "Homagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 91
+    },
+    {
+      "id": "western__colombo__33__kotikawatta_mullariyawa_ps",
+      "code": "33",
+      "name": "Kotikawatta-Mullariyawa PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 33
+    },
+    {
+      "id": "western__colombo__34__seethawaka_ps",
+      "code": "34",
+      "name": "Seethawaka PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Colombo",
+      "gnd_rows_in_source": 90
+    },
+    {
+      "id": "western__gampaha__11__negombo_mc",
+      "code": "11",
+      "name": "Negombo MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 39
+    },
+    {
+      "id": "western__gampaha__12__gampaha_mc",
+      "code": "12",
+      "name": "Gampaha MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 33
+    },
+    {
+      "id": "western__gampaha__22__ja_ela_uc",
+      "code": "22",
+      "name": "Ja- Ela UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "western__gampaha__23__katunayaka_seeduwa_uc",
+      "code": "23",
+      "name": "Katunayaka - Seeduwa UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 16
+    },
+    {
+      "id": "western__gampaha__24__minuwangoda_uc",
+      "code": "24",
+      "name": "Minuwangoda UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 6
+    },
+    {
+      "id": "western__gampaha__25__peliyagoda_uc",
+      "code": "25",
+      "name": "Peliyagoda UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 7
+    },
+    {
+      "id": "western__gampaha__26__wattala_mabola_uc",
+      "code": "26",
+      "name": "Wattala - Mabola UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 6
+    },
+    {
+      "id": "western__gampaha__31__attanagalla_ps",
+      "code": "31",
+      "name": "Attanagalla PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 151
+    },
+    {
+      "id": "western__gampaha__32__biyagama_ps",
+      "code": "32",
+      "name": "Biyagama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 49
+    },
+    {
+      "id": "western__gampaha__33__divulapitiya_ps",
+      "code": "33",
+      "name": "Divulapitiya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 123
+    },
+    {
+      "id": "western__gampaha__34__dompe_ps",
+      "code": "34",
+      "name": "Dompe PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 133
+    },
+    {
+      "id": "western__gampaha__35__gampaha_ps",
+      "code": "35",
+      "name": "Gampaha PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 68
+    },
+    {
+      "id": "western__gampaha__36__ja_ela_ps",
+      "code": "36",
+      "name": "Ja- Ela PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 47
+    },
+    {
+      "id": "western__gampaha__37__katana_ps",
+      "code": "37",
+      "name": "Katana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 64
+    },
+    {
+      "id": "western__gampaha__38__kelaniya_ps",
+      "code": "38",
+      "name": "Kelaniya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 30
+    },
+    {
+      "id": "western__gampaha__39__mahara_ps",
+      "code": "39",
+      "name": "Mahara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 92
+    },
+    {
+      "id": "western__gampaha__40__minuwangoda_ps",
+      "code": "40",
+      "name": "Minuwangoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 115
+    },
+    {
+      "id": "western__gampaha__41__mirigama_ps",
+      "code": "41",
+      "name": "Mirigama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 149
+    },
+    {
+      "id": "western__gampaha__42__wattala_ps",
+      "code": "42",
+      "name": "Wattala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Gampaha",
+      "gnd_rows_in_source": 40
+    },
+    {
+      "id": "western__kalutara__11__kalutara_mc",
+      "code": "11",
+      "name": "Kalutara MC",
+      "type": "municipal_council",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "western__kalutara__21__beruwala_uc",
+      "code": "21",
+      "name": "Beruwala UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 10
+    },
+    {
+      "id": "western__kalutara__22__horana_uc",
+      "code": "22",
+      "name": "Horana UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 7
+    },
+    {
+      "id": "western__kalutara__24__panadura_uc",
+      "code": "24",
+      "name": "Panadura UC",
+      "type": "urban_council",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 19
+    },
+    {
+      "id": "western__kalutara__31__agalawatta_ps",
+      "code": "31",
+      "name": "Agalawatta PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 34
+    },
+    {
+      "id": "western__kalutara__32__bandaragama_ps",
+      "code": "32",
+      "name": "Bandaragama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 59
+    },
+    {
+      "id": "western__kalutara__33__beruwala_ps",
+      "code": "33",
+      "name": "Beruwala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 72
+    },
+    {
+      "id": "western__kalutara__34__bulathsinhala_ps",
+      "code": "34",
+      "name": "Bulathsinhala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 54
+    },
+    {
+      "id": "western__kalutara__35__dodangoda_ps",
+      "code": "35",
+      "name": "Dodangoda PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 45
+    },
+    {
+      "id": "western__kalutara__36__horana_ps",
+      "code": "36",
+      "name": "Horana PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 88
+    },
+    {
+      "id": "western__kalutara__37__kalutara_ps",
+      "code": "37",
+      "name": "Kalutara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 53
+    },
+    {
+      "id": "western__kalutara__38__mathugama_ps",
+      "code": "38",
+      "name": "Mathugama PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 57
+    },
+    {
+      "id": "western__kalutara__39__panadura_ps",
+      "code": "39",
+      "name": "Panadura PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 58
+    },
+    {
+      "id": "western__kalutara__40__walallavita_ps",
+      "code": "40",
+      "name": "Walallavita PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 60
+    },
+    {
+      "id": "western__kalutara__41__madurawala_ps",
+      "code": "41",
+      "name": "Madurawala PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 33
+    },
+    {
+      "id": "western__kalutara__42__palindanuwara_ps",
+      "code": "42",
+      "name": "Palindanuwara PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 43
+    },
+    {
+      "id": "western__kalutara__43__millaniya_ps",
+      "code": "43",
+      "name": "Millaniya PS",
+      "type": "pradeshiya_sabha",
+      "province": "Western",
+      "district": "Kalutara",
+      "gnd_rows_in_source": 44
+    }
+  ]
+}

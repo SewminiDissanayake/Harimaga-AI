@@ -1,0 +1,231 @@
+{
+  "dataset": "Yomu supplemental official DS contacts",
+  "purpose": "Fill DS geography records not covered by the RTI directory harvest.",
+  "records": [
+    {
+      "geography_id": "central__nuwara_eliya__ds_2__kothmale_west",
+      "name": "Kothmale West",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0718471454"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "central__nuwara_eliya__ds_3__kothmale_east",
+      "name": "Kothmale East",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0718408733"
+        ],
+        "telephone": [
+          "0522259545"
+        ],
+        "fax": [
+          "0522259038"
+        ],
+        "email": [
+          "dsokotmale@gmail.com"
+        ]
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA explicitly labels this office 'Kothmale East (Kothmale)', resolving the older RTI label 'Kotmale'. Last updated 2025-10-08."
+    },
+    {
+      "geography_id": "central__nuwara_eliya__ds_6__hanguranketha",
+      "name": "Hanguranketha",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0718011854",
+          "0765425318"
+        ],
+        "telephone": [
+          "0812369929"
+        ],
+        "fax": [
+          "0812369488"
+        ],
+        "email": [
+          "info@hanguranketha.gov.lk"
+        ]
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "central__nuwara_eliya__ds_7__mathurata",
+      "name": "Mathurata",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0707492105"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "central__nuwara_eliya__ds_10__nildandahinna",
+      "name": "Nildandahinna",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0702032277"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "central__nuwara_eliya__ds_13__thalawakelle",
+      "name": "Thalawakelle",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0770850476"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet lists the post as vacant and acting by the Norwood Divisional Secretary. Last updated 2025-10-08."
+    },
+    {
+      "geography_id": "central__nuwara_eliya__ds_14__norwood",
+      "name": "Norwood",
+      "district": "Nuwara Eliya",
+      "province": "Central",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0770850476"
+        ],
+        "telephone": [
+          "0522222233"
+        ],
+        "fax": [],
+        "email": []
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "eastern__trincomalee__ds_15__trincomalee_town_and_gravets",
+      "name": "Trincomalee Town and Gravets",
+      "district": "Trincomalee",
+      "province": "Eastern",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0776402326"
+        ],
+        "telephone": [
+          "0262225941"
+        ],
+        "fax": [
+          "0262222839",
+          "0262222313"
+        ],
+        "email": []
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/pdf/contact_details/DS_ADS_Contacts_2024.pdf",
+      "source_note": "MOHA official DS/ADS contact list (2024)."
+    },
+    {
+      "geography_id": "north_western__kurunegala__ds_51__maspotha",
+      "name": "Maspotha",
+      "district": "Kurunegala",
+      "province": "North Western",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0778466973"
+        ],
+        "telephone": [
+          "0372236581"
+        ],
+        "fax": [
+          "0372236581"
+        ],
+        "email": [
+          "moha.divi.maspotha@gmail.com"
+        ]
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/18_Kurunegala_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "north_western__kurunegala__ds_72__kuliyapitiya_west",
+      "name": "Kuliyapitiya West",
+      "district": "Kurunegala",
+      "province": "North Western",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0716826950"
+        ],
+        "telephone": [
+          "0372281881"
+        ],
+        "fax": [
+          "0372281083"
+        ],
+        "email": [
+          "moha.divi.kuliyapitiyawest@gmail.com"
+        ]
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/18_Kurunegala_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    },
+    {
+      "geography_id": "northern__vavuniya__ds_3__vavuniya_north",
+      "name": "Vavuniya North",
+      "district": "Vavuniya",
+      "province": "Northern",
+      "office_type": "divisional_secretariat",
+      "contact": {
+        "mobile": [
+          "0717279664"
+        ],
+        "telephone": [
+          "0242053020"
+        ],
+        "fax": [
+          "0242053010"
+        ],
+        "email": [
+          "dsvavnorth@gmail.com"
+        ]
+      },
+      "source_url": "https://www.moha.gov.lk/web/images/institution/12_Vavuniya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08."
+    }
+  ]
+}

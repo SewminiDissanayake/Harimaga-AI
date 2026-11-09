@@ -1,0 +1,231 @@
+{
+  "dataset": "HariMaga local-authority issue-specific complaint channels v1",
+  "verified_on": "2026-10-05",
+  "policy": {
+    "priority": [
+      "verified_issue_specific_channel",
+      "verified_general_complaint_channel",
+      "official_directory_fallback",
+      "no_verified_contact"
+    ],
+    "rule": "Never upgrade a generic directory contact into an issue-specific complaint channel without explicit official evidence."
+  },
+  "records": [
+    {
+      "geography_id": "western__colombo__11__colombo_mc",
+      "authority_name": "Colombo MC",
+      "issue_key": "garbage_collection",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "solid_waste_collection_complaints",
+      "channels": [
+        {
+          "type": "department_phone",
+          "label": "Solid Waste Management Division head office",
+          "value": "0112691222"
+        },
+        {
+          "type": "department_email",
+          "label": "Director Engineering - Solid Waste Management",
+          "value": "dirswm@colombo.mc.gov.lk"
+        },
+        {
+          "type": "complaint_directory_url",
+          "label": "Area-specific Solid Waste district offices",
+          "value": "https://www.colombo.mc.gov.lk/engineering-services.php/circulars.php"
+        }
+      ],
+      "guidance": "Colombo MC explicitly directs solid-waste collection complaints to its Solid Waste Management district offices. The official page lists six area offices; use the page to choose the office serving the complainant's area.",
+      "source_urls": [
+        "https://www.colombo.mc.gov.lk/engineering-services.php/circulars.php",
+        "https://www.colombo.mc.gov.lk/report-it1.php"
+      ]
+    },
+    {
+      "geography_id": "central__kandy__11__kandy_mc",
+      "authority_name": "Kandy MC",
+      "issue_key": "garbage_collection",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "garbage_collection_public_complaint",
+      "channels": [
+        {
+          "type": "online_complaint_form",
+          "label": "Kandy MC Public Complaint form",
+          "value": "https://kandy.mc.gov.lk/PublicComplain"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Kandy Municipal Council",
+          "value": "+94 81 2222 275"
+        },
+        {
+          "type": "authority_email",
+          "label": "Kandy Municipal Council",
+          "value": "kandymcsec@gmail.com"
+        }
+      ],
+      "guidance": "Kandy MC's official Garbage Collection page tells residents to report collection issues promptly, and the council provides an official public complaint form with complaint type, location/GN division and document upload fields.",
+      "source_urls": [
+        "https://kandy.mc.gov.lk/GarbageCollection",
+        "https://kandy.mc.gov.lk/PublicComplain"
+      ]
+    },
+    {
+      "geography_id": "western__colombo__13__moratuwa_mc",
+      "authority_name": "Moratuwa MC",
+      "issue_key": "garbage_collection",
+      "verification_level": "verified_general_complaint_channel",
+      "route_scope": "general_council_complaint_for_verified_waste_service",
+      "channels": [
+        {
+          "type": "general_contact_form",
+          "label": "Moratuwa MC contact/complaint facility",
+          "value": "https://moratuwa.mc.gov.lk/si/?page_id=462"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Moratuwa Municipal Council",
+          "value": "+94 112 645 251"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Moratuwa Municipal Council",
+          "value": "+94 112 647 012"
+        },
+        {
+          "type": "authority_email",
+          "label": "Moratuwa Municipal Council",
+          "value": "moratuwamc@gmail.com"
+        }
+      ],
+      "guidance": "Moratuwa MC officially lists waste-disposal services and states that its website accepts requests and complaints. This is retained as a verified general council complaint route, not mislabeled as a dedicated garbage hotline.",
+      "source_urls": [
+        "https://moratuwa.mc.gov.lk/si/?lang=en&page_id=1355",
+        "https://moratuwa.mc.gov.lk/si/?page_id=462",
+        "https://moratuwa.mc.gov.lk/si/?lang=en&page_id=3262"
+      ]
+    },
+    {
+      "geography_id": "western__colombo__11__colombo_mc",
+      "authority_name": "Colombo MC",
+      "issue_key": "road_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "local_road_maintenance",
+      "channels": [
+        {
+          "type": "department_phone",
+          "label": "CMC Works Division - Director Engineering",
+          "value": "011 2685055"
+        },
+        {
+          "type": "road_maintenance_phone",
+          "label": "Central Roads Maintenance Unit",
+          "value": "011 2691941"
+        },
+        {
+          "type": "road_maintenance_email",
+          "label": "Central Roads Maintenance Unit",
+          "value": "ddworks@colombo.mc.gov.lk"
+        }
+      ],
+      "guidance": "Colombo MC's Works Division is responsible for rehabilitation and maintenance of the public road network within Colombo except the roads explicitly listed as Road Development Authority roads. HariMaga should use this route only after the router has classified the road as a local/council road.",
+      "source_urls": [
+        "https://www.colombo.mc.gov.lk/engineering-services.php/circulars.php"
+      ]
+    },
+    {
+      "geography_id": "central__kandy__11__kandy_mc",
+      "authority_name": "Kandy MC",
+      "issue_key": "road_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "local_road_maintenance",
+      "channels": [
+        {
+          "type": "department_phone",
+          "label": "Kandy MC Works Department - Head Office",
+          "value": "081 2222776"
+        },
+        {
+          "type": "online_complaint_form",
+          "label": "Kandy MC Public Complaint form",
+          "value": "https://kandy.mc.gov.lk/PublicComplain"
+        }
+      ],
+      "guidance": "Kandy MC's Works Department explicitly lists construction and maintenance of roads, streets, drainage systems and sidewalks within the city limits. The council also provides an official Public Complaint form.",
+      "source_urls": [
+        "https://kandy.mc.gov.lk/Department/Works",
+        "https://kandy.mc.gov.lk/PublicComplain"
+      ]
+    },
+    {
+      "geography_id": "western__colombo__13__moratuwa_mc",
+      "authority_name": "Moratuwa MC",
+      "issue_key": "road_issue",
+      "verification_level": "verified_general_complaint_channel",
+      "route_scope": "general_council_complaint_for_local_road_issue",
+      "channels": [
+        {
+          "type": "general_contact_form",
+          "label": "Moratuwa MC contact/complaint facility",
+          "value": "https://moratuwa.mc.gov.lk/si/?page_id=462"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Moratuwa Municipal Council",
+          "value": "+94 112 645 251"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Moratuwa Municipal Council",
+          "value": "+94 112 647 012"
+        },
+        {
+          "type": "authority_email",
+          "label": "Moratuwa Municipal Council",
+          "value": "moratuwamc@gmail.com"
+        }
+      ],
+      "guidance": "Moratuwa MC officially states that construction, maintenance and cleaning of roads/streets are council functions and that its website accepts requests and complaints. No dedicated road-complaint hotline was verified, so HariMaga keeps this as a general council complaint route.",
+      "source_urls": [
+        "https://moratuwa.mc.gov.lk/si/?lang=en&page_id=3544",
+        "https://moratuwa.mc.gov.lk/si/?lang=en&page_id=1355",
+        "https://moratuwa.mc.gov.lk/si/?page_id=462"
+      ]
+    },
+    {
+      "geography_id": "central__matale__39__ukuwela_ps",
+      "authority_name": "Ukuwela PS",
+      "issue_key": "road_issue",
+      "verification_level": "verified_general_complaint_channel",
+      "route_scope": "general_council_complaint_for_verified_local_road_service",
+      "channels": [
+        {
+          "type": "online_complaint_form",
+          "label": "Ukuwela PS official complaint form",
+          "value": "https://ukuwela.ps.gov.lk/en/complain"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Ukuwela Pradeshiya Sabha office",
+          "value": "066 224 4270"
+        },
+        {
+          "type": "authority_phone",
+          "label": "Ukuwela Pradeshiya Sabha secretary",
+          "value": "066 224 3592"
+        },
+        {
+          "type": "authority_email",
+          "label": "Ukuwela Pradeshiya Sabha",
+          "value": "ukuprasabha@yahoo.com"
+        }
+      ],
+      "guidance": "Ukuwela PS explicitly lists road maintenance as a council service for rural roads not controlled by the Road Development Authority or Provincial Road Development Authority. The official complaint form accepts service complaints with location, description and optional evidence. This is kept as a verified general complaint route rather than a dedicated road hotline.",
+      "source_urls": [
+        "https://www.ukuwela.ps.gov.lk/en/services/8",
+        "https://ukuwela.ps.gov.lk/en/complain",
+        "https://cp.gov.lk/web/institutions/?id=69&lang=en"
+      ]
+    }
+  ],
+  "last_extended_on": "2026-10-05"
+}

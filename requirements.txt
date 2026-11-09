@@ -1,0 +1,15 @@
+# Web backend
+flask>=3.0,<4
+flask-cors>=4.0,<6
+flask-limiter>=4.0,<5   # rate limiting
+gunicorn>=23            # production server (Linux / Docker only)
+
+# NLP model (pinned: models/issue_classifier.joblib was trained with 1.8.0)
+scikit-learn==1.8.0
+joblib>=1.3
+
+# Data / contact-harvest scripts
+requests>=2.32,<3
+pandas>=2.2,<4
+beautifulsoup4>=4.12,<5
+lxml>=5,<7

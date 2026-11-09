@@ -1,0 +1,19 @@
+<svg width="240" height="150" viewBox="0 0 240 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="sea" x1="35" y1="28" x2="198" y2="130" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#66C7E4"/>
+    <stop offset="1" stop-color="#0C86AA"/>
+  </linearGradient>
+  <linearGradient id="land" x1="25" y1="42" x2="174" y2="130" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#86B85B"/>
+    <stop offset="1" stop-color="#2C7A52"/>
+  </linearGradient>
+</defs>
+<path d="M0 105C45 80 86 90 119 101C158 114 197 112 240 90V150H0V105Z" fill="#DCEEDF"/>
+<path d="M0 123C47 101 83 108 121 119C158 130 201 128 240 108V150H0V123Z" fill="url(#sea)" opacity=".9"/>
+<path d="M20 101C43 67 73 50 104 53C132 56 149 79 162 103C128 91 95 91 63 100C47 104 33 104 20 101Z" fill="url(#land)"/>
+<path d="M178 26C178 26 152 58 152 76C152 91 164 103 179 103C194 103 206 91 206 76C206 58 178 26 178 26Z" fill="#1FA7CB"/>
+<path d="M171 70C174 61 181 54 190 50" stroke="#EAF9FF" stroke-width="5" stroke-linecap="round"/>
+<path d="M53 86C64 74 76 66 89 63" stroke="#EFD39A" stroke-width="5" stroke-linecap="round"/>
+<path d="M41 104C60 111 80 111 101 105" stroke="#C5E7F1" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,209 @@
+{
+  "dataset": "HariMaga Consumer Complaint Routing v1",
+  "verified_on": "2026-10-05",
+  "authority": {
+    "name": "Consumer Affairs Authority",
+    "short_name": "CAA",
+    "hotline": "1977",
+    "consumer_complaint_unit": "011-7755481-2-3",
+    "head_office": "No. 27, Vauxhall Street, Colombo 02",
+    "online_complaint_form": "https://caa.gov.lk/web/index.php?Itemid=697&id=2&option=com_contactmap&view=contactmaps",
+    "district_contacts_source": "https://www.caa.gov.lk/web/index.php?id=141&lang=en&option=com_content&view=article",
+    "complaints_info_source": "https://www.caa.gov.lk/web/index.php?Itemid=563&id=114&lang=en&option=com_content&view=article",
+    "faq_source": "https://caa.gov.lk/web/index.php?Itemid=496&id=75&option=com_content&view=article"
+  },
+  "policy": {
+    "district_use": "Ask the district where the business/service transaction occurred so HariMaga can expose the relevant CAA District Unit contact.",
+    "time_note": "CAA FAQ states that written complaints seeking redress should be supported by relevant documents and forwarded within the time specified by the Act; the FAQ currently states within 3 months.",
+    "safety": "Do not invent a business remedy, legal outcome, or compensation amount."
+  },
+  "district_contacts": {
+    "Colombo": {
+      "office": "Consumer Affairs Authority District Unit - Colombo",
+      "telephone": "+94 11 2055508"
+    },
+    "Gampaha": {
+      "office": "Consumer Affairs Authority District Unit - Gampaha",
+      "telephone": "+94 33 2238555"
+    },
+    "Kalutara": {
+      "office": "Consumer Affairs Authority District Unit - Kalutara",
+      "telephone": "+94 34 2223600"
+    },
+    "Kandy": {
+      "office": "Consumer Affairs Authority District Unit - Kandy",
+      "telephone": "+94 81 2205301"
+    },
+    "Matale": {
+      "office": "Consumer Affairs Authority District Unit - Matale",
+      "telephone": "+94 66 2230959"
+    },
+    "Nuwara Eliya": {
+      "office": "Consumer Affairs Authority District Unit - Nuwara Eliya",
+      "telephone": "+94 52 2223933"
+    },
+    "Anuradhapura": {
+      "office": "Consumer Affairs Authority District Unit - Anuradhapura",
+      "telephone": "+94 25 2053990"
+    },
+    "Polonnaruwa": {
+      "office": "Consumer Affairs Authority District Unit - Polonnaruwa",
+      "telephone": "+94 27 2055982"
+    },
+    "Ratnapura": {
+      "office": "Consumer Affairs Authority District Unit - Ratnapura",
+      "telephone": "+94 45 7755455"
+    },
+    "Kegalle": {
+      "office": "Consumer Affairs Authority District Unit - Kegalle",
+      "telephone": "+94 35 2232658"
+    },
+    "Kurunegala": {
+      "office": "Consumer Affairs Authority District Unit - Kurunegala",
+      "telephone": "+94 37 2221682"
+    },
+    "Puttalam": {
+      "office": "Consumer Affairs Authority District Unit - Puttalam",
+      "telephone": "+94 32 7755455"
+    },
+    "Galle": {
+      "office": "Consumer Affairs Authority District Unit - Galle",
+      "telephone": "+94 91 2235230"
+    },
+    "Matara": {
+      "office": "Consumer Affairs Authority District Unit - Matara",
+      "telephone": "+94 41 2227218"
+    },
+    "Hambantota": {
+      "office": "Consumer Affairs Authority District Unit - Hambantota",
+      "telephone": "+94 47 2256912"
+    },
+    "Monaragala": {
+      "office": "Consumer Affairs Authority District Unit - Monaragala",
+      "telephone": "+94 55 2055688"
+    },
+    "Badulla": {
+      "office": "Consumer Affairs Authority District Unit - Badulla",
+      "telephone": "+94 55 2232733"
+    },
+    "Trincomalee": {
+      "office": "Consumer Affairs Authority District Unit - Trincomalee",
+      "telephone": "+94 26 2050911"
+    },
+    "Batticaloa": {
+      "office": "Consumer Affairs Authority District Unit - Batticaloa",
+      "telephone": "+94 65 2228810"
+    },
+    "Ampara": {
+      "office": "Consumer Affairs Authority District Unit - Ampara",
+      "telephone": "+94 63 2222355"
+    },
+    "Jaffna": {
+      "office": "Consumer Affairs Authority District Unit - Jaffna",
+      "telephone": "+94 21 2219001"
+    },
+    "Vavuniya": {
+      "office": "Consumer Affairs Authority District Unit - Vavuniya",
+      "telephone": "+94 24 2228932"
+    },
+    "Kilinochchi": {
+      "office": "Consumer Affairs Authority District Unit - Kilinochchi",
+      "telephone": "+94 21 7755456"
+    },
+    "Mannar": {
+      "office": "Consumer Affairs Authority District Unit - Mannar",
+      "telephone": "+94 23 2251847"
+    },
+    "Mullaitivu": {
+      "office": "Consumer Affairs Authority District Unit - Mullaitivu",
+      "telephone": "+94 21 2290266"
+    }
+  },
+  "complaint_subtypes": {
+    "overpricing_or_price_display": {
+      "label": "Overpricing / price display issue",
+      "required_information": [
+        "business_name_and_address",
+        "product_or_service",
+        "displayed_price_if_any",
+        "charged_price",
+        "receipt_or_bill",
+        "photo_of_price_label_if_available",
+        "date_of_purchase"
+      ]
+    },
+    "defective_product_or_warranty": {
+      "label": "Defective product / warranty issue",
+      "required_information": [
+        "business_name_and_address",
+        "product_name_and_model",
+        "purchase_date",
+        "receipt_or_invoice",
+        "warranty_or_guarantee_document",
+        "description_of_defect",
+        "photos_or_video_if_available",
+        "communications_with_seller"
+      ]
+    },
+    "refund_or_replacement": {
+      "label": "Refund / replacement dispute",
+      "required_information": [
+        "business_name_and_address",
+        "product_or_service",
+        "purchase_date",
+        "amount_paid",
+        "receipt_or_invoice",
+        "reason_refund_or_replacement_requested",
+        "seller_response",
+        "supporting_messages_or_documents"
+      ]
+    },
+    "expired_unsafe_or_mislabelled_goods": {
+      "label": "Expired / unsafe / mislabelled goods",
+      "required_information": [
+        "business_name_and_address",
+        "product_name",
+        "batch_or_expiry_date_if_visible",
+        "purchase_date",
+        "receipt_if_available",
+        "clear_photos_of_product_and_label",
+        "description_of_problem"
+      ]
+    },
+    "misleading_advertisement_or_trade_practice": {
+      "label": "Misleading advertisement / unfair trade practice",
+      "required_information": [
+        "business_name_and_address",
+        "product_or_service",
+        "advertisement_or_offer_details",
+        "screenshot_or_photo_of_advertisement",
+        "what_was_promised",
+        "what_was_actually_provided",
+        "receipt_or_payment_proof_if_available"
+      ]
+    },
+    "service_complaint": {
+      "label": "Paid service complaint",
+      "required_information": [
+        "service_provider_name_and_address",
+        "service_description",
+        "date_service_obtained",
+        "amount_paid",
+        "receipt_or_invoice",
+        "what_went_wrong",
+        "communications_with_provider"
+      ]
+    },
+    "other_consumer_issue": {
+      "label": "Other consumer issue",
+      "required_information": [
+        "business_name_and_address",
+        "product_or_service",
+        "date",
+        "description",
+        "receipt_or_payment_proof_if_available",
+        "supporting_documents_or_photos"
+      ]
+    }
+  }
+}

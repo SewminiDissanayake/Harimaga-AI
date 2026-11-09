@@ -1,0 +1,35 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc">
+<title id="title">HariMaga AI Sri Lanka road logo</title>
+<desc id="desc">Sri Lanka represented as green land within the blue Indian Ocean, crossed by a golden guiding road leading to a maroon destination pin.</desc>
+<defs>
+  <linearGradient id="ocean" x1="26" y1="22" x2="214" y2="219" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#1FA7CB"/>
+    <stop offset="1" stop-color="#075C76"/>
+  </linearGradient>
+  <linearGradient id="land" x1="91" y1="25" x2="155" y2="212" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#86B85B"/>
+    <stop offset=".48" stop-color="#2C7A52"/>
+    <stop offset="1" stop-color="#164E3A"/>
+  </linearGradient>
+  <linearGradient id="road" x1="104" y1="48" x2="140" y2="188" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFE8A0"/>
+    <stop offset="1" stop-color="#DFAE38"/>
+  </linearGradient>
+  <filter id="shadow" x="30" y="12" width="195" height="220" filterUnits="userSpaceOnUse">
+    <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#113E46" flood-opacity=".28"/>
+  </filter>
+</defs>
+
+<circle cx="120" cy="120" r="104" fill="url(#ocean)"/>
+<circle cx="120" cy="120" r="92" stroke="#66C7E4" stroke-width="2" opacity=".78"/>
+<path d="M25 151C62 136 94 137 121 149C152 163 184 163 215 145" stroke="#A7E3F2" stroke-width="6" stroke-linecap="round" opacity=".78"/>
+<path d="M29 170C64 158 93 159 123 171C155 183 183 183 211 169" stroke="#D8F5FB" stroke-width="3.5" stroke-linecap="round" opacity=".68"/>
+
+<g filter="url(#shadow)">
+  <path d="M111 31C97 44 88 61 82 80C76 99 68 115 61 131C54 147 52 164 58 178C64 192 75 203 84 216C93 229 101 241 115 245C130 250 145 239 155 226C165 212 168 196 176 181C184 166 190 151 186 136C182 121 171 110 166 96C160 82 164 67 157 52C149 38 134 29 121 25C117 24 114 27 111 31Z" transform="translate(0 -18)" fill="url(#land)" stroke="#FFF5D4" stroke-width="4.5"/>
+  <path d="M103 54C122 66 113 80 98 91C83 102 86 117 108 125C130 133 144 145 139 162C135 176 121 185 117 199" stroke="url(#road)" stroke-width="10" stroke-linecap="round" stroke-dasharray="1 18"/>
+  <circle cx="103" cy="54" r="9" fill="#FFF7D5" stroke="#D49D25" stroke-width="4"/>
+  <path d="M119 198C119 185 129 175 142 175C155 175 165 185 165 198C165 217 142 234 142 234C142 234 119 217 119 198Z" fill="#7B263D"/>
+  <circle cx="142" cy="198" r="7.5" fill="#FFF2C0"/>
+</g>
+</svg>

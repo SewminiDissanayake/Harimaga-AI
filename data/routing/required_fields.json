@@ -1,0 +1,52 @@
+{
+  "water_issue": [
+    "location",
+    "nearby_landmark",
+    "description",
+    "photo_if_available"
+  ],
+  "electricity_issue": [
+    "provider",
+    "account_number_if_available",
+    "location",
+    "description"
+  ],
+  "road_issue": [
+    "location",
+    "road_name",
+    "road_type_if_known",
+    "photo_if_available",
+    "coordinates_if_available"
+  ],
+  "garbage_collection": [
+    "location",
+    "missed_collection_dates",
+    "photo_if_available"
+  ],
+  "bus_complaint": [
+    "bus_number",
+    "route",
+    "date_time",
+    "location",
+    "description"
+  ],
+  "consumer_complaint": [
+    "business_name",
+    "product_or_service",
+    "purchase_date",
+    "receipt_or_warranty_if_available",
+    "description"
+  ],
+  "environment_issue": [
+    "location",
+    "issue_type",
+    "description",
+    "photo_or_video_if_available"
+  ],
+  "immigration_issue": [
+    "issue_type",
+    "application_or_reference_number_if_available",
+    "date",
+    "description"
+  ]
+}

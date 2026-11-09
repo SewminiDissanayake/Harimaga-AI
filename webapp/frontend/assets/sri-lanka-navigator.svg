@@ -1,0 +1,72 @@
+<svg width="560" height="700" viewBox="0 0 560 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="sea" x1="0" y1="0" x2="560" y2="700" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#DFF6FF"/>
+    <stop offset="1" stop-color="#9EDCF4"/>
+  </linearGradient>
+  <linearGradient id="land" x1="190" y1="85" x2="380" y2="610" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#B8E9C8"/>
+    <stop offset=".5" stop-color="#69C591"/>
+    <stop offset="1" stop-color="#2C805D"/>
+  </linearGradient>
+  <filter id="shadow" x="80" y="40" width="410" height="620">
+    <feDropShadow dx="0" dy="13" stdDeviation="15" flood-color="#286B77" flood-opacity=".18"/>
+  </filter>
+</defs>
+<rect width="560" height="700" rx="42" fill="url(#sea)"/>
+<path d="M28 114C133 83 227 85 315 111C397 135 466 134 535 100" stroke="#F6FDFF" stroke-width="5" stroke-linecap="round" opacity=".75"/>
+<path d="M19 554C111 517 209 514 289 542C373 572 463 572 540 540" stroke="#F6FDFF" stroke-width="5" stroke-linecap="round" opacity=".75"/>
+<g filter="url(#shadow)">
+  <path d="M275 79C243 109 222 151 209 196C195 246 173 287 156 329C139 372 137 414 151 453C165 492 190 523 212 557C234 590 249 627 283 642C318 657 352 633 374 600C398 564 406 524 425 487C444 450 461 413 452 373C444 336 417 310 404 275C390 238 399 198 382 160C365 120 329 92 296 78C288 75 281 75 275 79Z" fill="url(#land)" stroke="#FFFFFF" stroke-width="7"/>
+</g>
+
+<!-- route -->
+<path d="M272 148C322 175 291 212 252 241C218 266 228 304 281 323C336 343 363 372 352 418C343 455 309 481 301 519" stroke="#F1C154" stroke-width="13" stroke-linecap="round" stroke-dasharray="1 24"/>
+<circle cx="272" cy="148" r="14" fill="#FFF9D8" stroke="#D8A232" stroke-width="6"/>
+<path d="M274 521C274 496 294 476 319 476C344 476 364 496 364 521C364 557 319 590 319 590C319 590 274 557 274 521Z" fill="#8A2D47"/>
+<circle cx="319" cy="521" r="15" fill="#FFF7D8"/>
+
+<!-- familiar mini-icons -->
+<g transform="translate(189 190)">
+  <rect x="0" y="0" width="86" height="54" rx="15" fill="#FFFFFF" fill-opacity=".92"/>
+  <path d="M21 42L34 12H51L65 42H21Z" fill="#4F686B"/>
+  <path d="M43 18V39" stroke="#F6CE61" stroke-width="3" stroke-dasharray="5 4"/>
+  <text x="74" y="18" font-size="11" fill="#2C6B70" font-family="Arial" text-anchor="end">ROAD</text>
+</g>
+
+<g transform="translate(347 251)">
+  <circle cx="27" cy="27" r="27" fill="#FFFFFF" fill-opacity=".92"/>
+  <path d="M27 10C27 10 15 27 15 34C15 41 20 46 27 46C34 46 39 41 39 34C39 27 27 10 27 10Z" fill="#56B7E4"/>
+</g>
+
+<g transform="translate(182 352)">
+  <circle cx="28" cy="28" r="28" fill="#FFF8E3"/>
+  <path d="M31 8L17 31H28L23 48L40 24H30L31 8Z" fill="#E1A62A"/>
+</g>
+
+<g transform="translate(351 382)">
+  <rect x="0" y="0" width="72" height="53" rx="15" fill="#FFFFFF" fill-opacity=".92"/>
+  <rect x="12" y="10" width="48" height="28" rx="7" fill="#69B8D9"/>
+  <rect x="18" y="15" width="12" height="9" rx="2" fill="#E9F8FF"/>
+  <rect x="34" y="15" width="12" height="9" rx="2" fill="#E9F8FF"/>
+  <circle cx="19" cy="42" r="5" fill="#3D5255"/>
+  <circle cx="53" cy="42" r="5" fill="#3D5255"/>
+</g>
+
+<g transform="translate(204 462)">
+  <circle cx="28" cy="28" r="28" fill="#F6E9ED"/>
+  <path d="M28 10L45 16V29C45 40 37 47 28 51C19 47 11 40 11 29V16L28 10Z" fill="#8A2D47"/>
+  <path d="M20 30L26 36L37 23" stroke="#FFF8D8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- lotus -->
+<g transform="translate(351 524)">
+  <circle cx="30" cy="30" r="30" fill="#FFF9EA"/>
+  <path d="M30 13C21 23 21 34 30 42C39 34 39 23 30 13Z" fill="#F0A0A8"/>
+  <path d="M16 21C14 32 19 40 30 43C30 32 25 24 16 21Z" fill="#F6B7BD"/>
+  <path d="M44 21C46 32 41 40 30 43C30 32 35 24 44 21Z" fill="#F6B7BD"/>
+  <path d="M17 43C25 46 35 46 43 43" stroke="#4B9B67" stroke-width="4" stroke-linecap="round"/>
+</g>
+
+<text x="280" y="667" fill="#276675" font-family="Arial" font-weight="700" font-size="18" text-anchor="middle">Issue → Jurisdiction → Authority → Action</text>
+</svg>

@@ -1,0 +1,6 @@
+# Only needed for scripts/evaluate_transformer.py (not for running the app).
+#   pip install -r requirements-ml.txt
+# Downloads PyTorch (~200 MB) and, on first run, the LaBSE model (~1.8 GB).
+-r requirements.txt
+sentence-transformers>=3
+pandas

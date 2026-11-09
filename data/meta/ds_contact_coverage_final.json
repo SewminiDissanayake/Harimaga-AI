@@ -1,0 +1,3211 @@
+{
+  "status": "complete",
+  "coverage_policy": "RTI directory mappings are retained where available. DS geography records missing from RTI are supplemented only from official Ministry of Home Affairs or equivalent official government sources.",
+  "counts": {
+    "dcs_geography_total": 340,
+    "rti_contact_offices_total": 331,
+    "exact_rti_matches": 225,
+    "approved_manual_rti_matches": 105,
+    "supplemental_official_matches": 11,
+    "total_ds_geography_covered": 340,
+    "unresolved_geography_count": 0
+  },
+  "matches": [
+    {
+      "status": "exact",
+      "contact_division": "Yatinuwara",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_36__yatinuwara",
+      "geography_name": "Yatinuwara",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ganga Ihala Korale",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_54__ganga_ihala_korale",
+      "geography_name": "Ganga Ihala Korale",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Udunuwara",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_39__udunuwara",
+      "geography_name": "Udunuwara",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kandy Four Gravets & Gangawata Korale",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_30__kandy_four_gravets_gangawata_korale",
+      "geography_name": "Kandy Four Gravets & Gangawata Korale",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Doluwa",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_42__doluwa",
+      "geography_name": "Doluwa",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pathadumbara",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_12__pathadumbara",
+      "geography_name": "Pathadumbara",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Hatharaliyadda",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_34__hatharaliyadda",
+      "geography_name": "Hatharaliyadda",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Minipe",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_21__minipe",
+      "geography_name": "Minipe",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pujapitiya",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_6__pujapitiya",
+      "geography_name": "Pujapitiya",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Akurana",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_9__akurana",
+      "geography_name": "Akurana",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Harispattuwa",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_33__harispattuwa",
+      "geography_name": "Harispattuwa",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Udapalatha",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_51__udapalatha",
+      "geography_name": "Udapalatha",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kundasale",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_27__kundasale",
+      "geography_name": "Kundasale",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thumpane",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_3__thumpane",
+      "geography_name": "Thumpane",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Medadumbara",
+      "contact_district": "Kandy",
+      "geography_id": "central__kandy__ds_24__medadumbara",
+      "geography_name": "Medadumbara",
+      "geography_district": "Kandy",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ukuwela",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_33__ukuwela",
+      "geography_name": "Ukuwela",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rattota",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_30__rattota",
+      "geography_name": "Rattota",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Yatawatta",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_15__yatawatta",
+      "geography_name": "Yatawatta",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Naula",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_9__naula",
+      "geography_name": "Naula",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ambangangakorale",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_21__ambanganga_korale",
+      "geography_name": "Ambanganga Korale",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pallepola",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_12__pallepola",
+      "geography_name": "Pallepola",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Wilgamuwa",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_27__wilgamuwa",
+      "geography_name": "Wilgamuwa",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Matale",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_18__matale",
+      "geography_name": "Matale",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Dambulla",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_6__dambulla",
+      "geography_name": "Dambulla",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Galewela",
+      "contact_district": "Matale",
+      "geography_id": "central__matale__ds_3__galewela",
+      "geography_name": "Galewela",
+      "geography_district": "Matale",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nuwara Eliya",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_12__nuwara_eliya",
+      "geography_name": "Nuwara Eliya",
+      "geography_district": "Nuwara Eliya",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Walapane",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_9__walapane",
+      "geography_name": "Walapane",
+      "geography_district": "Nuwara Eliya",
+      "geography_province": "Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Akkaraipattu",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_36__akkaraipattu",
+      "geography_name": "Akkaraipattu",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Sainthamaruthu",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_25__sainthamaruthu",
+      "geography_name": "Sainthamaruthu",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Damana",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_42__damana",
+      "geography_name": "Damana",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Lahugala",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_51__lahugala",
+      "geography_name": "Lahugala",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Irakkamam",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_34__irakkamam",
+      "geography_name": "Irakkamam",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mahaoya",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_9__mahaoya",
+      "geography_name": "Mahaoya",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Navithanveli",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_16__navithanveli",
+      "geography_name": "Navithanveli",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ninthavur",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_30__ninthavur",
+      "geography_name": "Ninthavur",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Padiyathalawa",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_6__padiyathalawa",
+      "geography_name": "Padiyathalawa",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Samanthurai",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_18__samanthurai",
+      "geography_name": "Samanthurai",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thirukkovil",
+      "contact_district": "Ampara",
+      "geography_id": "eastern__ampara__ds_45__thirukkovil",
+      "geography_name": "Thirukkovil",
+      "geography_district": "Ampara",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Koralaipattu North, Vaharai",
+      "contact_district": "Batticaloa",
+      "geography_id": "eastern__batticaloa__ds_3__koralai_pattu_north_vaharai",
+      "geography_name": "Koralai Pattu North (Vaharai)",
+      "geography_district": "Batticaloa",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Eravur Town",
+      "contact_district": "Batticaloa",
+      "geography_id": "eastern__batticaloa__ds_15__eravur_town",
+      "geography_name": "Eravur Town",
+      "geography_district": "Batticaloa",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kattankudy",
+      "contact_district": "Batticaloa",
+      "geography_id": "eastern__batticaloa__ds_24__kattankudy",
+      "geography_name": "Kattankudy",
+      "geography_district": "Batticaloa",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kuchchaveli",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_6__kuchchaveli",
+      "geography_name": "Kuchchaveli",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Padavisripura",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_3__padavi_sri_pura",
+      "geography_name": "Padavi Sri Pura",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Gomarankadawala",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_9__gomarankadawala",
+      "geography_name": "Gomarankadawala",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Morawewa",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_12__morawewa",
+      "geography_name": "Morawewa",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thambalagamuwa",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_18__thambalagamuwa",
+      "geography_name": "Thambalagamuwa",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kanthale",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_21__kanthale",
+      "geography_name": "Kanthale",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kinniya",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_24__kinniya",
+      "geography_name": "Kinniya",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Muttur",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_27__muttur",
+      "geography_name": "Muttur",
+      "geography_district": "Trincomalee",
+      "geography_province": "Eastern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rajanganaya",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_42__rajanganaya",
+      "geography_name": "Rajanganaya",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thalawa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_48__thalawa",
+      "geography_name": "Thalawa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ipalogama",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_60__ipalogama",
+      "geography_name": "Ipalogama",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Galnewa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_63__galnewa",
+      "geography_name": "Galnewa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kekirawa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_54__kekirawa",
+      "geography_name": "Kekirawa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nochchiyagama",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_39__nochchiyagama",
+      "geography_name": "Nochchiyagama",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Padaviya",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_3__padaviya",
+      "geography_name": "Padaviya",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Galenbindunuwewa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_27__galenbindunuwewa",
+      "geography_name": "Galenbindunuwewa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Horowpothana",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_24__horowpothana",
+      "geography_name": "Horowpothana",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kahatagasdigiliya",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_21__kahatagasdigiliya",
+      "geography_name": "Kahatagasdigiliya",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kebithigollewa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_6__kebithigollewa",
+      "geography_name": "Kebithigollewa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mahawilachchiya",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_12__mahawilachchiya",
+      "geography_name": "Mahawilachchiya",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mihinthale",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_30__mihinthale",
+      "geography_name": "Mihinthale",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nachchaduwa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_36__nachchaduwa",
+      "geography_name": "Nachchaduwa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Palagala",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_66__palagala",
+      "geography_name": "Palagala",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Palugaswewa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_57__palugaswewa",
+      "geography_name": "Palugaswewa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rambewa",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_18__rambewa",
+      "geography_name": "Rambewa",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thambuttegama",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_45__thambuttegama",
+      "geography_name": "Thambuttegama",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thirappane",
+      "contact_district": "Anuradhapura",
+      "geography_id": "north_central__anuradhapura__ds_51__thirappane",
+      "geography_name": "Thirappane",
+      "geography_district": "Anuradhapura",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Elahera",
+      "contact_district": "Polonnaruwa",
+      "geography_id": "north_central__polonnaruwa__ds_18__elahera",
+      "geography_name": "Elahera",
+      "geography_district": "Polonnaruwa",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Dimbulagala",
+      "contact_district": "Polonnaruwa",
+      "geography_id": "north_central__polonnaruwa__ds_12__dimbulagala",
+      "geography_name": "Dimbulagala",
+      "geography_district": "Polonnaruwa",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Lankapura",
+      "contact_district": "Polonnaruwa",
+      "geography_id": "north_central__polonnaruwa__ds_9__lankapura",
+      "geography_name": "Lankapura",
+      "geography_district": "Polonnaruwa",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Welikanda",
+      "contact_district": "Polonnaruwa",
+      "geography_id": "north_central__polonnaruwa__ds_10__welikanda",
+      "geography_name": "Welikanda",
+      "geography_district": "Polonnaruwa",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thamankaduwa",
+      "contact_district": "Polonnaruwa",
+      "geography_id": "north_central__polonnaruwa__ds_15__thamankaduwa",
+      "geography_name": "Thamankaduwa",
+      "geography_district": "Polonnaruwa",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Hingurakgoda",
+      "contact_district": "Polonnaruwa",
+      "geography_id": "north_central__polonnaruwa__ds_3__hingurakgoda",
+      "geography_name": "Hingurakgoda",
+      "geography_district": "Polonnaruwa",
+      "geography_province": "North Central"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Jaffna",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_36__jaffna",
+      "geography_name": "Jaffna",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nallur",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_33__nallur",
+      "geography_name": "Nallur",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Valikamam East, Kopay",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_18__valikamam_east_kopay",
+      "geography_name": "Valikamam East (Kopay)",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Valikamam South, Uduvil",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_15__valikamam_south_uduvil",
+      "geography_name": "Valikamam South (Uduvil)",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Valikamam West Chankanai",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_6__valikamam_west_chankanai",
+      "geography_name": "Valikamam West (Chankanai)",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thenmaradchi – Chavakachcheri",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_30__thenmaradchi_chavakachcheri",
+      "geography_name": "Thenmaradchi (Chavakachcheri)",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Island North, Kayts",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_3__island_north_kayts",
+      "geography_name": "Island North (Kayts)",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Island South, Velanai",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_39__island_south_velanai",
+      "geography_name": "Island South (Velanai)",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Karainagar",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_4__karainagar",
+      "geography_name": "Karainagar",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Delft",
+      "contact_district": "Jaffna",
+      "geography_id": "northern__jaffna__ds_42__delft",
+      "geography_name": "Delft",
+      "geography_district": "Jaffna",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Madhu",
+      "contact_district": "Mannar",
+      "geography_id": "northern__mannar__ds_9__madhu",
+      "geography_name": "Madhu",
+      "geography_district": "Mannar",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mannar Town",
+      "contact_district": "Mannar",
+      "geography_id": "northern__mannar__ds_3__mannar_town",
+      "geography_name": "Mannar Town",
+      "geography_district": "Mannar",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Musali",
+      "contact_district": "Mannar",
+      "geography_id": "northern__mannar__ds_15__musali",
+      "geography_name": "Musali",
+      "geography_district": "Mannar",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Oddusuddan",
+      "contact_district": "Mullaitivu",
+      "geography_id": "northern__mullaitivu__ds_12__oddusuddan",
+      "geography_name": "Oddusuddan",
+      "geography_district": "Mullaitivu",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Welioya",
+      "contact_district": "Mullaitivu",
+      "geography_id": "northern__mullaitivu__ds_18__welioya",
+      "geography_name": "Welioya",
+      "geography_district": "Mullaitivu",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Manthai East",
+      "contact_district": "Mullaitivu",
+      "geography_id": "northern__mullaitivu__ds_6__manthai_east",
+      "geography_name": "Manthai East",
+      "geography_district": "Mullaitivu",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thunukkai",
+      "contact_district": "Mullaitivu",
+      "geography_id": "northern__mullaitivu__ds_3__thunukkai",
+      "geography_name": "Thunukkai",
+      "geography_district": "Mullaitivu",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Maritime Pattu",
+      "contact_district": "Mullaitivu",
+      "geography_id": "northern__mullaitivu__ds_15__maritimepattu",
+      "geography_name": "Maritimepattu",
+      "geography_district": "Mullaitivu",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Vavuniya",
+      "contact_district": "Vavuniya",
+      "geography_id": "northern__vavuniya__ds_9__vavuniya",
+      "geography_name": "Vavuniya",
+      "geography_district": "Vavuniya",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Vengalacheddikulam",
+      "contact_district": "Vavuniya",
+      "geography_id": "northern__vavuniya__ds_12__vengalacheddikulam",
+      "geography_name": "Vengalacheddikulam",
+      "geography_district": "Vavuniya",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kandavalai",
+      "contact_district": "Kilinochchi",
+      "geography_id": "northern__kilinochchi__ds_6__kandavalai",
+      "geography_name": "Kandavalai",
+      "geography_district": "Kilinochchi",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Karachchi",
+      "contact_district": "Kilinochchi",
+      "geography_id": "northern__kilinochchi__ds_9__karachchi",
+      "geography_name": "Karachchi",
+      "geography_district": "Kilinochchi",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pachchilaipalli",
+      "contact_district": "Kilinochchi",
+      "geography_id": "northern__kilinochchi__ds_3__pachchilaipalli",
+      "geography_name": "Pachchilaipalli",
+      "geography_district": "Kilinochchi",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Poonakary",
+      "contact_district": "Kilinochchi",
+      "geography_id": "northern__kilinochchi__ds_12__poonakary",
+      "geography_name": "Poonakary",
+      "geography_district": "Kilinochchi",
+      "geography_province": "Northern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Giribawa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_3__giribawa",
+      "geography_name": "Giribawa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Galgamuwa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_6__galgamuwa",
+      "geography_name": "Galgamuwa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ehetuwewa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_9__ehetuwewa",
+      "geography_name": "Ehetuwewa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ambanpola",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_12__ambanpola",
+      "geography_name": "Ambanpola",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rasnayakapura",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_18__rasnayakapura",
+      "geography_name": "Rasnayakapura",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nikaweratiya",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_21__nikaweratiya",
+      "geography_name": "Nikaweratiya",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Polpithigama",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_27__polpithigama",
+      "geography_name": "Polpithigama",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ibbagamuwa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_30__ibbagamuwa",
+      "geography_name": "Ibbagamuwa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ganewatta",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_33__ganewatta",
+      "geography_name": "Ganewatta",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rideegama",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_63__rideegama",
+      "geography_name": "Rideegama",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mawathagama",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_60__mawathagama",
+      "geography_name": "Mawathagama",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mallawapitiya",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_57__mallawapitiya",
+      "geography_name": "Mallawapitiya",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kurunegala",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_54__kurunegala",
+      "geography_name": "Kurunegala",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Weerambugedara",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_66__weerambugedara",
+      "geography_name": "Weerambugedara",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Polgahawela",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_87__polgahawela",
+      "geography_name": "Polgahawela",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Alawwa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_84__alawwa",
+      "geography_name": "Alawwa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Narammala",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_81__narammala",
+      "geography_name": "Narammala",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kuliyapitiya East",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_69__kuliyapitiya_east",
+      "geography_name": "Kuliyapitiya East",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Wariyapola",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_36__wariyapola",
+      "geography_name": "Wariyapola",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Panduwasnuwara East",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_48__panduwasnuwara_east",
+      "geography_name": "Panduwasnuwara East",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bamunakotuwa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_49__bamunakotuwa",
+      "geography_name": "Bamunakotuwa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kobeigane",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_39__kobeigane",
+      "geography_name": "Kobeigane",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Panduwasnuwara West",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_45__panduwasnuwara_west",
+      "geography_name": "Panduwasnuwara West",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bingiriya",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_42__bingiriya",
+      "geography_name": "Bingiriya",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Udubaddawa",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_75__udubaddawa",
+      "geography_name": "Udubaddawa",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pannala",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_78__pannala",
+      "geography_name": "Pannala",
+      "geography_district": "Kurunegala",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Anamaduwa",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_24__anamaduwa",
+      "geography_name": "Anamaduwa",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Arachchikattuwa",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_30__arachchikattuwa",
+      "geography_name": "Arachchikattuwa",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Chilaw",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_33__chilaw",
+      "geography_name": "Chilaw",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Dankotuwa",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_48__dankotuwa",
+      "geography_name": "Dankotuwa",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Karuwalagaswewa",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_9__karuwalagaswewa",
+      "geography_name": "Karuwalagaswewa",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Madampe",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_36__madampe",
+      "geography_name": "Madampe",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mahawewa",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_39__mahawewa",
+      "geography_name": "Mahawewa",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nattandiya",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_42__nattandiya",
+      "geography_name": "Nattandiya",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nawagattegama",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_12__nawagattegama",
+      "geography_name": "Nawagattegama",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pallama",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_27__pallama",
+      "geography_name": "Pallama",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Puttalam",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_15__puttalam",
+      "geography_name": "Puttalam",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Wennappuwa",
+      "contact_district": "Puttalam",
+      "geography_id": "north_western__puttalam__ds_45__wennappuwa",
+      "geography_name": "Wennappuwa",
+      "geography_district": "Puttalam",
+      "geography_province": "North Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Aranayaka",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_9__aranayaka",
+      "geography_name": "Aranayaka",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bulathkohupitiya",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_24__bulathkohupitiya",
+      "geography_name": "Bulathkohupitiya",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Deraniyagala",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_33__deraniyagala",
+      "geography_name": "Deraniyagala",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Galigamuwa",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_15__galigamuwa",
+      "geography_name": "Galigamuwa",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kegalle",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_12__kegalle",
+      "geography_name": "Kegalle",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rambukkana",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_3__rambukkana",
+      "geography_name": "Rambukkana",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ruwanwella",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_21__ruwanwella",
+      "geography_name": "Ruwanwella",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Warakapola",
+      "contact_district": "Kegalle",
+      "geography_id": "sabaragamuwa__kegalle__ds_18__warakapola",
+      "geography_name": "Warakapola",
+      "geography_district": "Kegalle",
+      "geography_province": "Sabaragamuwa"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Habaraduwa",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_54__habaraduwa",
+      "geography_name": "Habaraduwa",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Nagoda",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_24__nagoda",
+      "geography_name": "Nagoda",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Akmeemana",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_45__akmeemana",
+      "geography_name": "Akmeemana",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ambalangoda",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_33__ambalangoda",
+      "geography_name": "Ambalangoda",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Baddegama",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_27__baddegama",
+      "geography_name": "Baddegama",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Balapitiya",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_6__balapitiya",
+      "geography_name": "Balapitiya",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bentota",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_3__bentota",
+      "geography_name": "Bentota",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bope -Poddala",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_42__bope_poddala",
+      "geography_name": "Bope-Poddala",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Elpitiya",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_12__elpitiya",
+      "geography_name": "Elpitiya",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Hikkaduwa",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_36__hikkaduwa",
+      "geography_name": "Hikkaduwa",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Imaduwa",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_51__imaduwa",
+      "geography_name": "Imaduwa",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Karandeniya",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_9__karandeniya",
+      "geography_name": "Karandeniya",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Neluwa",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_21__neluwa",
+      "geography_name": "Neluwa",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Niyagama",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_15__niyagama",
+      "geography_name": "Niyagama",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thawalama",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_18__thawalama",
+      "geography_name": "Thawalama",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Wanduramba",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_28__wanduramba",
+      "geography_name": "Wanduramba",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Yakkalamulla",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_48__yakkalamulla",
+      "geography_name": "Yakkalamulla",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Rathgama",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_37__rathgama",
+      "geography_name": "Rathgama",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Madampagama",
+      "contact_district": "Galle",
+      "geography_id": "southern__galle__ds_35__madampagama",
+      "geography_name": "Madampagama",
+      "geography_district": "Galle",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thihagoda",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_36__thihagoda",
+      "geography_name": "Thihagoda",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Devinuwara",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_45__devinuwara",
+      "geography_name": "Devinuwara",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kirinda Puhulwella",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_33__kirinda_puhulwella",
+      "geography_name": "Kirinda Puhulwella",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kotapola",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_6__kotapola",
+      "geography_name": "Kotapola",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kamburupitiya",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_27__kamburupitiya",
+      "geography_name": "Kamburupitiya",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Pasgoda",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_9__pasgoda",
+      "geography_name": "Pasgoda",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Akuressa",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_18__akuressa",
+      "geography_name": "Akuressa",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Athuraliya",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_15__athuraliya",
+      "geography_name": "Athuraliya",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Weligama",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_39__weligama",
+      "geography_name": "Weligama",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Welipitiya",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_21__welipitiya",
+      "geography_name": "Welipitiya",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mulatiyana",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_12__mulatiyana",
+      "geography_name": "Mulatiyana",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Malimbada",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_24__malimbada",
+      "geography_name": "Malimbada",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Hakmana",
+      "contact_district": "Matara",
+      "geography_id": "southern__matara__ds_30__hakmana",
+      "geography_name": "Hakmana",
+      "geography_district": "Matara",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ambalantota",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_15__ambalantota",
+      "geography_name": "Ambalantota",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Hambantota",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_12__hambantota",
+      "geography_name": "Hambantota",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Okewela",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_27__okewela",
+      "geography_name": "Okewela",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Katuwana",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_24__katuwana",
+      "geography_name": "Katuwana",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Beliatta",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_30__beliatta",
+      "geography_name": "Beliatta",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Walasmulla",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_25__walasmulla",
+      "geography_name": "Walasmulla",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Weeraketiya",
+      "contact_district": "Hambantota",
+      "geography_id": "southern__hambantota__ds_21__weeraketiya",
+      "geography_name": "Weeraketiya",
+      "geography_district": "Hambantota",
+      "geography_province": "Southern"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bandarawela",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_33__bandarawela",
+      "geography_name": "Bandarawela",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Badulla",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_21__badulla",
+      "geography_name": "Badulla",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ella",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_36__ella",
+      "geography_name": "Ella",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Haldummulla",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_42__haldummulla",
+      "geography_name": "Haldummulla",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Haliela",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_24__hali_ela",
+      "geography_name": "Hali-Ela",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Lunugala",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_19__lunugala",
+      "geography_name": "Lunugala",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mahiyanganaya",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_3__mahiyanganaya",
+      "geography_name": "Mahiyanganaya",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Passara",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_18__passara",
+      "geography_name": "Passara",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Uva-paranagama",
+      "contact_district": "Badulla",
+      "geography_id": "uva__badulla__ds_27__uva_paranagama",
+      "geography_name": "Uva Paranagama",
+      "geography_district": "Badulla",
+      "geography_province": "Uva"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Colombo",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_3__colombo",
+      "geography_name": "Colombo",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Thimbirigasyaya",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_27__thimbirigasyaya",
+      "geography_name": "Thimbirigasyaya",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Dehiwala",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_30__dehiwala",
+      "geography_name": "Dehiwala",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Moratuwa",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_33__moratuwa",
+      "geography_name": "Moratuwa",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kolonnawa",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_6__kolonnawa",
+      "geography_name": "Kolonnawa",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kaduwela",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_9__kaduwela",
+      "geography_name": "Kaduwela",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Padukka",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_18__padukka",
+      "geography_name": "Padukka",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kesbewa",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_36__kesbewa",
+      "geography_name": "Kesbewa",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Homagama",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_12__homagama",
+      "geography_name": "Homagama",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Maharagama",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_21__maharagama",
+      "geography_name": "Maharagama",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Seethawaka",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_15__seethawaka",
+      "geography_name": "Seethawaka",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ratmalana",
+      "contact_district": "Colombo",
+      "geography_id": "western__colombo__ds_31__ratmalana",
+      "geography_name": "Ratmalana",
+      "geography_district": "Colombo",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Agalawatta",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_33__agalawatta",
+      "geography_name": "Agalawatta",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Madurawala",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_15__madurawala",
+      "geography_name": "Madurawala",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kalutara",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_21__kalutara",
+      "geography_name": "Kalutara",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Bandaragama",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_6__bandaragama",
+      "geography_name": "Bandaragama",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Beruwala",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_24__beruwala",
+      "geography_name": "Beruwala",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Palindanuwara",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_36__palindanuwara",
+      "geography_name": "Palindanuwara",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Dodangoda",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_27__dodangoda",
+      "geography_name": "Dodangoda",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Horana",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_9__horana",
+      "geography_name": "Horana",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ingiriya",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_10__ingiriya",
+      "geography_name": "Ingiriya",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Millaniya",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_18__millaniya",
+      "geography_name": "Millaniya",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Panadura",
+      "contact_district": "Kalutara",
+      "geography_id": "western__kalutara__ds_3__panadura",
+      "geography_name": "Panadura",
+      "geography_district": "Kalutara",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Katana",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_6__katana",
+      "geography_name": "Katana",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Kelaniya",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_36__kelaniya",
+      "geography_name": "Kelaniya",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Gampaha",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_24__gampaha",
+      "geography_name": "Gampaha",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Ja-ela",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_21__ja_ela",
+      "geography_name": "Ja-Ela",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Biyagama",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_39__biyagama",
+      "geography_name": "Biyagama",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Divulapitiya",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_9__divulapitiya",
+      "geography_name": "Divulapitiya",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Dompe",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_30__dompe",
+      "geography_name": "Dompe",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Mahara",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_33__mahara",
+      "geography_name": "Mahara",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Minuwangoda",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_15__minuwangoda",
+      "geography_name": "Minuwangoda",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "exact",
+      "contact_division": "Wattala",
+      "contact_district": "Gampaha",
+      "geography_id": "western__gampaha__ds_18__wattala",
+      "geography_name": "Wattala",
+      "geography_district": "Gampaha",
+      "geography_province": "Western"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kandy",
+      "contact_division": "Ududummbara",
+      "geography_name": "Udadumbara",
+      "geography_id": "central__kandy__ds_18__udadumbara",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kandy",
+      "contact_division": "Panwila",
+      "geography_name": "Panvila",
+      "geography_id": "central__kandy__ds_15__panvila",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kandy",
+      "contact_division": "Pasbhage Korale (Nawalapitiya)",
+      "geography_name": "Pasbage Korale",
+      "geography_id": "central__kandy__ds_57__pasbage_korale",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kandy",
+      "contact_division": "Delthota",
+      "geography_name": "Deltota",
+      "geography_id": "central__kandy__ds_48__deltota",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kandy",
+      "contact_division": "Patha Hewahata",
+      "geography_name": "Pathahewaheta",
+      "geography_id": "central__kandy__ds_45__pathahewaheta",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Matale",
+      "contact_division": "Laggala",
+      "geography_name": "Laggala-Pallegama",
+      "geography_id": "central__matale__ds_24__laggala_pallegama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Nuwara Eliya",
+      "contact_division": "Ambagamuwa",
+      "geography_name": "Ambagamuwa Koralaya",
+      "geography_id": "central__nuwara_eliya__ds_15__ambagamuwa_koralaya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Ampara – Namaloya",
+      "geography_name": "Ampara",
+      "geography_id": "eastern__ampara__ds_15__ampara",
+      "notes": "Namaloya is within the Ampara Divisional Secretariat area; map 'Ampara – Namaloya' to canonical DCS 'Ampara'.",
+      "source_url": "https://documents.gov.lk/view/gazettes/2023/8/2023-08-11%28III-0%29E.pdf"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Addalaichenai",
+      "geography_name": "Addalachchenai",
+      "geography_id": "eastern__ampara__ds_33__addalachchenai",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Alayadivembu",
+      "geography_name": "Alayadiwembu",
+      "geography_id": "eastern__ampara__ds_39__alayadiwembu",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Dehiaththakandiya",
+      "geography_name": "Dehiattakandiya",
+      "geography_id": "eastern__ampara__ds_3__dehiattakandiya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Karaithivu",
+      "geography_name": "Karaitheevu",
+      "geography_id": "eastern__ampara__ds_27__karaitheevu",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Lahugala (Panampattu)",
+      "geography_name": "Lahugala",
+      "geography_id": "eastern__ampara__ds_51__lahugala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Kalmunai North",
+      "geography_name": "Kalmunai North Sub",
+      "geography_id": "eastern__ampara__ds_21__kalmunai_north_sub",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Pottuvill",
+      "geography_name": "Pothuvil",
+      "geography_id": "eastern__ampara__ds_48__pothuvil",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Uhana – Wewgampaththuwa North",
+      "geography_name": "Uhana",
+      "geography_id": "eastern__ampara__ds_12__uhana",
+      "notes": "RTI directory identifies the office/location as Uhana for the label 'Uhana – Wewgampaththuwa North'.",
+      "source_url": "https://rti.gov.lk/io-list/"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Ampara",
+      "contact_division": "Kalmunai Muslim",
+      "geography_name": "Kalmunai",
+      "geography_id": "eastern__ampara__ds_24__kalmunai",
+      "notes": "The DCS GND source places 'Kalmunai Muslim Section' under canonical DCS division 'Kalmunai'.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Porativu Pattu, Vellaveli",
+      "geography_name": "Porativu Pattu",
+      "geography_id": "eastern__batticaloa__ds_33__porativu_pattu",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Koralaipattu, Valaichchenai",
+      "geography_name": "Koralai Pattu (Valachchenai)",
+      "geography_id": "eastern__batticaloa__ds_9__koralai_pattu_valachchenai",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Koralaipattu Central, Valaichenai",
+      "geography_name": "Koralai Pattu Central",
+      "geography_id": "eastern__batticaloa__ds_4__koralai_pattu_central",
+      "notes": "The 'Central' qualifier identifies Koralai Pattu Central, not the generic Valachchenai candidate.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Mannnunai South & Eruvil Pattu, Kaluwanchikudy",
+      "geography_name": "Manmunai South & Eruvil pattu",
+      "geography_id": "eastern__batticaloa__ds_36__manmunai_south_eruvil_pattu",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Mannnunai West, Vavunativu",
+      "geography_name": "Manmunai West",
+      "geography_id": "eastern__batticaloa__ds_21__manmunai_west",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Mannnunai North, Batticaloa",
+      "geography_name": "Manmunai North",
+      "geography_id": "eastern__batticaloa__ds_18__manmunai_north",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Mannnunai South West, Paddipalai",
+      "geography_name": "Manmunai South-West",
+      "geography_id": "eastern__batticaloa__ds_30__manmunai_south_west",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Korala Pattu West -Oddamavadi",
+      "geography_name": "Koralai Pattu West (Oddamavadi)",
+      "geography_id": "eastern__batticaloa__ds_6__koralai_pattu_west_oddamavadi",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Koralapattu South",
+      "geography_name": "Koralai Pattu South (Kiran)",
+      "geography_id": "eastern__batticaloa__ds_10__koralai_pattu_south_kiran",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Eravurpattu, Chenkalady",
+      "geography_name": "Eravur Pattu",
+      "geography_id": "eastern__batticaloa__ds_12__eravur_pattu",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Batticaloa",
+      "contact_division": "Mannnunai Pattu, Arayampatty",
+      "geography_name": "Manmunai Pattu (Araipattai)",
+      "geography_id": "eastern__batticaloa__ds_27__manmunai_pattu_araipattai",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Trincomalee",
+      "contact_division": "Seruwila",
+      "geography_name": "Seruvila",
+      "geography_id": "eastern__trincomalee__ds_30__seruvila",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Trincomalee",
+      "contact_division": "Verugal",
+      "geography_name": "Verugal (Eachchilampattu)",
+      "geography_id": "eastern__trincomalee__ds_33__verugal_eachchilampattu",
+      "notes": "Official DCS naming is 'Verugal (Eachchilampattu)'; RTI uses the shorter 'Verugal'.",
+      "source_url": "https://www.statistics.gov.lk/Resource/en/Population/GND_Reports/2020/Trincomalee.pdf"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Anuradhapura",
+      "contact_division": "Madawachchiya",
+      "geography_name": "Medawachchiya",
+      "geography_id": "north_central__anuradhapura__ds_9__medawachchiya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Anuradhapura",
+      "contact_division": "Nuaragampalatha Central",
+      "geography_name": "Nuwaragam Palatha Central",
+      "geography_id": "north_central__anuradhapura__ds_15__nuwaragam_palatha_central",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Anuradhapura",
+      "contact_division": "Nuaragampalatha East",
+      "geography_name": "Nuwaragam Palatha East",
+      "geography_id": "north_central__anuradhapura__ds_33__nuwaragam_palatha_east",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Polonnaruwa",
+      "contact_division": "Madirigiriya",
+      "geography_name": "Medirigiriya",
+      "geography_id": "north_central__polonnaruwa__ds_6__medirigiriya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Jaffna",
+      "contact_division": "Tellippalai",
+      "geography_name": "Valikamam North (Tellipallai)",
+      "geography_id": "northern__jaffna__ds_12__valikamam_north_tellipallai",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Jaffna",
+      "contact_division": "Valikamam South West, Sandilipai",
+      "geography_name": "Valikamam South-West (Sandilipay)",
+      "geography_id": "northern__jaffna__ds_9__valikamam_south_west_sandilipay",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Jaffna",
+      "contact_division": "Vadamaradchy South West, Karaveddi",
+      "geography_name": "Vadamaradchi South-West (Karaveddy)",
+      "geography_id": "northern__jaffna__ds_21__vadamaradchi_south_west_karaveddy",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Jaffna",
+      "contact_division": "Vadamaradchi East Maruthankerny",
+      "geography_name": "Vadamaradchi East",
+      "geography_id": "northern__jaffna__ds_24__vadamaradchi_east",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Jaffna",
+      "contact_division": "Vadamaradchy North Point Pedro",
+      "geography_name": "Vadamaradchi North (Point Pedro)",
+      "geography_id": "northern__jaffna__ds_27__vadamaradchi_north_point_pedro",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Mannar",
+      "contact_division": "Manthei West",
+      "geography_name": "Manthai West",
+      "geography_id": "northern__mannar__ds_6__manthai_west",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Mannar",
+      "contact_division": "Nanaddan",
+      "geography_name": "Nanattan",
+      "geography_id": "northern__mannar__ds_12__nanattan",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Mullaitivu",
+      "contact_division": "Puthukkudirippu",
+      "geography_name": "Puthukkudiyiruppu",
+      "geography_id": "northern__mullaitivu__ds_9__puthukkudiyiruppu",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Vavuniya",
+      "contact_division": "Vavunia South",
+      "geography_name": "Vavuniya South",
+      "geography_id": "northern__vavuniya__ds_6__vavuniya_south",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kurunegala",
+      "contact_division": "Mahawa",
+      "geography_name": "Maho",
+      "geography_id": "north_western__kurunegala__ds_24__maho",
+      "notes": "Canonical DCS spelling is 'Maho'; RTI uses 'Mahawa'.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kurunegala",
+      "contact_division": "Kotawehera",
+      "geography_name": "Kotavehera",
+      "geography_id": "north_western__kurunegala__ds_15__kotavehera",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Puttalam",
+      "contact_division": "Kalpitya",
+      "geography_name": "Kalpitiya",
+      "geography_id": "north_western__puttalam__ds_3__kalpitiya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Puttalam",
+      "contact_division": "Mahakubukkadawala",
+      "geography_name": "Mahakumbukkadawala",
+      "geography_id": "north_western__puttalam__ds_21__mahakumbukkadawala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Puttalam",
+      "contact_division": "Mudalama",
+      "geography_name": "Mundel",
+      "geography_id": "north_western__puttalam__ds_18__mundel",
+      "notes": "Official public-administration records explicitly use 'Mundalama (Mundel)'.",
+      "source_url": "https://pubad.gov.lk/web/index.php?classes_id=3&lang=en&limitstart=165&option=com_senioritylist&services_id=6&view=senioritylists"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Puttalam",
+      "contact_division": "Wanathawilluwa",
+      "geography_name": "Vanathawilluwa",
+      "geography_id": "north_western__puttalam__ds_6__vanathawilluwa",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Kuruwita",
+      "geography_name": "Kuruvita",
+      "geography_id": "sabaragamuwa__ratnapura__ds_6__kuruvita",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Kahawatta",
+      "geography_name": "Kahawatta",
+      "geography_id": "sabaragamuwa__ratnapura__ds_39__kahawatta",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Embilipitiya",
+      "geography_name": "Embilipitiya",
+      "geography_id": "sabaragamuwa__ratnapura__ds_48__embilipitiya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Ayagama",
+      "geography_name": "Ayagama",
+      "geography_id": "sabaragamuwa__ratnapura__ds_30__ayagama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Elapatha",
+      "geography_name": "Elapatha",
+      "geography_id": "sabaragamuwa__ratnapura__ds_27__elapatha",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Kiriella",
+      "geography_name": "Kiriella",
+      "geography_id": "sabaragamuwa__ratnapura__ds_9__kiriella",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Godakawela",
+      "geography_name": "Godakawela",
+      "geography_id": "sabaragamuwa__ratnapura__ds_42__godakawela",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Balangoda",
+      "geography_name": "Balangoda",
+      "geography_id": "sabaragamuwa__ratnapura__ds_18__balangoda",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Opanayaka",
+      "geography_name": "Opanayake",
+      "geography_id": "sabaragamuwa__ratnapura__ds_21__opanayake",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Ratnapura",
+      "geography_name": "Ratnapura",
+      "geography_id": "sabaragamuwa__ratnapura__ds_12__ratnapura",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Imbulpe",
+      "geography_name": "Imbulpe",
+      "geography_id": "sabaragamuwa__ratnapura__ds_15__imbulpe",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Kolonna",
+      "geography_name": "Kolonna",
+      "geography_id": "sabaragamuwa__ratnapura__ds_51__kolonna",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Ehaliyagoda",
+      "geography_name": "Eheliyagoda",
+      "geography_id": "sabaragamuwa__ratnapura__ds_3__eheliyagoda",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Kalawana",
+      "geography_name": "Kalawana",
+      "geography_id": "sabaragamuwa__ratnapura__ds_33__kalawana",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Palmadulla",
+      "geography_name": "Pelmadulla",
+      "geography_id": "sabaragamuwa__ratnapura__ds_24__pelmadulla",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Nivithigala",
+      "geography_name": "Nivithigala",
+      "geography_id": "sabaragamuwa__ratnapura__ds_36__nivithigala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Weligepola",
+      "geography_name": "Weligepola",
+      "geography_id": "sabaragamuwa__ratnapura__ds_45__weligepola",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Rathnapura",
+      "contact_division": "Kaltota",
+      "geography_name": "Kaltota",
+      "geography_id": "sabaragamuwa__ratnapura__ds_19__kaltota",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kegalle",
+      "contact_division": "Mavanella",
+      "geography_name": "Mawanella",
+      "geography_id": "sabaragamuwa__kegalle__ds_6__mawanella",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kegalle",
+      "contact_division": "Yatiyantota",
+      "geography_name": "Yatiyanthota",
+      "geography_id": "sabaragamuwa__kegalle__ds_27__yatiyanthota",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kegalle",
+      "contact_division": "Dehiowita",
+      "geography_name": "Dehiovita",
+      "geography_id": "sabaragamuwa__kegalle__ds_30__dehiovita",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Galle",
+      "contact_division": "Four Gravets",
+      "geography_name": "Galle Four Gravets",
+      "geography_id": "southern__galle__ds_39__galle_four_gravets",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Galle",
+      "contact_division": "Gonapinuwala",
+      "geography_name": "Gonapeenuwala",
+      "geography_id": "southern__galle__ds_34__gonapeenuwala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Galle",
+      "contact_division": "Walivitiya-Divithura",
+      "geography_name": "Welivitiya-Divithura",
+      "geography_id": "southern__galle__ds_30__welivitiya_divithura",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Matara",
+      "contact_division": "Pitabaddara",
+      "geography_name": "Pitabeddara",
+      "geography_id": "southern__matara__ds_3__pitabeddara",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Matara",
+      "contact_division": "Mathara Four Graverts",
+      "geography_name": "Matara Four Gravets",
+      "geography_id": "southern__matara__ds_42__matara_four_gravets",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Matara",
+      "contact_division": "Dikwella",
+      "geography_name": "Dickwella",
+      "geography_id": "southern__matara__ds_48__dickwella",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Hambantota",
+      "contact_division": "Thissamaharamaya",
+      "geography_name": "Thissamaharama",
+      "geography_id": "southern__hambantota__ds_9__thissamaharama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Hambantota",
+      "contact_division": "Lunugamwehera",
+      "geography_name": "Lunugamvehera",
+      "geography_id": "southern__hambantota__ds_6__lunugamvehera",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Hambantota",
+      "contact_division": "Suriyawewa",
+      "geography_name": "Sooriyawewa",
+      "geography_id": "southern__hambantota__ds_3__sooriyawewa",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Hambantota",
+      "contact_division": "Angunukolapalassa",
+      "geography_name": "Angunakolapelessa",
+      "geography_id": "southern__hambantota__ds_18__angunakolapelessa",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Hambantota",
+      "contact_division": "Tangalla",
+      "geography_name": "Tangalle",
+      "geography_id": "southern__hambantota__ds_33__tangalle",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Badulla",
+      "contact_division": "Haputale – Diyathalawa",
+      "geography_name": "Haputale",
+      "geography_id": "uva__badulla__ds_39__haputale",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Badulla",
+      "contact_division": "Kandeketiya",
+      "geography_name": "Kandaketiya",
+      "geography_id": "uva__badulla__ds_12__kandaketiya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Badulla",
+      "contact_division": "Meegahakiwula",
+      "geography_name": "Meegahakivula",
+      "geography_id": "uva__badulla__ds_9__meegahakivula",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Badulla",
+      "contact_division": "Ridimaliyadda",
+      "geography_name": "Rideemaliyadda",
+      "geography_id": "uva__badulla__ds_6__rideemaliyadda",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Badulla",
+      "contact_division": "Soranatota",
+      "geography_name": "Soranathota",
+      "geography_id": "uva__badulla__ds_15__soranathota",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Badulla",
+      "contact_division": "Welimada (Waligama)",
+      "geography_name": "Welimada",
+      "geography_id": "uva__badulla__ds_30__welimada",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Monaragala",
+      "geography_name": "Moneragala",
+      "geography_id": "uva__moneragala__ds_15__moneragala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Katharagama",
+      "geography_name": "Katharagama",
+      "geography_id": "uva__moneragala__ds_27__katharagama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Madagama",
+      "geography_name": "Medagama",
+      "geography_id": "uva__moneragala__ds_9__medagama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Siyabalanduwa",
+      "geography_name": "Siyambalanduwa",
+      "geography_id": "uva__moneragala__ds_12__siyambalanduwa",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Bibla",
+      "geography_name": "Bibile",
+      "geography_id": "uva__moneragala__ds_3__bibile",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Wellawaya",
+      "geography_name": "Wellawaya",
+      "geography_id": "uva__moneragala__ds_21__wellawaya",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Badalkumbura",
+      "geography_name": "Badalkumbura",
+      "geography_id": "uva__moneragala__ds_18__badalkumbura",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Thanamalwila",
+      "geography_name": "Thanamalvila",
+      "geography_id": "uva__moneragala__ds_30__thanamalvila",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Buttala",
+      "geography_name": "Buttala",
+      "geography_id": "uva__moneragala__ds_24__buttala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Sevanagala",
+      "geography_name": "Sevanagala",
+      "geography_id": "uva__moneragala__ds_33__sevanagala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Monaragala",
+      "contact_division": "Madulla",
+      "geography_name": "Madulla",
+      "geography_id": "uva__moneragala__ds_6__madulla",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Colombo",
+      "contact_division": "Sri Jayewardenepura Kotte",
+      "geography_name": "Sri Jayawardanapura Kotte",
+      "geography_id": "western__colombo__ds_24__sri_jayawardanapura_kotte",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kalutara",
+      "contact_division": "Bulathsinghala",
+      "geography_name": "Bulathsinhala",
+      "geography_id": "western__kalutara__ds_12__bulathsinhala",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kalutara",
+      "contact_division": "Matugama",
+      "geography_name": "Mathugama",
+      "geography_id": "western__kalutara__ds_30__mathugama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Kalutara",
+      "contact_division": "Walallawita",
+      "geography_name": "Walallavita",
+      "geography_id": "western__kalutara__ds_39__walallavita",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Gampaha",
+      "contact_division": "Aththanagalla",
+      "geography_name": "Attanagalla",
+      "geography_id": "western__gampaha__ds_27__attanagalla",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Gampaha",
+      "contact_division": "Negambo",
+      "geography_name": "Negombo",
+      "geography_id": "western__gampaha__ds_3__negombo",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "approved_manual_review",
+      "contact_district": "Gampaha",
+      "contact_division": "Merigama",
+      "geography_name": "Mirigama",
+      "geography_id": "western__gampaha__ds_12__mirigama",
+      "notes": "Same Divisional Secretariat after spelling, transliteration, locality qualifier, or legacy-name normalization within the same district.",
+      "source_url": "https://www.statistics.gov.lk/qlink/AdminDivCode"
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Kothmale West",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_2__kothmale_west",
+      "geography_name": "Kothmale West",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0718471454"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Kothmale East",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_3__kothmale_east",
+      "geography_name": "Kothmale East",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA explicitly labels this office 'Kothmale East (Kothmale)', resolving the older RTI label 'Kotmale'. Last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0718408733"
+        ],
+        "telephone": [
+          "0522259545"
+        ],
+        "fax": [
+          "0522259038"
+        ],
+        "email": [
+          "dsokotmale@gmail.com"
+        ]
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Hanguranketha",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_6__hanguranketha",
+      "geography_name": "Hanguranketha",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0718011854",
+          "0765425318"
+        ],
+        "telephone": [
+          "0812369929"
+        ],
+        "fax": [
+          "0812369488"
+        ],
+        "email": [
+          "info@hanguranketha.gov.lk"
+        ]
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Mathurata",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_7__mathurata",
+      "geography_name": "Mathurata",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0707492105"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Nildandahinna",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_10__nildandahinna",
+      "geography_name": "Nildandahinna",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0702032277"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Thalawakelle",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_13__thalawakelle",
+      "geography_name": "Thalawakelle",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet lists the post as vacant and acting by the Norwood Divisional Secretary. Last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0770850476"
+        ],
+        "telephone": [],
+        "fax": [],
+        "email": []
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Norwood",
+      "contact_district": "Nuwara Eliya",
+      "geography_id": "central__nuwara_eliya__ds_14__norwood",
+      "geography_name": "Norwood",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/6_Nuwara_Eliya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0770850476"
+        ],
+        "telephone": [
+          "0522222233"
+        ],
+        "fax": [],
+        "email": []
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Trincomalee Town and Gravets",
+      "contact_district": "Trincomalee",
+      "geography_id": "eastern__trincomalee__ds_15__trincomalee_town_and_gravets",
+      "geography_name": "Trincomalee Town and Gravets",
+      "source_url": "https://www.moha.gov.lk/web/images/pdf/contact_details/DS_ADS_Contacts_2024.pdf",
+      "source_note": "MOHA official DS/ADS contact list (2024).",
+      "contact": {
+        "mobile": [
+          "0776402326"
+        ],
+        "telephone": [
+          "0262225941"
+        ],
+        "fax": [
+          "0262222839",
+          "0262222313"
+        ],
+        "email": []
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Maspotha",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_51__maspotha",
+      "geography_name": "Maspotha",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/18_Kurunegala_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0778466973"
+        ],
+        "telephone": [
+          "0372236581"
+        ],
+        "fax": [
+          "0372236581"
+        ],
+        "email": [
+          "moha.divi.maspotha@gmail.com"
+        ]
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Kuliyapitiya West",
+      "contact_district": "Kurunegala",
+      "geography_id": "north_western__kurunegala__ds_72__kuliyapitiya_west",
+      "geography_name": "Kuliyapitiya West",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/18_Kurunegala_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0716826950"
+        ],
+        "telephone": [
+          "0372281881"
+        ],
+        "fax": [
+          "0372281083"
+        ],
+        "email": [
+          "moha.divi.kuliyapitiyawest@gmail.com"
+        ]
+      }
+    },
+    {
+      "status": "supplemental_official_source",
+      "contact_division": "Vavuniya North",
+      "contact_district": "Vavuniya",
+      "geography_id": "northern__vavuniya__ds_3__vavuniya_north",
+      "geography_name": "Vavuniya North",
+      "source_url": "https://www.moha.gov.lk/web/images/institution/12_Vavuniya_District.pdf",
+      "source_note": "MOHA district contact sheet, last updated 2025-10-08.",
+      "contact": {
+        "mobile": [
+          "0717279664"
+        ],
+        "telephone": [
+          "0242053020"
+        ],
+        "fax": [
+          "0242053010"
+        ],
+        "email": [
+          "dsvavnorth@gmail.com"
+        ]
+      }
+    }
+  ],
+  "unresolved": []
+}

@@ -1,0 +1,121 @@
+text,label,language
+There's a huge pothole on the main road near the temple,road_issue,en
+The road to our village has been broken for months,road_issue,en
+Road surface washed away after rain near the junction,road_issue,en
+අපේ ගමේ පාරේ තාර ගැලවිලා ලොකු වළවල් හැදිලා,road_issue,si
+පාර කැඩිලා වාහන යන්න බෑ,road_issue,si
+school ekata yana para godak narakai wala pirila,road_issue,singlish
+highway eke road eka crack wela,road_issue,singlish
+culvert eka kadila para gilila,road_issue,singlish
+para hadanna kiyala kiyanna kohetada,road_issue,singlish
+எங்கள் வீதியில் பெரிய குழிகள் உள்ளன,road_issue,ta
+We haven't had tap water since yesterday morning,water_issue,en
+The water coming from the tap is muddy and smells,water_issue,en
+Low water pressure every evening in our housing scheme,water_issue,en
+අපේ ප්‍රදේශයට දවස් තුනක් වතුර නෑ,water_issue,si
+ප්‍රධාන ජල නලය පුපුරලා පාරේ වතුර යනවා,water_issue,si
+water bill eka godak wadi wela awe,water_issue,singlish
+pipe line eka leak wela wathura nasthi wenawa,water_issue,singlish
+kale wathura pressure eka na,water_issue,singlish
+wathura enne raathriyata witharai,water_issue,singlish
+எங்கள் வீட்டுக்கு மூன்று நாட்களாக தண்ணீர் வரவில்லை,water_issue,ta
+Power has been out in our lane since 6pm,electricity_issue,en
+The electricity meter is showing wrong readings,electricity_issue,en
+Sparks coming from the power line near our house,electricity_issue,en
+රෑ හතේ ඉඳන් ගෙදර කරන්ට් නෑ,electricity_issue,si
+විදුලි කණුවක් වැටිලා වයර් පාරේ තියෙනවා,electricity_issue,si
+transformer eka pupurala current na,electricity_issue,singlish
+voltage eka adu nisa fridge eka wada na,electricity_issue,singlish
+light bill eka wadi wela,electricity_issue,singlish
+current eka nithara nithara yanawa,electricity_issue,singlish
+எங்கள் பகுதியில் மின்சாரம் இல்லை,electricity_issue,ta
+Garbage hasn't been collected in our street for two weeks,garbage_collection,en
+The council truck skips our road every week,garbage_collection,en
+Rubbish is piling up near the bus stand and stinks,garbage_collection,en
+කුණු ලොරිය සති දෙකකින් ආවේ නෑ,garbage_collection,si
+පාර අයිනේ කුණු ගොඩ ගැහිලා ගඳයි,garbage_collection,si
+kunu aran yanne na dawas dahayak,garbage_collection,singlish
+kunu bucket eka pirila balu enawa,garbage_collection,singlish
+garbage truck eka enne na ape para dige,garbage_collection,singlish
+kunu ekathu karana wahanaya masayakin awe na,garbage_collection,singlish
+குப்பை சேகரிக்கும் வண்டி வரவில்லை,garbage_collection,ta
+The bus driver was driving dangerously and overtaking on bends,bus_complaint,en
+Conductor charged me more than the fare,bus_complaint,en
+The bus didn't stop at the halt even though I signalled,bus_complaint,en
+බස් එකේ කොන්දොස්තර ඉතුරු සල්ලි දුන්නේ නෑ,bus_complaint,si
+බස් රියදුරු ගොඩක් වේගයෙන් බස් එක එළෙව්වා,bus_complaint,si
+bus eka passengers pirila dora arala duwanawa,bus_complaint,singlish
+private bus eke music godak sadda,bus_complaint,singlish
+SLTB bus eka hamadama late,bus_complaint,singlish
+bus eke ticket eka illuwama conductor baninawa,bus_complaint,singlish
+பேருந்து நடத்துனர் மீதி பணம் தரவில்லை,bus_complaint,ta
+The shop refused to replace a phone that broke in a week,consumer_complaint,en
+Supermarket sold me expired milk,consumer_complaint,en
+The pharmacy is selling medicine above the maximum retail price,consumer_complaint,en
+කඩේ මිල දර්ශනය කරලා නෑ වැඩිපුර ගත්තා,consumer_complaint,si
+අලුතින් ගත්ත fan එක දවසින් කැඩුණා කඩේ මාරු කරන්නේ නෑ,consumer_complaint,si
+online order eka awe na salli gaththa,consumer_complaint,singlish
+gas cylinder ekata wadi ganak gaththa,consumer_complaint,singlish
+warranty eka thiyeddi repair karanne na,consumer_complaint,singlish
+hardware eken gatta cement eka bara adui,consumer_complaint,singlish
+கடையில் காலாவதியான பொருள் விற்றார்கள்,consumer_complaint,ta
+A factory is dumping waste into the canal,environment_issue,en
+Someone is cutting trees illegally in the forest reserve,environment_issue,en
+Loud noise from a quarry blasting every morning,environment_issue,en
+ළඟ කම්හලෙන් කළු දුම එනවා,environment_issue,si
+ඇළට කම්හලේ අපජලය බෝ කරනවා,environment_issue,si
+sand mining karanawa ganga langa nithara,environment_issue,singlish
+karmanthashalawe sadda nisa nidaganna ba,environment_issue,singlish
+kele gas kapanawa license nathuwa,environment_issue,singlish
+hospital waste para ayine damala,environment_issue,singlish
+தொழிற்சாலை புகை காற்றை மாசுபடுத்துகிறது,environment_issue,ta
+My passport application is delayed for two months,immigration_issue,en
+How do I extend my tourist visa,immigration_issue,en
+Need an emergency passport to travel abroad next week,immigration_issue,en
+ගමන් බලපත්‍රය අලුත් කරන්න කොහෙද යන්න ඕන,immigration_issue,si
+වීසා එක ඉවර වෙන්න කිට්ටුයි,immigration_issue,si
+passport ekata online apply kale thama awe na,immigration_issue,singlish
+visa eka reject una,immigration_issue,singlish
+dual citizenship apply karanne kohomada,immigration_issue,singlish
+passport eke nama waradi,immigration_issue,singlish
+கடவுச்சீட்டு விண்ணப்பம் தாமதமாகிறது,immigration_issue,ta
+I lost my national identity card on the train,lost_document,en
+My driving licence was stolen with my wallet,lost_document,en
+My passport went missing at the airport,lost_document,en
+මගේ හැඳුනුම්පත නැති වුණා,lost_document,si
+රියදුරු බලපත්‍රය හොයාගන්න බෑ,lost_document,si
+mage NIC eka nathi una bus eke,lost_document,singlish
+license eka nathi wela,lost_document,singlish
+id eka horakam kala,lost_document,singlish
+birth certificate eka nathi wela,lost_document,singlish
+எனது அடையாள அட்டை தொலைந்துவிட்டது,lost_document,ta
+A man keeps following me when I walk home from work,women_child_safety,en
+My neighbour beats his children every night,women_child_safety,en
+Someone is sending me threatening messages online,women_child_safety,en
+බස් එකේ කෙනෙක් හිරිහැර කළා,women_child_safety,si
+ළමයෙක්ව වැඩට යොදවනවා,women_child_safety,si
+office eke boss harassment karanawa,women_child_safety,singlish
+kenek mata nithara call karala bayanawa,women_child_safety,singlish
+lamayata gedara aya gahanawa,women_child_safety,singlish
+husband gahanawa gedara inna bayai,women_child_safety,singlish
+ஒருவர் என்னைப் பின்தொடர்கிறார்,women_child_safety,ta
+The river is rising fast is there a flood warning,disaster_alert,en
+Cracks appeared on the hill behind our house after rain,disaster_alert,en
+Is there a landslide risk in Badulla today,disaster_alert,en
+ගඟ පිටාර ගලනවා ගංවතුර එයිද,disaster_alert,si
+පිටිපස්සේ කන්දේ පස් කඩාගෙන වැටෙනවා,disaster_alert,si
+wathura gahala gedara yata wela,disaster_alert,singlish
+kanda naya yanna hadanawa wage,disaster_alert,singlish
+ganga us wela para wahila,disaster_alert,singlish
+heavy rain nisa gewal walata wathura enawa,disaster_alert,singlish
+வெள்ள எச்சரிக்கை உள்ளதா,disaster_alert,ta
+Which office handles birth certificate corrections,unknown_government_issue,en
+Where do I complain about a corrupt officer,unknown_government_issue,en
+Who do I contact about a stray dog problem,unknown_government_issue,en
+මට පෙන්ෂන් එක ලැබෙන්නේ නෑ කාට කියන්නද,unknown_government_issue,si
+ඉඩම් ඔප්පුවක් ගැන ප්‍රශ්නයක් තියෙනවා,unknown_government_issue,si
+samurdhi eka nawaththuwa kohetada yanne,unknown_government_issue,singlish
+grama niladhari enne na office ekata,unknown_government_issue,singlish
+school admission eka gana complain karanne kohetada,unknown_government_issue,singlish
+land deed eka gana issue ekak,unknown_government_issue,singlish
+ஓய்வூதியம் கிடைக்கவில்லை எங்கே முறையிடுவது,unknown_government_issue,ta

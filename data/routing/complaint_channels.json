@@ -1,0 +1,277 @@
+{
+  "dataset": "Yomu AI verified complaint channels - Step 3B starter",
+  "verified_at": "2026-10-05",
+  "records": {
+    "nwsdb": {
+      "authority_name": "National Water Supply and Drainage Board",
+      "authority_type": "national_utility",
+      "handles": [
+        "water_leak",
+        "water_interruption",
+        "water_supply",
+        "water_breakdown"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1939",
+          "purpose": "Customer care / complaints / breakdowns / interruptions / water leaks"
+        },
+        {
+          "type": "email",
+          "value": "support@waterboard.lk",
+          "purpose": "Customer support"
+        },
+        {
+          "type": "website",
+          "value": "https://www.waterboard.lk/",
+          "purpose": "Official customer service zone"
+        }
+      ],
+      "source_urls": [
+        "https://www.waterboard.lk/about-us/",
+        "https://www.waterboard.lk/"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "ceb": {
+      "authority_name": "Ceylon Electricity Board",
+      "authority_type": "electricity_provider",
+      "handles": [
+        "power_failure",
+        "electricity_complaint",
+        "billing_issue",
+        "electricity_service_issue"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1987",
+          "purpose": "24/7 electricity-related needs"
+        },
+        {
+          "type": "portal",
+          "value": "https://www.ceb.lk/complaints/",
+          "purpose": "Online complaint submission"
+        }
+      ],
+      "source_urls": [
+        "https://www.ceb.lk/contactus/null",
+        "https://www.ceb.lk/complaints/"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "leco": {
+      "authority_name": "Lanka Electricity Company (Private) Limited",
+      "authority_type": "electricity_provider",
+      "handles": [
+        "power_failure",
+        "electricity_complaint",
+        "billing_issue",
+        "electricity_service_issue"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1910",
+          "purpose": "LECO call center"
+        },
+        {
+          "type": "phone",
+          "value": "+94 112 425009",
+          "purpose": "LECO call center"
+        }
+      ],
+      "source_urls": [
+        "https://ipg.leco.lk/"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "rda": {
+      "authority_name": "Road Development Authority",
+      "authority_type": "national_road_authority",
+      "handles": [
+        "national_road_issue",
+        "national_road_pothole",
+        "national_highway_inquiry"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1968",
+          "purpose": "RDA Information Centre"
+        },
+        {
+          "type": "email",
+          "value": "1968@rda.gov.lk",
+          "purpose": "RDA Information Centre"
+        },
+        {
+          "type": "portal",
+          "value": "https://rda.gov.lk/index.php?Itemid=160&lang=en&option=com_inquiries&view=inquiry",
+          "purpose": "Official RDA inquiry submission"
+        }
+      ],
+      "source_urls": [
+        "https://rda.gov.lk/index.php?Itemid=194&id=109&lang=en&option=com_content&view=article",
+        "https://rda.gov.lk/index.php?Itemid=160&lang=en&option=com_inquiries&view=inquiry"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "ntc": {
+      "authority_name": "National Transport Commission",
+      "authority_type": "public_transport_authority",
+      "handles": [
+        "bus_complaint",
+        "ticket_issue",
+        "bus_service_issue",
+        "route_issue"
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "value": "https://cms.ntc.gov.lk/complaint",
+          "purpose": "Official NTC complaint management portal"
+        }
+      ],
+      "source_urls": [
+        "https://cms.ntc.gov.lk/complaint"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "caa": {
+      "authority_name": "Consumer Affairs Authority",
+      "authority_type": "consumer_protection_authority",
+      "handles": [
+        "consumer_complaint",
+        "warranty_issue",
+        "unfair_trade",
+        "product_service_complaint"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1977",
+          "purpose": "Consumer Affairs Authority hotline"
+        },
+        {
+          "type": "phone",
+          "value": "011-7755481-2-3",
+          "purpose": "Consumer Complaint Unit"
+        },
+        {
+          "type": "postal_address",
+          "value": "Director General, Consumer Affairs Authority, No. 27, Vauxhall Street, Colombo 02",
+          "purpose": "Written consumer complaints"
+        }
+      ],
+      "source_urls": [
+        "https://caa.gov.lk/web/index.php?Itemid=563&id=114&lang=en&option=com_content&view=article",
+        "https://www.caa.gov.lk/web/index.php?Itemid=504&lang=en"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "cea": {
+      "authority_name": "Central Environmental Authority",
+      "authority_type": "environmental_authority",
+      "handles": [
+        "industrial_pollution",
+        "hazardous_waste",
+        "noise_pollution",
+        "environmental_damage",
+        "development_project_environmental_issue"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1981",
+          "purpose": "Environmental complaints hotline"
+        },
+        {
+          "type": "website",
+          "value": "https://www.cea.lk/",
+          "purpose": "Official website / complaint submission"
+        }
+      ],
+      "source_urls": [
+        "https://cea.lk/web/en/2013-05-07-07-51-07/environmental-management-and-assessment-division/14-services-home/59-public-complaints-related-to-environment"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "immigration": {
+      "authority_name": "Department of Immigration and Emigration",
+      "authority_type": "national_department",
+      "handles": [
+        "passport_issue",
+        "passport_delay",
+        "visa_issue",
+        "immigration_service_issue"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1962",
+          "purpose": "General information and service inquiries"
+        },
+        {
+          "type": "phone",
+          "value": "0112777634",
+          "purpose": "Passport delay inquiries"
+        },
+        {
+          "type": "phone",
+          "value": "0112101540 / 0112101545",
+          "purpose": "Visa inquiries"
+        },
+        {
+          "type": "phone",
+          "value": "0112101520",
+          "purpose": "Other passport-related matters / internal affairs contact"
+        },
+        {
+          "type": "whatsapp",
+          "value": "+94 706585665",
+          "purpose": "Internal Affairs Unit messages only"
+        },
+        {
+          "type": "email",
+          "value": "controller@immigration.gov.lk",
+          "purpose": "General contact"
+        }
+      ],
+      "source_urls": [
+        "https://www.immigration.gov.lk/pages_e.php?id=32"
+      ],
+      "verified_at": "2026-10-05"
+    },
+    "gic": {
+      "authority_name": "Government Information Centre",
+      "authority_type": "government_information_gateway",
+      "handles": [
+        "unknown_government_service",
+        "general_government_information"
+      ],
+      "channels": [
+        {
+          "type": "hotline",
+          "value": "1919",
+          "purpose": "Government information and support"
+        },
+        {
+          "type": "email",
+          "value": "info@gic.gov.lk",
+          "purpose": "General inquiries"
+        },
+        {
+          "type": "website",
+          "value": "https://gic.gov.lk/",
+          "purpose": "Government service information"
+        }
+      ],
+      "source_urls": [
+        "https://gic.gov.lk/"
+      ],
+      "verified_at": "2026-10-05"
+    }
+  }
+}

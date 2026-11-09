@@ -1,0 +1,30 @@
+{
+  "office_id": "kandy_kundasale",
+  "office_name": "Kundasale Divisional Secretariat",
+  "office_type": "divisional_secretariat",
+  "district": "Kandy",
+  "province": "Central Province",
+  "jurisdiction_ref": "kandy_kundasale",
+  "contacts": {
+    "main_office": {
+      "phone": [],
+      "email": [],
+      "address": [],
+      "website": null,
+      "source_url": null,
+      "verified_at": null
+    },
+    "rti_directory": {
+      "phone": [],
+      "email": [],
+      "address": [],
+      "source_url": "https://rti.gov.lk/io-list/",
+      "verified_at": null
+    },
+    "complaint_channels": []
+  },
+  "routing_policy": {
+    "may_use_rti_as_default_complaint_channel": false,
+    "requires_issue_specific_route": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "dataset": "HariMaga electricity provider complaint channel patch v1",
+  "verified_on": "2026-10-05",
+  "records": [
+    {
+      "authority_key": "ceb",
+      "authority_name": "Ceylon Electricity Board",
+      "aliases": [
+        "CEB",
+        "Ceylon Electricity Board",
+        "Ceylon Electricity Board (CEB)"
+      ],
+      "issue_key": "electricity_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "electricity_complaints_breakdowns_and_outages",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "CEB 24/7 call center",
+          "value": "1987"
+        },
+        {
+          "type": "online_complaint",
+          "label": "CEB online complaint portal",
+          "value": "https://www.ceb.lk/complaints/"
+        },
+        {
+          "type": "outage_information",
+          "label": "CEB power interruption page",
+          "value": "https://www.ceb.lk/power-interruption/en"
+        },
+        {
+          "type": "customer_portal",
+          "label": "CEBCare web portal",
+          "value": "https://pay.ceb.lk/Incognito/Home"
+        }
+      ],
+      "guidance": "CEB's current official contact page lists 1987 as its call center for all electricity-related needs, operating 24 hours a day, seven days a week. CEB also provides an official online complaint form and power-interruption page.",
+      "source_urls": [
+        "https://ceb.lk/contactus/en",
+        "https://www.ceb.lk/complaints/",
+        "https://www.ceb.lk/power-interruption/en",
+        "https://pay.ceb.lk/Incognito/Home"
+      ]
+    },
+    {
+      "authority_key": "leco",
+      "authority_name": "Lanka Electricity Company",
+      "aliases": [
+        "LECO",
+        "Lanka Electricity Company",
+        "Lanka Electricity Company (Private) Limited",
+        "Lanka Electricity Company (Pvt) Ltd"
+      ],
+      "issue_key": "electricity_issue",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "electricity_customer_service_and_outage_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "LECO call center",
+          "value": "1910"
+        },
+        {
+          "type": "telephone",
+          "label": "LECO call center alternate number",
+          "value": "+94 112 425009"
+        }
+      ],
+      "guidance": "LECO's current official InstantPay service identifies its customer call center as 1910 or +94 112 425009. HariMaga should expose these only after the user confirms LECO is the electricity provider.",
+      "source_urls": [
+        "https://ipg.leco.lk/"
+      ]
+    }
+  ]
+}

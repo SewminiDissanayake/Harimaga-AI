@@ -1,0 +1,98 @@
+{
+  "dataset": "Yomu AI complaint routing rules - Step 3B starter",
+  "rules": {
+    "water_issue": {
+      "clarify": [
+        "service_provider_or_scheme",
+        "location"
+      ],
+      "routes": {
+        "nwsdb": "nwsdb",
+        "unknown": "ask_provider"
+      }
+    },
+    "electricity_issue": {
+      "clarify": [
+        "electricity_provider",
+        "account_number_if_available"
+      ],
+      "routes": {
+        "ceb": "ceb",
+        "leco": "leco",
+        "unknown": "ask_provider"
+      }
+    },
+    "road_issue": {
+      "clarify": [
+        "location",
+        "road_type_or_class"
+      ],
+      "routes": {
+        "national_or_rda_road": "rda",
+        "local_road": "local_authority_from_geography",
+        "unknown": "ask_road_type"
+      }
+    },
+    "garbage_collection": {
+      "clarify": [
+        "location"
+      ],
+      "routes": {
+        "default": "local_authority_from_geography"
+      }
+    },
+    "bus_complaint": {
+      "clarify": [
+        "bus_number",
+        "route",
+        "date_time",
+        "incident_type"
+      ],
+      "routes": {
+        "default": "ntc"
+      }
+    },
+    "consumer_complaint": {
+      "clarify": [
+        "business_name",
+        "product_or_service",
+        "purchase_date",
+        "evidence_available"
+      ],
+      "routes": {
+        "default": "caa"
+      }
+    },
+    "environment_issue": {
+      "clarify": [
+        "location",
+        "issue_type"
+      ],
+      "routes": {
+        "industrial_pollution": "cea",
+        "hazardous_waste": "cea",
+        "noise_pollution": "cea",
+        "development_project_environmental_issue": "cea",
+        "routine_garbage_collection": "local_authority_from_geography",
+        "unknown": "ask_environment_issue_type"
+      }
+    },
+    "immigration_issue": {
+      "clarify": [
+        "issue_type"
+      ],
+      "routes": {
+        "passport_delay": "immigration",
+        "passport_issue": "immigration",
+        "visa_issue": "immigration",
+        "general": "immigration"
+      }
+    },
+    "unknown_government_issue": {
+      "clarify": [],
+      "routes": {
+        "default": "gic"
+      }
+    }
+  }
+}

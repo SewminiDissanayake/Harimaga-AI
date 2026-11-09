@@ -1,0 +1,80 @@
+{
+  "dataset": "HariMaga disaster alert routing v1",
+  "verified_on": "2026-10-05",
+  "policy": {
+    "no_static_inference": "HariMaga must not infer that a district is currently under a flood or landslide warning from static rules. Current status must come from an official live warning.",
+    "emergency": "If life is in immediate danger, use emergency services and follow evacuation/safety instructions from official authorities."
+  },
+  "common_contacts": {
+    "dmc_call_center": {
+      "label": "Disaster Management Centre Call Center",
+      "phone": "117",
+      "availability": "24/7",
+      "source_url": "https://www.dmc.gov.lk/index.php?Itemid=226&catid=26&id=61%3Acall-centre&lang=en&option=com_content&view=article"
+    },
+    "dmc_eoc": {
+      "label": "DMC Emergency Operation Centre",
+      "phone": "+94 112 136 222",
+      "email": "eoc@dmc.gov.lk",
+      "source_url": "https://www.dmc.gov.lk/index.php?id=1&lang=en&option=com_contact&view=contact"
+    }
+  },
+  "alert_types": {
+    "flood_alert": {
+      "label": "Flood warning / flood risk",
+      "technical_authority": "Irrigation Department - Hydrology & Disaster Management Division",
+      "live_sources": [
+        {
+          "label": "Irrigation Department official Flood Warning page",
+          "url": "https://irrigation.gov.lk/web/index.php?Itemid=260&id=35&lang=en&layout=blog&option=com_content&view=category"
+        },
+        {
+          "label": "DMC official Flood Warning page",
+          "url": "https://www.dmc.gov.lk/index.php?Itemid=279&lang=en&option=com_dmcreports&report_type_id=8&view=reports"
+        }
+      ],
+      "contacts": [
+        {
+          "label": "Irrigation Hydrology & Disaster Management Unit",
+          "phone": "0112505488 / 0112590145"
+        }
+      ],
+      "required_information": [
+        "district",
+        "town_or_ds_area",
+        "nearby_river_or_water_body_if_known",
+        "current_water_level_or_road_condition",
+        "people_trapped_or_immediate_danger_yes_or_no"
+      ]
+    },
+    "landslide_alert": {
+      "label": "Landslide warning / slope-failure risk",
+      "technical_authority": "NBRO/NBRI Landslide Early Warning system",
+      "live_sources": [
+        {
+          "label": "DMC official Landslide Warning page (NBRO/NBRI reports)",
+          "url": "https://www.dmc.gov.lk/index.php?Itemid=276&lang=en&option=com_dmcreports&report_type_id=5&view=reports"
+        },
+        {
+          "label": "NBRO/NBRI official site",
+          "url": "https://www.nbro.gov.lk/"
+        }
+      ],
+      "contacts": [
+        {
+          "label": "NBRO/NBRI general contact",
+          "phone": "+94 112 588 946",
+          "email": "info@nbro.gov.lk"
+        }
+      ],
+      "required_information": [
+        "district",
+        "town_or_ds_area",
+        "slope_or_hillside_location",
+        "signs_seen_such_as_cracks_rockfall_or_ground_movement",
+        "recent_heavy_rain_yes_or_no",
+        "people_at_immediate_risk_yes_or_no"
+      ]
+    }
+  }
+}

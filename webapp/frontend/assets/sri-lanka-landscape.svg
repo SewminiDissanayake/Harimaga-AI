@@ -1,0 +1,66 @@
+<svg width="1600" height="260" viewBox="0 0 1600 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#DDF4FF"/>
+    <stop offset=".65" stop-color="#F5FBF5"/>
+    <stop offset="1" stop-color="#FFF5D9"/>
+  </linearGradient>
+  <linearGradient id="hill" x1="0" y1="90" x2="0" y2="240" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#9AD8B0"/>
+    <stop offset="1" stop-color="#3C956B"/>
+  </linearGradient>
+  <linearGradient id="sea" x1="0" y1="190" x2="0" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#9EDDF5"/>
+    <stop offset="1" stop-color="#62B8DF"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="260" rx="28" fill="url(#sky)"/>
+<circle cx="1315" cy="53" r="30" fill="#F8D475" opacity=".85"/>
+<path d="M0 177C139 142 209 158 321 144C438 129 505 84 614 97C713 109 747 147 860 143C981 139 1040 94 1150 105C1254 115 1301 155 1600 139V260H0V177Z" fill="#CFEACF"/>
+<path d="M0 196C141 157 260 177 366 156C481 133 547 111 635 123C740 138 770 171 890 162C1015 154 1082 130 1163 136C1294 146 1355 177 1600 160V260H0V196Z" fill="url(#hill)"/>
+<path d="M0 213C231 188 361 210 521 198C728 183 871 207 1019 197C1205 183 1331 207 1600 188V260H0V213Z" fill="url(#sea)"/>
+<path d="M0 229C120 220 227 220 327 231C431 243 521 241 632 230C742 219 841 221 953 234C1068 247 1166 245 1283 232C1383 221 1499 223 1600 232" stroke="#EAF9FF" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+<path d="M0 243C118 234 219 235 326 246C434 257 526 257 640 246C757 235 855 237 963 248C1075 260 1176 258 1293 246C1401 235 1508 236 1600 244" stroke="#D9F5FF" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+
+<!-- Sigiriya-inspired rock -->
+<path d="M1142 119L1158 88H1229L1247 119L1236 139H1153L1142 119Z" fill="#A06F49"/>
+<path d="M1161 86C1166 75 1175 69 1187 69H1212C1222 69 1227 76 1230 86H1161Z" fill="#759F55"/>
+
+<!-- Stupa -->
+<path d="M994 150H1053" stroke="#E8C45D" stroke-width="4" stroke-linecap="round"/>
+<path d="M1007 150C1007 132 1019 119 1024 116C1031 121 1041 133 1041 150H1007Z" fill="#FFFDF8" stroke="#D8CFAF" stroke-width="2"/>
+<path d="M1024 116V103" stroke="#D39E30" stroke-width="3"/>
+<path d="M1019 103H1029" stroke="#D39E30" stroke-width="3"/>
+
+<!-- Palm left -->
+<path d="M127 174C132 137 139 113 144 88" stroke="#6D5835" stroke-width="6" stroke-linecap="round"/>
+<path d="M143 89C121 82 105 87 91 98C111 94 126 98 143 104" fill="#3D8E59"/>
+<path d="M143 89C159 72 176 67 193 73C173 78 160 91 148 104" fill="#3D8E59"/>
+<path d="M144 88C139 70 146 54 159 44C153 63 154 77 150 95" fill="#4DA66B"/>
+<path d="M142 90C124 69 109 65 91 69C111 77 126 90 140 105" fill="#55AD70"/>
+
+<!-- Palm right -->
+<path d="M1454 177C1448 146 1441 119 1437 92" stroke="#6D5835" stroke-width="6" stroke-linecap="round"/>
+<path d="M1437 93C1417 78 1398 79 1383 87C1402 87 1418 95 1435 106" fill="#428F5E"/>
+<path d="M1438 92C1458 74 1477 73 1492 82C1472 83 1455 93 1440 108" fill="#4DA66B"/>
+
+<!-- Train -->
+<g transform="translate(250 174)">
+  <path d="M0 25H242" stroke="#70563D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M14 8H195C207 8 214 14 219 24H2C4 16 7 12 14 8Z" fill="#F8F6E8" stroke="#285C63" stroke-width="3"/>
+  <rect x="20" y="12" width="24" height="8" rx="2" fill="#74B5D4"/>
+  <rect x="51" y="12" width="24" height="8" rx="2" fill="#74B5D4"/>
+  <rect x="82" y="12" width="24" height="8" rx="2" fill="#74B5D4"/>
+  <rect x="113" y="12" width="24" height="8" rx="2" fill="#74B5D4"/>
+  <rect x="144" y="12" width="24" height="8" rx="2" fill="#74B5D4"/>
+  <rect x="174" y="12" width="22" height="8" rx="2" fill="#74B5D4"/>
+  <path d="M2 24H219" stroke="#8A2D47" stroke-width="5"/>
+  <circle cx="45" cy="28" r="6" fill="#35484A"/>
+  <circle cx="176" cy="28" r="6" fill="#35484A"/>
+</g>
+
+<!-- Decorative road -->
+<path d="M648 211C719 189 780 180 846 179C911 179 961 188 1034 213" stroke="#F5E8C7" stroke-width="25" stroke-linecap="round"/>
+<path d="M648 211C719 189 780 180 846 179C911 179 961 188 1034 213" stroke="#587277" stroke-width="16" stroke-linecap="round"/>
+<path d="M652 210C720 191 781 182 846 181C913 181 963 190 1030 212" stroke="#F8C95D" stroke-width="2.5" stroke-dasharray="15 13" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,47 @@
+{
+  "dataset": "HariMaga bus complaint authority channel patch v1",
+  "verified_on": "2026-10-05",
+  "records": [
+    {
+      "authority_key": "ntc",
+      "authority_name": "National Transport Commission",
+      "aliases": [
+        "NTC",
+        "National Transport Commission",
+        "National Transport Commission Sri Lanka"
+      ],
+      "issue_key": "bus_complaint",
+      "verification_level": "verified_issue_specific_channel",
+      "route_scope": "public_bus_service_and_bus_crew_complaints",
+      "channels": [
+        {
+          "type": "hotline",
+          "label": "NTC public complaints hotline",
+          "value": "1955"
+        },
+        {
+          "type": "complaint_portal",
+          "label": "NTC Complaint Management Portal",
+          "value": "https://cms.ntc.gov.lk/complaint"
+        },
+        {
+          "type": "email",
+          "label": "NTC information/complaints email",
+          "value": "info@ntc.gov.lk"
+        },
+        {
+          "type": "general_complaint_form",
+          "label": "NTC official online complaint form",
+          "value": "https://www.ntc.gov.lk/complaints/complaints.php"
+        }
+      ],
+      "guidance": "NTC's current website lists 1955 as the public complaint hotline and provides a Complaint Management Portal that starts with the bus number. NTC official reports state that inter-provincial complaints are investigated by NTC, intra-provincial complaints are forwarded to the relevant provincial transport authority, and SLTB complaints are forwarded to SLTB Head Office. HariMaga can therefore use NTC as the verified intake route while clearly explaining that the final investigating body depends on the bus/service type.",
+      "source_urls": [
+        "https://www.ntc.gov.lk/",
+        "https://cms.ntc.gov.lk/complaint",
+        "https://www.ntc.gov.lk/corporate/contact_us/contact_head_office.php",
+        "https://www.ntc.gov.lk/complaints/complaints.php"
+      ]
+    }
+  ]
+}
