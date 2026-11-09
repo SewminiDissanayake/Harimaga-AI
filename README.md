@@ -5,6 +5,8 @@
 
 **HariMaga routes Sri Lankan citizens to the right government authority.** Describe a public-service problem in Sinhala, Tamil, English or Singlish. HariMaga works out what kind of problem it is, asks only what it needs (district, provider, road type…), and shows the authority that handles it, with **verified official contacts only**, plus an optional evidence upload and a ready-to-edit complaint draft.
 
+**🌐 Live demo: [harimagaai.pythonanywhere.com](https://harimagaai.pythonanywhere.com)**
+
 ![HariMaga home screen](docs/screenshots/home-desktop.jpg)
 
 | Safety request (emergency banner first) | Complaint draft |
@@ -122,7 +124,9 @@ npm run dev
 
 Open http://localhost:5173. Vite forwards `/api` to Flask on port 5000.
 
-**One-container version (what gets deployed):**
+**Live deployment:** PythonAnywhere free tier, see [docs/deploy_pythonanywhere.md](docs/deploy_pythonanywhere.md).
+
+**One-container version (Docker, for any container host):**
 
 ```bash
 docker build -t harimaga .
